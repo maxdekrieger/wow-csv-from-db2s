@@ -1,0 +1,6 @@
+[submodule "add-new-version/DBC2CSV"]
+	path = add-new-version/DBC2CSV
+	url = git@github.com:Marlamin/DBC2CSV.git
+[submodule "add-new-version/WoWDBDefs"]
+	path = add-new-version/WoWDBDefs
+	url = git@github.com:wowdev/WoWDBDefs.git
