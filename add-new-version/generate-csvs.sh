@@ -59,6 +59,11 @@ if [ ! "$csv_file_count" -eq "0" ]; then
     fi
 fi
 
+# Pull latest versions of submodules
+git submodule update --init --recursive
+git submodule update --remote --merge
+git submodule update --init --recursive
+
 # Build DBC2CSV
 printf "Building DBC2CSV..."
 dbc2csv_build_output=$(dotnet build "$script_dir/DBC2CSV/DBC2CSV.sln")
