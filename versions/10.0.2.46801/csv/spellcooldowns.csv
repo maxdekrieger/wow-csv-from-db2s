@@ -1,4 +1,4 @@
-ID,DifficultyID,CategoryRecoveryTime,RecoveryTime,StartRecoveryTime,BuffSpellID,SpellID
+ID,DifficultyID,CategoryRecoveryTime,RecoveryTime,StartRecoveryTime,AuraSpellID,SpellID
 2,0,0,7500,1500,0,17
 5,0,0,0,1000,0,53
 6,0,300000,0,1500,0,66

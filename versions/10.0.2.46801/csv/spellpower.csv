@@ -1,4 +1,4 @@
-ID,OrderIndex,ManaCost,ManaCostPerLevel,ManaPerSecond,PowerDisplayID,AltPowerBarID,PowerCostPct,PowerCostMaxPct,Field_10_0_2_45969_009,PowerPctPerSecond,PowerType,RequiredAuraSpellID,OptionalCost,SpellID
+ID,OrderIndex,ManaCost,ManaCostPerLevel,ManaPerSecond,PowerDisplayID,AltPowerBarID,PowerCostPct,PowerCostMaxPct,OptionalCostPct,PowerPctPerSecond,PowerType,RequiredAuraSpellID,OptionalCost,SpellID
 1,0,10,0,0,0,0,0,0,0,0,0,0,0,1
 2,0,10,0,0,0,0,0,0,0,0,0,0,0,3
 3,0,10,0,0,0,0,0,0,0,0,0,0,0,4

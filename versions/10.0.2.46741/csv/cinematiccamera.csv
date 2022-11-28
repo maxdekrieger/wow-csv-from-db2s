@@ -1,4 +1,4 @@
-ID,Origin[0],Origin[1],Origin[2],SoundID,OriginFacing,FileDataID,Field_9_1_5_40383_004
+ID,Origin[0],Origin[1],Origin[2],SoundID,OriginFacing,FileDataID,ConversationID
 1,-9282.42,-3329.66,116.341,0,4.60767,116919,0
 2,1658.58,1662.91,141.234,3358,3.14159,116912,16716
 122,10474,813.131,1318.66,3800,3.735,116907,16713

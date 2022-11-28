@@ -1,4 +1,4 @@
-ID,ItemBonusListGroupID,ItemBonusListID,ItemLevelSelectorID,SequenceValue,ItemExtendedCostID,PlayerConditionID,Flags,Field_10_0_0_44999_007
+ID,ItemBonusListGroupID,ItemBonusListID,ItemLevelSelectorID,SequenceValue,ItemExtendedCostID,PlayerConditionID,Flags,ItemLogicalCostGroupID
 1,111,5809,516,1,6617,0,0,0
 2,111,5810,517,2,6659,0,0,0
 3,111,5811,518,3,6587,0,0,0

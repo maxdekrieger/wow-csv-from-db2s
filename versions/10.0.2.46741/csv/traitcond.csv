@@ -1,4 +1,4 @@
-ID,CondType,TraitTreeID,Field_10_0_0_44649_003,Field_10_0_0_44649_004,AchievementID,SpecSetID,TraitNodeGroupID,TraitNodeID,TraitCurrencyID,SpentAmountRequired,Flags,RequiredLevel,FreeSharedStringID,SpendMoreSharedStringID
+ID,CondType,TraitTreeID,GrantedRanks,QuestID,AchievementID,SpecSetID,TraitNodeGroupID,TraitNodeID,TraitCurrencyID,SpentAmountRequired,Flags,RequiredLevel,FreeSharedStringID,SpendMoreSharedStringID
 5281,2,239,1,0,0,0,0,19482,2,20,0,0,0,0
 5282,2,239,1,0,0,0,0,19482,2,15,0,0,0,0
 5283,2,239,1,0,0,0,0,19482,2,10,0,0,0,0

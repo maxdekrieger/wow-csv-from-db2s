@@ -1,4 +1,4 @@
-ID,SequenceSpellID,PlayerConditionID,Field_10_0_0_44999_002,Field_10_0_0_44999_003
+ID,SequenceSpellID,PlayerConditionID,ItemExtendedCostID,ItemLogicalCostGroupID
 1,0,0,0,0
 4,0,0,0,0
 5,0,0,0,0

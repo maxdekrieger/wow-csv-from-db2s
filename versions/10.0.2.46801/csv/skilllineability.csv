@@ -1,4 +1,4 @@
-RaceMask,Field_10_0_0_44795_001_lang,Field_10_0_0_44795_002_lang,ID,SkillLine,Spell,MinSkillLineRank,ClassMask,SupercedesSpell,AcquireMethod,TrivialSkillLineRankHigh,TrivialSkillLineRankLow,Flags,NumSkillUps,UniqueBit,TradeSkillCategoryID,SkillupSkillLineID
+RaceMask,AbilityVerb_lang,AbilityAllVerb_lang,ID,SkillLine,Spell,MinSkillLineRank,ClassMask,SupercedesSpell,AcquireMethod,TrivialSkillLineRankHigh,TrivialSkillLineRankLow,Flags,NumSkillUps,UniqueBit,TradeSkillCategoryID,SkillupSkillLineID
 0,,,246,45,264,1,13,0,2,0,0,0,1,0,0,0
 0,,,248,44,196,1,6767,0,2,0,0,0,1,0,0,0
 0,,,251,46,266,1,13,0,2,0,0,0,1,0,0,0

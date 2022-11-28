@@ -1,4 +1,4 @@
-ID,ItemCreationContext,OrderIndex,PVal,Field_10_0_0_44707_003,Flags,PlayerConditionID,ItemContextPickerID
+ID,ItemCreationContext,OrderIndex,PVal,LabelID,Flags,PlayerConditionID,ItemContextPickerID
 10,17,0,1,0,0,41853,5
 11,1,1,1,0,0,41854,5
 450,17,0,1,0,0,57361,55

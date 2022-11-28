@@ -1,4 +1,4 @@
-Description_lang,ID,SpecID,SpellID,OverridesSpellID,Flags,ActionBarSpellID,PvpTalentCategoryID,LevelRequired,Field_10_0_2_46420_009
+Description_lang,ID,SpecID,SpellID,OverridesSpellID,Flags,ActionBarSpellID,PvpTalentCategoryID,LevelRequired,PlayerConditionID
 ,11,265,199954,0,0,0,2,25,0
 ,12,265,264106,0,0,0,2,45,0
 ,15,265,248855,0,0,0,2,49,103501

@@ -1,4 +1,4 @@
-DisplayName_lang,AlternateVerb_lang,Description_lang,HordeDisplayName_lang,NeutralDisplayName,ID,CategoryID,SpellIconFileID,CanLink,ParentSkillLineID,ParentTierIndex,Flags,SpellBookSpellID,AllianceSharedStringID,HordeSharedStringID
+DisplayName_lang,AlternateVerb_lang,Description_lang,HordeDisplayName_lang,NeutralDisplayName,ID,CategoryID,SpellIconFileID,CanLink,ParentSkillLineID,ParentTierIndex,Flags,SpellBookSpellID,ExpansionNameSharedStringID,HordeExpansionNameSharedStringID
 Swords,,Higher weapon skill increases your chance to hit.,,,43,6,136243,0,0,0,128,0,0,0
 Axes,,Higher weapon skill increases your chance to hit.,,,44,6,136243,0,0,0,128,0,0,0
 Bows,,Higher weapon skill increases your chance to hit.,,,45,6,136243,0,0,0,128,0,0,0

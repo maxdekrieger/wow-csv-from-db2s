@@ -1,4 +1,4 @@
-ID,Name_lang,Description_lang,CategoryID,InventoryIconFileID,SpellWeight,SpellCategory,MaxQty,MaxEarnablePerWeek,Quality,FactionID,ItemGroupSoundsID,XpQuestDifficulty,AwardConditionID,MaxQtyWorldStateID,Field_10_0_2_46091_014,SomeCooldownMilliseconds,Flags[0],Flags[1]
+ID,Name_lang,Description_lang,CategoryID,InventoryIconFileID,SpellWeight,SpellCategory,MaxQty,MaxEarnablePerWeek,Quality,FactionID,ItemGroupSoundsID,XpQuestDifficulty,AwardConditionID,MaxQtyWorldStateID,RechargingAmountPerCycle,RechargingCycleDurationMS,Flags[0],Flags[1]
 1,Currency Token Test Token 4,Text that describes this item can be found here.,1,133792,1,0,0,0,1,0,0,0,0,0,0,0,71682,0
 2,Currency Token Test Token 2,,1,132092,1,2,0,0,1,0,0,0,0,0,0,0,12289,0
 4,Currency Token Test Token 5,,1,133790,4,3,0,0,1,0,0,0,0,0,0,0,0,0

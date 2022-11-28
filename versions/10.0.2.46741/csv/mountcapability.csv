@@ -1,4 +1,4 @@
-ID,Flags,ReqRidingSkill,ReqAreaID,ReqSpellAuraID,ReqSpellKnownID,ModSpellAuraID,ReqMapID,PlayerConditionID,Field_10_0_0_44649_008
+ID,Flags,ReqRidingSkill,ReqAreaID,ReqSpellAuraID,ReqSpellKnownID,ModSpellAuraID,ReqMapID,PlayerConditionID,FlightCapabilityID
 202,29,0,0,0,0,0,-1,0,0
 203,7,0,0,0,0,0,-1,0,0
 204,29,0,0,0,0,0,-1,0,0
