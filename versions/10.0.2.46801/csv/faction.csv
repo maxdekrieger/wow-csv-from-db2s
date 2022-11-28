@@ -15,7 +15,7 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 18,0,0,0,0,Gnoll - Shadowhide,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 19,0,0,0,0,Murloc,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 20,0,0,0,0,"Undead, Scourge",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
-21,-1,0,0,0,Booty Bay,This booming coastal city is run by Baron Revilgaz of the Blackwater Raiders.  Mortal enemies of the Bloodsail Buccaneers and part of the Steamwheedle Cartel.,1,169,0,0,0,0,0,0,0,0,0,0,64,0,0,0,500,0,0,0,42000,0,0,0,1,0,5,7,5
+21,-1,0,0,0,Booty Bay,This booming coastal city is run by Baron Revilgaz of the Blackwater Raiders.  Mortal enemies of the Bloodsail Buccaneers and part of the Steamwheedle Cartel.,1,169,0,0,0,0,0,0,0,0,0,0,64,0,0,0,500,0,0,0,42000,0,0,0,1,0.5,7,5
 22,0,0,0,0,Beast - Spider,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 23,0,0,0,0,Beast - Boar,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 24,0,0,0,0,Worgen,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
@@ -41,14 +41,14 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 44,0,0,0,0,"Dragonflight, Green",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 45,0,0,0,0,Lost Ones,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 46,-1,0,0,0, Blacksmithing - Armorsmithing,,29,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,3000,0,0,0,1,1,5,5
-47,2971747401,-6184943489809468494,2052,0,Ironforge,This Alliance capital is the pride of the Dun Morogh dwarves.  Home to King Magni.,20,469,0,0,0,0,0,0,0,0,0,0,273,6,17,0,3100,-42000,4000,0,42000,-42000,42000,0,1,0,25,4,7
+47,2971747401,-6184943489809468494,2052,0,Ironforge,This Alliance capital is the pride of the Dun Morogh dwarves.  Home to King Magni.,20,469,0,0,0,0,0,0,0,0,0,0,273,6,17,0,3100,-42000,4000,0,42000,-42000,42000,0,1,0.25,4,7
 48,0,0,0,0,Dark Iron Dwarves,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 49,0,0,0,0,"Human, Night Watch",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 50,0,0,0,0,"Dragonflight, Red",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 51,0,0,0,0,Gnoll - Mosshide,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 52,0,0,0,0,"Orc, Fel Dragonmaw",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 53,0,0,0,0,Gnome - Leper,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
-54,2971733005,-6184943489809468494,16448,0,Gnomeregan,"The former denizens of Gnomeregan, now living in New Tinkertown and in league with the Alliance.",18,469,0,0,0,0,0,0,0,0,0,0,273,6,17,0,3100,-42000,4000,0,42000,-42000,42000,0,1,0,25,4,7
+54,2971733005,-6184943489809468494,16448,0,Gnomeregan,"The former denizens of Gnomeregan, now living in New Tinkertown and in league with the Alliance.",18,469,0,0,0,0,0,0,0,0,0,0,273,6,17,0,3100,-42000,4000,0,42000,-42000,42000,0,1,0.25,4,7
 55,0,0,0,0,Leopard,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 56,0,0,0,0,Scarlet Crusade,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 57,0,0,0,0,Gnoll - Rothide,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
@@ -62,20 +62,20 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 65,0,0,0,0,Furbolg,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 66,0,0,0,0,Horde Generic,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 67,-6184943489809468494,6130900294268439629,0,0,Horde,,12,1118,0,0,0,0,0,0,0,0,0,0,25,14,0,0,3500,-42000,0,0,42000,-42000,0,0,0,0,5,5
-68,1308668322,6130900294268439629,16,512,Undercity,"Led by Sylvanas Windrunner, the Forsaken have joined a tenuous alliance with the Horde and established this capital in the vast depths under the Ruins of Lordaeron.",17,67,0,0,0,0,0,0,0,0,0,0,273,6,17,17,500,-42000,4000,3100,42000,-42000,42000,42000,1,0,25,4,7
-69,2971749445,-6184943489809468494,8,0,Darnassus,"This Alliance capital is populated by Night Elves and is located in the Island of Teldrassil.  Ruled by the Priestess of the Moon, Tyrande Whisperwind.",21,469,0,0,0,0,0,0,0,0,0,0,273,6,17,0,3100,-42000,4000,0,42000,-42000,42000,0,1,0,25,4,7
+68,1308668322,6130900294268439629,16,512,Undercity,"Led by Sylvanas Windrunner, the Forsaken have joined a tenuous alliance with the Horde and established this capital in the vast depths under the Ruins of Lordaeron.",17,67,0,0,0,0,0,0,0,0,0,0,273,6,17,17,500,-42000,4000,3100,42000,-42000,42000,42000,1,0.25,4,7
+69,2971749445,-6184943489809468494,8,0,Darnassus,"This Alliance capital is populated by Night Elves and is located in the Island of Teldrassil.  Ruled by the Priestess of the Moon, Tyrande Whisperwind.",21,469,0,0,0,0,0,0,0,0,0,0,273,6,17,0,3100,-42000,4000,0,42000,-42000,42000,0,1,0.25,4,7
 70,-1,0,0,0,Syndicate,A primarily human criminal organization that operates mostly out of the Alterac Mountains and Hillsbrad Foothills.,6,1118,0,0,0,0,0,0,0,0,0,0,2,0,0,0,-10000,0,0,0,0,0,0,0,0,0,5,5
 71,0,0,0,0,Hillsbrad Militia,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
-72,824265804,-6184943489809468494,2147483649,0,Stormwind,"One of the last bastions of human power, this Alliance capital is ruled by the young but wise king, Anduin Wrynn.",19,469,0,0,0,0,0,0,0,0,0,0,273,6,17,0,3100,-42000,4000,0,42000,-42000,42000,0,1,0,25,4,7
+72,824265804,-6184943489809468494,2147483649,0,Stormwind,"One of the last bastions of human power, this Alliance capital is ruled by the young but wise king, Anduin Wrynn.",19,469,0,0,0,0,0,0,0,0,0,0,273,6,17,0,3100,-42000,4000,0,42000,-42000,42000,0,1,0.25,4,7
 73,0,0,0,0,Demon,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 74,0,0,0,0,Elemental,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 75,0,0,0,0,Spirit,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
-76,1308660128,6130900294268439629,8194,528,Orgrimmar,"Founded by Thrall, this Horde capital city is home to many of the proud orc clans of Durotar.",14,67,0,0,0,0,0,0,0,0,0,0,273,6,17,17,3100,-42000,4000,500,42000,-42000,42000,42000,1,0,25,4,7
+76,1308660128,6130900294268439629,8194,528,Orgrimmar,"Founded by Thrall, this Horde capital city is home to many of the proud orc clans of Durotar.",14,67,0,0,0,0,0,0,0,0,0,0,273,6,17,17,3100,-42000,4000,500,42000,-42000,42000,42000,1,0.25,4,7
 77,0,0,0,0,Treasure,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 78,0,0,0,0,Gnoll - Mudsnout,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 79,0,0,0,0,"HIllsbrad, Southshore Mayor",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 80,0,0,0,0,"Dragonflight, Black",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
-81,1174450562,6130900294268439629,528,134217760,Thunder Bluff,"Baine Bloodhoof leads his people, the proud Tauren, from this mighty Horde capital.",16,67,0,0,0,0,0,0,0,0,0,0,273,6,17,17,3100,-42000,500,4000,42000,-42000,42000,42000,1,0,25,4,7
+81,1174450562,6130900294268439629,528,134217760,Thunder Bluff,"Baine Bloodhoof leads his people, the proud Tauren, from this mighty Horde capital.",16,67,0,0,0,0,0,0,0,0,0,0,273,6,17,17,3100,-42000,500,4000,42000,-42000,42000,42000,1,0.25,4,7
 82,0,0,0,0,"Troll, Witherbark",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 83,-1,0,0,0,Leatherworking - Elemental,,23,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,2999,0,0,0,3000,0,0,0,1,1,5,5
 84,0,0,0,0,"Quilboar, Razormane",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
@@ -109,20 +109,20 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 311,0,0,0,0,Titan,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 329,0,0,0,0,Taskmaster Fizzule,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 349,-1,0,0,0,Ravenholdt,This guild of thieves and assassins welcomes only those of extraordinary prowess into its fold.  Sworn rivals of the Syndicate.,5,1118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42000,0,0,0,0,0,5,5
-369,-1,0,0,0,Gadgetzan,"Capital of the Steamwheedle Cartel and home to goblinhood's finest engineers, alchemists and merchants.",7,169,0,0,0,0,0,0,0,0,0,0,64,0,0,0,500,0,0,0,42000,0,0,0,1,0,5,7,5
+369,-1,0,0,0,Gadgetzan,"Capital of the Steamwheedle Cartel and home to goblinhood's finest engineers, alchemists and merchants.",7,169,0,0,0,0,0,0,0,0,0,0,64,0,0,0,500,0,0,0,42000,0,0,0,1,0.5,7,5
 389,0,0,0,0,Gnomeregan Bug,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 409,0,0,0,0,Harpy,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 429,0,0,0,0,Burning Blade,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 449,0,0,0,0,Shadowsilk Poacher,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 450,0,0,0,0,Searing Spider,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 469,6130900294268439629,-6184943489809468494,0,0,Alliance,,11,1118,0,0,0,0,0,0,0,0,0,0,25,14,0,0,3300,-42000,0,0,42000,-42000,0,0,0,0,5,5
-470,-1,0,0,0,Ratchet,"Part of the Steamwheedle Cartel, this goblin city provides a neutral haven for those that wish to trade goods and services in the Barrens.",9,169,0,0,0,0,0,0,0,0,0,0,64,0,0,0,500,0,0,0,42000,0,0,0,1,0,5,7,5
+470,-1,0,0,0,Ratchet,"Part of the Steamwheedle Cartel, this goblin city provides a neutral haven for those that wish to trade goods and services in the Barrens.",9,169,0,0,0,0,0,0,0,0,0,0,64,0,0,0,500,0,0,0,42000,0,0,0,1,0.5,7,5
 489,0,0,0,0,"Goblin, Dark Iron Bar Patron",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 509,6130900294268439629,-6184943489809468494,0,0,The League of Arathor,The League of Arathor seeks to reclaim the lost land of Arathi Basin for their benefactors in Stormwind.,53,891,0,0,0,0,0,0,0,0,0,0,16,2,0,0,0,-42000,0,0,42000,-42000,0,0,0,0,5,5
 510,-6184943489809468494,6130900294268439629,0,0,The Defilers,The Defilers seek to claim Arathi Basin's valuable resources for the Horde.,52,892,0,0,0,0,0,0,0,0,0,0,16,2,0,0,0,-42000,0,0,42000,-42000,0,0,0,0,5,5
 511,0,0,0,0,Giant,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 529,-1,0,0,0,Argent Dawn,An organization focused on protecting Azeroth from the threat of the Scourge.  Strongholds of the Argent Dawn can be found in the Eastern and Western Plaguelands.,13,1118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200,0,0,0,42000,0,0,0,0,0,5,5
-530,234926370,6130900294268439629,528,1073741952,Darkspear Trolls,"This tribe of exiled trolls has joined forces with Thrall and the Horde.  They now call Durotar their home, which they share with their orc allies.",15,67,0,0,0,0,0,0,0,0,0,0,273,6,17,17,3100,-42000,500,4000,42000,-42000,42000,42000,1,0,25,4,7
+530,234926370,6130900294268439629,528,1073741952,Darkspear Trolls,"This tribe of exiled trolls has joined forces with Thrall and the Horde.  They now call Durotar their home, which they share with their orc allies.",15,67,0,0,0,0,0,0,0,0,0,0,273,6,17,17,3100,-42000,500,4000,42000,-42000,42000,42000,1,0.25,4,7
 531,0,0,0,0,"Dragonflight, Bronze",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 532,0,0,0,0,"Dragonflight, Blue",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 549,-1,0,0,0,Leatherworking - Tribal,,24,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,2999,0,0,0,3000,0,0,0,1,1,5,5
@@ -136,7 +136,7 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 574,-1,0,0,0,Caer Darrow,,34,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,42000,0,0,0,1,1,5,5
 575,0,0,0,0,"Furbolg, Uncorrupted",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 576,-1,0,0,0,Timbermaw Hold,"As the last uncorrupted furbolg tribe, the Timbermaw seek to preserve their spiritual ways and end the suffering of their brethren.",35,1118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2900,0,0,0,42000,0,0,0,0,0,5,5
-577,-1,0,0,0,Everlook,This trading post is run by the goblins of the Steamwheedle Cartel and it sits in the crossroads of Winterspring's main trade routes.,28,169,0,0,0,0,0,0,0,0,0,0,64,0,0,0,500,0,0,0,42000,0,0,0,1,0,5,7,5
+577,-1,0,0,0,Everlook,This trading post is run by the goblins of the Steamwheedle Cartel and it sits in the crossroads of Winterspring's main trade routes.,28,169,0,0,0,0,0,0,0,0,0,0,64,0,0,0,500,0,0,0,42000,0,0,0,1,0.5,7,5
 589,-6184943489809468494,6130900294268439629,0,0,Wintersaber Trainers,This small group of reclusive night elves raises and trains wintersabers in the Winterspring area.,27,1118,0,0,0,0,0,0,0,0,0,0,6,0,0,0,-42000,0,0,0,-42000,42000,0,0,0,0,5,5
 609,-1,3416260776,0,0,Cenarion Circle,The druids of Cenarion Circle are guardians of nature and make their home in tranquil Moonglade.,36,1118,0,0,0,0,0,0,7167,1024,0,0,16,16,0,0,0,2000,0,0,42000,42000,0,0,0,0,5,5
 629,0,0,0,0,Shatterspear Trolls,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
@@ -175,7 +175,7 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 893,0,0,0,0,Revantusk Trolls,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 909,-1,0,0,0,Darkmoon Faire,"A carnival that showcases the weird and the extraordinary, located on a mysterious island only accessible for the first week of every month.",50,1118,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,0,5,5
 910,-1,0,0,0,Brood of Nozdormu,The descendants of the Bronze Dragonflight are the guardians of time and care little for the mortal races.,54,1118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-42000,0,0,0,42000,0,0,0,0,0,5,5
-911,1308668322,6130900294268439629,512,16,Silvermoon City,"The capital of Quel'Thalas, home of the blood elves.  Though nearly destroyed by Arthas' attack on the Sunwell, Silvermoon is once again a thriving city.",55,67,0,0,0,0,0,0,0,0,0,0,273,6,17,17,400,-42000,4000,3100,42000,-42000,42000,42000,1,0,25,4,7
+911,1308668322,6130900294268439629,512,16,Silvermoon City,"The capital of Quel'Thalas, home of the blood elves.  Though nearly destroyed by Arthas' attack on the Sunwell, Silvermoon is once again a thriving city.",55,67,0,0,0,0,0,0,0,0,0,0,273,6,17,17,400,-42000,4000,3100,42000,-42000,42000,42000,1,0.25,4,7
 912,0,0,0,0,Might of Kalimdor,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 914,0,0,0,0,"PLAYER, Blood Elf",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 915,0,0,0,0,Armies of C'Thun,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
@@ -192,11 +192,11 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 927,0,0,0,0,"PLAYER, Draenei",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 928,0,0,0,0,Scourge Invaders,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 929,0,0,0,0,Bloodmaul Clan,,-1,469,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-930,2434877517,-6184943489809468494,536871936,0,Exodar,"The naaru vessel that brought the draenei to Azeroth.  Though stranded in the Azuremyst Isles, it acts as a home city for this noble race.",49,469,0,0,0,0,0,0,0,0,0,0,273,6,17,0,3100,-42000,4000,0,42000,-42000,42000,0,1,0,25,4,7
-932,3751934463,536871936,512,0,The Aldor,"An ancient order of draenei priests once run by Velen, the Aldor are currently led by High Priestess Ishanah.  They are servants of the naaru in Shattrath City known as the Sha'tar.  Rivals of the Scryers.",58,936,0,0,0,0,0,0,0,0,0,0,80,80,80,0,0,3500,-3500,0,42000,42000,42000,0,-1,1,1,7,7
+930,2434877517,-6184943489809468494,536871936,0,Exodar,"The naaru vessel that brought the draenei to Azeroth.  Though stranded in the Azuremyst Isles, it acts as a home city for this noble race.",49,469,0,0,0,0,0,0,0,0,0,0,273,6,17,0,3100,-42000,4000,0,42000,-42000,42000,0,1,0.25,4,7
+932,3751934463,536871936,512,0,The Aldor,"An ancient order of draenei priests once run by Velen, the Aldor are currently led by High Priestess Ishanah.  They are servants of the naaru in Shattrath City known as the Sha'tar.  Rivals of the Scryers.",58,936,0,0,0,0,0,0,0,0,0,0,80,80,80,0,0,3500,-3500,0,42000,42000,42000,0,-1.1,1,7,7
 933,-1,0,0,0,The Consortium,"Led by Nexus-Prince Haramad, the Consortium is a loosely affiliated cartel of ethereal smugglers, traders and thieves that has come to Outland to benefit from its riches.",60,980,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,0,7,7
-934,3751934463,536871936,512,0,The Scryers,"Voren'thal the Seer leads the dissident blood elves who've rejected Kael'thas' path to power.  They've joined forces with the naaru of Shattrath City, much to the dismay of the Aldor.",62,936,0,0,0,0,0,0,0,0,0,0,80,80,80,0,0,-3500,3500,0,42000,42000,42000,0,-1,1,1,7,7
-935,-1,0,0,0,The Sha'tar,"The Sha'tar are a group of powerful naaru who rule over a rebuilt Shattrath City.  With the help of the Aldor and the Scryers, they lead the battle against Illidan and the Burning Legion.",39,936,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,5,0,4,3
+934,3751934463,536871936,512,0,The Scryers,"Voren'thal the Seer leads the dissident blood elves who've rejected Kael'thas' path to power.  They've joined forces with the naaru of Shattrath City, much to the dismay of the Aldor.",62,936,0,0,0,0,0,0,0,0,0,0,80,80,80,0,0,-3500,3500,0,42000,42000,42000,0,-1.1,1,7,7
+935,-1,0,0,0,The Sha'tar,"The Sha'tar are a group of powerful naaru who rule over a rebuilt Shattrath City.  With the help of the Aldor and the Scryers, they lead the battle against Illidan and the Burning Legion.",39,936,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0.5,0,4,3
 936,-1,0,0,0,Shattrath City,,59,980,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,42000,0,0,0,0,0,7,7
 937,0,0,0,0,"Troll, Forest",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 938,0,0,0,0,The Omenai,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
@@ -309,7 +309,7 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 1047,0,0,0,0,Tuskarr,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1048,0,0,0,0,UNUSED,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1049,0,0,0,0,"Troll, Amani",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
-1050,6130900294268439629,-6184943489809468494,0,0,Valiance Expedition,"The main armies of the Alliance in Northrend, moving against the Scourge and unified under King Varian Wrynn's command.",74,1037,0,0,0,0,0,0,0,0,0,0,16,6,0,0,0,-42000,0,0,42000,-42000,0,0,0,5,0,5,7,7
+1050,6130900294268439629,-6184943489809468494,0,0,Valiance Expedition,"The main armies of the Alliance in Northrend, moving against the Scourge and unified under King Varian Wrynn's command.",74,1037,0,0,0,0,0,0,0,0,0,0,16,6,0,0,0,-42000,0,0,42000,-42000,0,0,0.5,0.5,7,7
 1051,0,0,0,0,UNUSED,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1052,-6184943489809468494,6130900294268439629,0,0,Horde Expedition,"The combined forces of the Horde in Northrend, spearheaded by the Warsong Offensive.",75,1097,0,0,0,0,0,0,0,0,0,0,152,0,0,0,0,-42000,0,0,42000,-42000,0,0,0,0,5,5
 1053,0,0,0,0,Westguard,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
@@ -323,11 +323,11 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 1061,0,0,0,0,vrykul,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1062,0,0,0,0,Vrykul Gladiator,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1063,0,0,0,0,Valgarde Combatant,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
-1064,-6184943489809468494,6130900294268439629,0,0,The Taunka,These hardy people are cousins of the Tauren and have become valuable scouts for the armies of the Horde as they march northward.,76,1052,0,0,0,0,0,0,0,0,0,0,16,6,0,0,0,-42000,0,0,42000,-42000,0,0,0,5,0,5,7,7
+1064,-6184943489809468494,6130900294268439629,0,0,The Taunka,These hardy people are cousins of the Tauren and have become valuable scouts for the armies of the Horde as they march northward.,76,1052,0,0,0,0,0,0,0,0,0,0,16,6,0,0,0,-42000,0,0,42000,-42000,0,0,0.5,0.5,7,7
 1065,0,0,0,0,"Monster, Zone Force Reaction 1",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1066,0,0,0,0,"Monster, Zone Force Reaction 2",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
-1067,-6184943489809468494,6130900294268439629,0,0,The Hand of Vengeance,The Forsaken tasked by Sylvanas Windrunner with enacting Undercity's vengeance against Arthas by delivering the latest strain of their deadly Plague.,77,1052,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,-42000,0,0,42000,-42000,0,0,0,5,0,5,7,7
-1068,6130900294268439629,-6184943489809468494,0,0,Explorers' League,This organization seeks to find the origin of the dwarven race by collecting Titan artifacts.  Their most recent research has led them to various archeological sites in Northrend.,78,1037,0,0,0,0,0,0,0,0,0,0,16,6,0,0,0,-42000,0,0,42000,-42000,0,0,0,5,0,5,7,7
+1067,-6184943489809468494,6130900294268439629,0,0,The Hand of Vengeance,The Forsaken tasked by Sylvanas Windrunner with enacting Undercity's vengeance against Arthas by delivering the latest strain of their deadly Plague.,77,1052,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,-42000,0,0,42000,-42000,0,0,0.5,0.5,7,7
+1068,6130900294268439629,-6184943489809468494,0,0,Explorers' League,This organization seeks to find the origin of the dwarven race by collecting Titan artifacts.  Their most recent research has led them to various archeological sites in Northrend.,78,1037,0,0,0,0,0,0,0,0,0,0,16,6,0,0,0,-42000,0,0,42000,-42000,0,0,0.5,0.5,7,7
 1069,0,0,0,0,Ram Racing Powerup DND,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1070,0,0,0,0,Ram Racing Trap DND,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1071,0,0,0,0,Craig's Squirrels,A test faction.,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
@@ -343,7 +343,7 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 1081,0,0,0,0,"Object, Force Reaction",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1083,0,0,0,0,REUSE,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1084,0,0,0,0,"Vrykul, Sea",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
-1085,6130900294268439629,-6184943489809468494,0,0,Warsong Offensive,Garrosh Hellscream commands the Horde's main expeditionary forces as they make their way into Northrend to face Arthas and the armies of the Scourge.,81,1052,0,0,0,0,0,0,0,0,0,0,6,16,0,0,-42000,0,0,0,-42000,42000,0,0,0,5,0,5,7,7
+1085,6130900294268439629,-6184943489809468494,0,0,Warsong Offensive,Garrosh Hellscream commands the Horde's main expeditionary forces as they make their way into Northrend to face Arthas and the armies of the Scourge.,81,1052,0,0,0,0,0,0,0,0,0,0,6,16,0,0,-42000,0,0,0,-42000,42000,0,0,0.5,0.5,7,7
 1086,0,0,0,0,Poacher,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1087,0,0,0,0,Holiday Monster,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1088,0,0,0,0,"Furbolg, Redfang",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
@@ -352,7 +352,7 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 1091,-1,0,0,0,The Wyrmrest Accord,"With the Blue Dragonflight's violent upheaval against all mortal users of magic, the remaining dragonflights have banded under the leadership of the Red Dragonflight to combat their wayward kin.",83,1097,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,0,5,5
 1092,0,0,0,0,Azjol-Nerub,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1093,0,0,0,0,REUSE,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
-1094,6130900294268439629,-6184943489809468494,0,0,The Silver Covenant,A militant core of high elves that rejects the admission of blood elves into the Kirin Tor.  They've united under the banner of Vereesa Windrunner and joined the Alliance forces in Northrend.,90,1037,0,0,0,0,0,0,0,0,0,0,16,6,0,0,0,-42000,0,0,42000,-42000,0,0,0,5,0,5,7,7
+1094,6130900294268439629,-6184943489809468494,0,0,The Silver Covenant,A militant core of high elves that rejects the admission of blood elves into the Kirin Tor.  They've united under the banner of Vereesa Windrunner and joined the Alliance forces in Northrend.,90,1037,0,0,0,0,0,0,0,0,0,0,16,6,0,0,0,-42000,0,0,42000,-42000,0,0,0.5,0.5,7,7
 1095,0,0,0,0,Grizzly Hills Trapper,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1096,0,0,0,0,REUSE,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1097,-1,0,0,0,Wrath of the Lich King,,89,0,2,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5
@@ -362,8 +362,8 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 1101,0,0,0,0,Wrathgate Horde,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1102,0,0,0,0,CTF - Flag - Horde,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1103,0,0,0,0,CTF - Flag - Neutral,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
-1104,-1,0,0,0,Frenzyheart Tribe,"Driven from their lands by the Scourge, this fierce tribe of wolvar stumbled upon Sholazar Basin, where they intend to make their new home.  Their aggressive nature has put them at odds with the various gorloc tribes known collectively as the Oracles.",92,1117,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,-2,2,1,7,7
-1105,-1,0,0,0,The Oracles,The gorlocs of Sholazar Basin are a race of reptilian creatures who see themselves as guardians of the titan technology that remains in the zone (though they understand little of it).  They find themselves in an escalating territorial war with the wolvar.,93,1117,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,-2,2,1,7,7
+1104,-1,0,0,0,Frenzyheart Tribe,"Driven from their lands by the Scourge, this fierce tribe of wolvar stumbled upon Sholazar Basin, where they intend to make their new home.  Their aggressive nature has put them at odds with the various gorloc tribes known collectively as the Oracles.",92,1117,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,-2.2,1,7,7
+1105,-1,0,0,0,The Oracles,The gorlocs of Sholazar Basin are a race of reptilian creatures who see themselves as guardians of the titan technology that remains in the zone (though they understand little of it).  They find themselves in an escalating territorial war with the wolvar.,93,1117,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,-2.2,1,7,7
 1106,-1,0,0,0,Argent Crusade,"Led by Tirion Fordring, the Argent Crusade combines the reformed Order of the Silver Hand with the Argent Dawn in one final push against the forces of the Lich King.",94,1097,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,0,5,5
 1107,0,0,0,0,"Troll, Drakkari",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1108,0,0,0,0,CoT Arthas,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
@@ -382,16 +382,16 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 1121,0,0,0,0,Frost Vrykul,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1122,0,0,0,0,Earthen,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1123,0,0,0,0,Monster Referee,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
-1124,-6184943489809468494,6130900294268439629,0,0,The Sunreavers,"Traditionally barred from Dalaran, the Horde has been accepted into the city through the efforts of Archmage Aethas Sunreaver.  His followers have taken up his name and watch over the ward known as Sunreaver's Sanctuary.",98,1052,0,0,0,0,0,0,0,0,0,0,16,6,0,0,0,-42000,0,0,42000,-42000,0,0,0,5,0,5,7,7
+1124,-6184943489809468494,6130900294268439629,0,0,The Sunreavers,"Traditionally barred from Dalaran, the Horde has been accepted into the city through the efforts of Archmage Aethas Sunreaver.  His followers have taken up his name and watch over the ward known as Sunreaver's Sanctuary.",98,1052,0,0,0,0,0,0,0,0,0,0,16,6,0,0,0,-42000,0,0,42000,-42000,0,0,0.5,0.5,7,7
 1125,0,0,0,0,Hyldsmeet,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
-1126,6130900294268439629,-6184943489809468494,0,0,The Frostborn,This mysterious race of frost dwarves makes their home in the Storm Peaks.  They've recently befriended members of the Explorers' League and welcome Alliance members within their settlements.,99,1037,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,-42000,0,0,42000,-42000,0,0,0,5,0,5,7,7
+1126,6130900294268439629,-6184943489809468494,0,0,The Frostborn,This mysterious race of frost dwarves makes their home in the Storm Peaks.  They've recently befriended members of the Explorers' League and welcome Alliance members within their settlements.,99,1037,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,-42000,0,0,42000,-42000,0,0,0.5,0.5,7,7
 1128,0,0,0,0,Twilight's Hammer,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1129,0,0,0,0,"Furbolg, Blackwood",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1130,0,0,0,0,"Stag, Darkshore",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1131,0,0,0,0,"Bear, Darkshore",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 1132,0,0,0,0,"Moonstalker, Darkshore",,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
-1133,-6184943489809468494,6130900294268439629,0,0,Bilgewater Cartel,"Run by the ruthless Trade Prince Gallywix, the Bilgewater Cartel is the most powerful trading company on the Isle of Kezan. From their headquarters at Bilgewater Port, the cartel dominates trade all over the South Seas.",105,67,0,0,0,0,0,0,0,0,0,0,273,6,0,0,3100,-42000,0,0,42000,-42000,0,0,1,0,25,4,7
-1134,2969652301,-6184943489809468494,2097152,0,Gilneas,"The people of Gilneas are a nation of survivors.  Having walled themselves off from the rest of humanity, they must now face new threats from within.",106,469,0,0,0,0,0,0,0,0,0,0,273,6,17,0,0,-42000,3000,0,42000,-42000,42000,0,1,0,25,4,7
+1133,-6184943489809468494,6130900294268439629,0,0,Bilgewater Cartel,"Run by the ruthless Trade Prince Gallywix, the Bilgewater Cartel is the most powerful trading company on the Isle of Kezan. From their headquarters at Bilgewater Port, the cartel dominates trade all over the South Seas.",105,67,0,0,0,0,0,0,0,0,0,0,273,6,0,0,3100,-42000,0,0,42000,-42000,0,0,1,0.25,4,7
+1134,2969652301,-6184943489809468494,2097152,0,Gilneas,"The people of Gilneas are a nation of survivors.  Having walled themselves off from the rest of humanity, they must now face new threats from within.",106,469,0,0,0,0,0,0,0,0,0,0,273,6,17,0,0,-42000,3000,0,42000,-42000,42000,0,1,0.25,4,7
 1135,-1,0,0,0,The Earthen Ring,This gathering of the most powerful shaman of Azeroth seeks to maintain the balance between the world's elemental forces.  Their main focus during the cataclysm has been to  repair and stabilize the damage caused by Deathwing's arrival.,110,1162,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,0,5,5
 1136,-1,0,0,0,Tranquillien Conversion,,100,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,42000,0,0,0,0,0,0,0
 1137,-1,0,0,0,Wintersaber Conversion,,101,0,0,0,0,0,0,0,-1,0,0,0,4,0,0,0,0,0,0,0,42000,0,0,0,0,0,0,0
@@ -463,8 +463,8 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 1341,-1,0,0,0,The August Celestials,These brave Pandaren defend the temples of Pandaria from the evils of the Sha.,183,1245,0,0,1,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,0,0,0
 1345,-1,0,0,0,The Lorewalkers,"Caretakers of the mysteries of Pandaria, these brave souls roam the continent, hoping to learn from their history.",184,1245,0,0,1,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,0,0,0
 1351,-1,0,0,0,The Brewmasters,"These noble Pandaren safeguard the secrets of hereditary brews, braving great hardship to construct their potent concoctions.",186,1245,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42000,0,0,0,0,0,0,0
-1352,-6184943489809468494,6130900294268439629,0,0,Huojin Pandaren,"Led by the intrepid Ji Firepaw, the Huojin Pandaren are quick to act and quicker to fight for what they believe in.",187,67,0,0,0,0,0,0,0,0,0,0,273,6,0,0,3100,-42000,0,0,42000,-42000,0,0,1,0,25,4,7
-1353,2969652301,-6184943489809468494,2097152,0,Tushui Pandaren,"Led by the stalwart Aysa Cloudsinger, the Tushui Pandaren believe in contemplation and reasoned action.",188,469,0,0,0,0,0,0,0,0,0,0,273,6,17,0,3100,-42000,3000,0,42000,-42000,42000,0,1,0,25,4,7
+1352,-6184943489809468494,6130900294268439629,0,0,Huojin Pandaren,"Led by the intrepid Ji Firepaw, the Huojin Pandaren are quick to act and quicker to fight for what they believe in.",187,67,0,0,0,0,0,0,0,0,0,0,273,6,0,0,3100,-42000,0,0,42000,-42000,0,0,1,0.25,4,7
+1353,2969652301,-6184943489809468494,2097152,0,Tushui Pandaren,"Led by the stalwart Aysa Cloudsinger, the Tushui Pandaren believe in contemplation and reasoned action.",188,469,0,0,0,0,0,0,0,0,0,0,273,6,17,0,3100,-42000,3000,0,42000,-42000,42000,0,1,0.25,4,7
 1357,-1,0,0,0,Nomi,5.0 Cooking - This is a hidden faction used to level up Nomi.,191,0,0,25,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,42000,0,0,0,0,0,0,0
 1358,-1,0,0,0,Nat Pagle,"The consummate fisherman and lover of fine alcohol from across the land, Nat's irascible exterior belies a love of teaching.",192,1302,0,26,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,0,0,0
 1359,-1,0,0,0,The Black Prince,Black Prince Wrathion is the last of the black dragons. He has been known to richly reward those who earn his trust and support his endeavors.,193,1245,0,0,0,0,0,0,-1,0,0,0,16,0,0,0,2800,0,0,0,42000,0,0,0,0,0,0,0
@@ -581,7 +581,7 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 2018,-1,0,0,0,Talon's Vengeance,Allies of the demigod Aviana and protectors of the winged creatures of the Broken Isles.,211,1834,0,0,2,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,0,5,5
 2040,0,0,0,0,Talon's Vengeance,Allies of the demigod Aviana and protectors of the winged creatures of the Broken Isles.,-1,1834,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
 2045,-1,0,0,0,Armies of Legionfall,The coalition of orders dedicated to defeating the Legion at the Tomb of Sargeras and Broken Shore.,212,1834,0,0,0,2091,0,0,0,0,0,0,16,0,0,0,3000,0,0,0,42000,0,0,0,0,0,5,5
-2063,0,0,0,0,Arne Test - Paragon Reputation Stormwind,"One of the last bastions of human power, this Alliance capital is ruled by the prodigal king, Varian Wrynn.",214,0,0,0,0,2062,0,0,0,0,0,0,276,6,20,4,3100,-42000,4000,0,42000,-42000,42000,0,1,0,25,4,7
+2063,0,0,0,0,Arne Test - Paragon Reputation Stormwind,"One of the last bastions of human power, this Alliance capital is ruled by the prodigal king, Varian Wrynn.",214,0,0,0,0,2062,0,0,0,0,0,0,276,6,20,4,3100,-42000,4000,0,42000,-42000,42000,0,1,0.25,4,7
 2085,-1,0,0,0,Highmountain Tribe (Paragon),"The Highmountain Tribe has dwindled in numbers over the years, and with the drogbar threat looming, seek new allies to save their homeland.",235,1834,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,0,5,5
 2086,6130900294268439629,-6184943489809468494,0,0,Valarjar (Paragon),"These are the chosen warriors of Odyn, sworn to his service in life and death.",236,1834,0,0,0,0,0,0,0,0,0,0,16,16,0,0,0,0,0,0,42000,42000,0,0,0,0,5,5
 2087,-1,0,0,0,Court of Farondis (Paragon),The ghostly Court of Farondis and its allies continue the fight against an onslaught of invaders on the cursed island of Azsuna.,237,1834,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,0,5,5

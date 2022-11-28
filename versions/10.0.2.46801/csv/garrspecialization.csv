@@ -24,4 +24,4 @@ ID,Name_lang,Tooltip_lang,BuildingType,SpecType,RequiredUpgradeLevel,IconFileDat
 38,First Aid,Summons a First Aid nurse NPC that grants healing potions and bandages each day.,0,6,3,135966,0,0
 39,Prison,Occasionally catches thieves who can pay fines or provide useful information to serve their sentence.,0,6,3,136058,0,0
 40,Mine Guards,"Garrison guards patrol your mine, keeping it clear of hostile Goren.",0,6,3,132110,0,0
-41,Buying in Bulk,Reduces cost of purchasing buildings and changing specializations.,0,6,3,132761,0,5,0
+41,Buying in Bulk,Reduces cost of purchasing buildings and changing specializations.,0,6,3,132761,0.5,0

@@ -109,8 +109,8 @@ ID,ProfessionEffectTypeEnumID,Amount,ModifiedCraftingReagentSlotID
 148,25,10,0
 149,13,2,0
 150,25,20,0
-151,25,0,5,0
-152,25,2,5,0
+151,25,0.5,0
+152,25,2.5,0
 153,21,1,0
 154,8,0,233
 162,1,50,0

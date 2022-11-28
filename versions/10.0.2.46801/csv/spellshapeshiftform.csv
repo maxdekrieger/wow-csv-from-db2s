@@ -1,12 +1,12 @@
 ID,Name_lang,CreatureType,Flags,AttackIconFileID,BonusActionBar,CombatRoundTime,DamageVariance,MountTypeID,CreatureDisplayID[0],CreatureDisplayID[1],CreatureDisplayID[2],CreatureDisplayID[3],PresetSpellID[0],PresetSpellID[1],PresetSpellID[2],PresetSpellID[3],PresetSpellID[4],PresetSpellID[5],PresetSpellID[6],PresetSpellID[7]
-1,Cat Form,1,248,132116,1,1000,0,4,0,892,0,0,0,0,0,0,0,0,0,0,0
+1,Cat Form,1,248,132116,1,1000,0.4,0,892,0,0,0,0,0,0,0,0,0,0,0
 2,Tree of Life Form,7,2257,0,0,0,0,0,37165,0,0,0,0,0,0,0,0,0,0,0
 3,Travel Form,1,216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 4,Aquatic Form,1,216,0,0,0,0,0,2428,0,0,0,0,0,0,0,0,0,0,0
-5,Bear Form,1,248,132143,3,2500,0,4,0,2281,0,0,0,0,0,0,0,0,0,0,0
+5,Bear Form,1,248,132143,3,2500,0.4,0,2281,0,0,0,0,0,0,0,0,0,0,0
 6,Ambient,0,0,0,0,0,0,0,328,0,0,0,0,0,0,0,0,0,0,0
 7,Ghoul,6,9689,0,0,0,0,0,25527,0,0,0,6603,47468,47481,47482,47480,0,47484,47496
-8,Dire Bear Form,1,248,132143,3,2500,0,4,0,2281,0,0,0,0,0,0,0,0,0,0,0
+8,Dire Bear Form,1,248,132143,3,2500,0.4,0,2281,0,0,0,0,0,0,0,0,0,0,0
 9,Crane Stance,-1,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 10,Tharon'ja Skeleton,6,1034,0,0,0,0,0,9784,0,0,0,50799,49613,49609,49617,0,0,0,0
 11,Darkmoon - Test of Strength,-1,1226,0,0,0,0,0,0,0,0,0,62022,62023,62024,62025,0,0,0,0
@@ -32,7 +32,7 @@ ID,Name_lang,CreatureType,Flags,AttackIconFileID,BonusActionBar,CombatRoundTime,
 31,Moonkin Form,-1,2241,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 32,Spirit of Redemption,-1,82704,0,0,0,0,0,16031,0,0,0,0,0,0,0,0,0,0,0
 33,Gladiator Stance,0,7,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-34,Metamorphosis,3,472,1035040,0,0,0,4,0,64560,0,0,0,0,0,0,0,0,0,0,0
+34,Metamorphosis,3,472,1035040,0,0,0.4,0,64560,0,0,0,0,0,0,0,0,0,0,0
 35,Moonkin Form,-1,2241,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 36,Treant Form,7,2257,0,0,0,0,0,864,0,0,0,0,0,0,0,0,0,0,0
 37,Spirit Owl Form,1,32776,0,0,0,0,295,38633,0,0,0,0,0,0,0,0,0,0,0
