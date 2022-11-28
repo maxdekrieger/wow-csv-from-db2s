@@ -128,7 +128,7 @@ ID,DisplayName_lang,DisplayNameShort_lang,Flags,RangeMin[0],RangeMin[1],RangeMax
 316,120,120,0,0,0,120,120
 317,"Min Range 10, 80",10-to-80,0,10,10,80,80
 318,Short Range Charge,Min 3 Max 10,0,3,0,10,0
-319,One Point Five Yards,1.5 Yards,0,0,0,1,5,1,5
+319,One Point Five Yards,1.5 Yards,0,0,0,1.5,1.5
 320,50-to-300,50-to-300,0,50,30,300,300
 321,95,95,0,0,0,95,95
 322,Sixty yards,Sixty,0,0,0,60,60
@@ -136,7 +136,7 @@ ID,DisplayName_lang,DisplayNameShort_lang,Flags,RangeMin[0],RangeMin[1],RangeMax
 326,"Min Range 5, 40",Five-to-40,0,5,5,40,40
 327,Donut (39-to-40),39-to-40,0,39,39,40,40
 328,Forty-to-60,Forty-to-80,0,40,40,60,60
-329,6.5 Yards,6.5 Yards,0,0,0,6,5,6,5
+329,6.5 Yards,6.5 Yards,0,0,0,6.5,6.5
 330,Combat Range (Special - Melee),Combat,1,0,0,25,25
 331,10-to-60,10-to-60,0,10,10,60,60
 333,"8-25 Hostile, 0-25 Friendly","8-25 Hostile, 0-25 Friendly",0,8,0,25,25
@@ -148,7 +148,7 @@ ID,DisplayName_lang,DisplayNameShort_lang,Flags,RangeMin[0],RangeMin[1],RangeMax
 439,One Hundred Seventy Five Yards,175 Yards,0,0,0,175,175
 444,"Tower 80, AI Ranged",Tower,2,0,0,80,80
 445,27-to-300,27-to-300,0,27,27,300,300
-446,Two Point Five Yards,2.5 Yards,0,0,0,2,5,2,5
+446,Two Point Five Yards,2.5 Yards,0,0,0,2.5,2.5
 447,Sixteen yards,Short,0,0,0,16,16
 448,99,99,0,0,0,99,99
 449,Twenty-One,Medium-Short,0,0,0,21,21
@@ -162,7 +162,7 @@ ID,DisplayName_lang,DisplayNameShort_lang,Flags,RangeMin[0],RangeMin[1],RangeMax
 467,"Min Range 10, 60","Min Range, 10, 60",0,10,10,60,60
 468,Charge (Felguard),Charge,0,6,6,25,25
 469,Ninety-to-110,90-110,0,90,90,110,110
-470,0.1 yards,0.1 yards,0,0,0,0,1,0,1
+470,0.1 yards,0.1 yards,0,0,0,0.1,0.1
 473,"Min Range 70, 160",70-160,0,70,70,160,160
 474,Twenty-Two,Medium-Short,0,0,0,22,22
 475,15-to-200,15-to-200,0,15,15,200,200
@@ -172,6 +172,6 @@ ID,DisplayName_lang,DisplayNameShort_lang,Flags,RangeMin[0],RangeMin[1],RangeMax
 486,50-250,50-250,0,50,50,250,250
 488,250,250,0,0,0,250,250
 489,"Min Range 20, 70",20-70,0,20,20,70,70
-490,Just Under Twenty to Twenty,Just Under Twenty to Twenty,0,19,9,19,9,20,20
+490,Just Under Twenty to Twenty,Just Under Twenty to Twenty,0,19.9,19.9,20,20
 491,"Min Range 5, 35",Five-to-35,0,5,5,35,35
 492,300 (Melee Combat),Combat,1,0,0,300,300
