@@ -2,9 +2,9 @@
 
 DB2 files are the client side databases containing data about items, NPCs, environment, world and a lot more.
 
-This repository contains the raw DB2 files and the version in which they are converted to CSV for efficient use by WoW meta tooling.
+This repository contains the raw DB2 files their respective CSV version efficient use by WoW meta tooling.
 
-# Acknowledgement
+# Acknowledgements
 
 This repository would not be possible without the following tools:
 
