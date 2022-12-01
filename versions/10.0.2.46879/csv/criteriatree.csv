@@ -43648,7 +43648,7 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 56486,,56485,1,0,35055,0,2
 56487,7.2 Class Mounts - Priest - Vault Explored,0,0,4,0,0,0
 56488,,56487,1,0,35056,0,2
-56489,7.2 Class Mounts - Priest - Scenario Complete,0,1000,9,0,0,0
+56489,7.2 Class Mounts - Priest - Scenario Complete,0,1,9,0,0,0
 56490,Constructs defeated,56489,5,0,35061,1,1
 56491,Console activated,0,0,4,0,0,0
 56492,Console activated,56491,1,0,35058,0,0
@@ -78642,7 +78642,7 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 139726,Forgotten Gryphon,139710,1,0,56048,15,0
 139727,Enkine the Voracious,139710,1,0,56049,16,0
 139728,Captain Lancer,139710,1,0,56050,17,0
-139729,Possessive Hornswog,139710,1,0,56051,18,0
+139729,Possessive Hornswog,139710,1,0,57852,18,0
 139730,Worldcarver A'tir,139710,1,0,56052,19,0
 139731,Death's Shadow,139710,1,0,56053,20,0
 139732,Shas'ith,139710,1,0,56054,21,0

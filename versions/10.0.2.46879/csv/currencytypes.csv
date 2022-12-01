@@ -484,16 +484,16 @@ Used to procure items from Rethelshi in Valdrakken.",250,651737,0,0,0,0,3,0,0,0,
 2160,Dragon Racing - Best Time Display - Advanced - Fraction 1,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
 2161,Dragon Racing - Best Time Display - Advanced - Fraction 10,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
 2162,Dragon Racing - Best Time Display - Advanced - Fraction 100,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
-2165,Profession - Public Order Capacity - Blacksmithing,,142,237184,0,0,30,0,0,0,0,0,0,0,10,86400000,1572864,0
+2165,Profession - Public Order Capacity - Blacksmithing,,142,237184,0,0,20,0,0,0,0,0,0,0,5,86400000,1572864,0
 2166,Inspiration Catalyst Account-Wide Currency,,142,897131,0,0,0,0,0,0,0,0,0,0,0,0,68681728,0
 2167,Catalyst Charges,"|cnHEIRLOOM_BLUE_COLOR:Account-Wide|r
 Complete Group Activities to earn charges across all characters.
 
 |cnWHITE_FONT_COLOR:Limit 6 charges per character.|r",142,897143,0,0,0,0,1,0,0,0,0,0,0,0,72876032,0
-2169,Profession - Public Order Capacity - Leatherworking,,142,0,0,0,30,0,0,0,0,0,0,0,10,86400000,1572864,0
-2170,Profession - Public Order Capacity - Alchemy,,142,0,0,0,30,0,0,0,0,0,0,0,10,86400000,1572864,0
-2171,Profession - Public Order Capacity - Tailoring,,142,0,0,0,30,0,0,0,0,0,0,0,10,86400000,1572864,0
-2172,Profession - Public Order Capacity - Engineering,,142,237184,0,0,30,0,0,0,0,0,0,0,10,86400000,1572864,0
-2173,Profession - Public Order Capacity - Enchanting,,142,0,0,0,30,0,0,0,0,0,0,0,10,86400000,1572864,0
-2174,Profession - Public Order Capacity - Jewelcrafting,,142,0,0,0,30,0,0,0,0,0,0,0,10,86400000,1572864,0
-2175,Profession - Public Order Capacity - Inscription,,142,0,0,0,30,0,0,0,0,0,0,0,10,86400000,1572864,0
+2169,Profession - Public Order Capacity - Leatherworking,,142,0,0,0,20,0,0,0,0,0,0,0,5,86400000,1572864,0
+2170,Profession - Public Order Capacity - Alchemy,,142,0,0,0,20,0,0,0,0,0,0,0,5,86400000,1572864,0
+2171,Profession - Public Order Capacity - Tailoring,,142,0,0,0,20,0,0,0,0,0,0,0,5,86400000,1572864,0
+2172,Profession - Public Order Capacity - Engineering,,142,237184,0,0,20,0,0,0,0,0,0,0,5,86400000,1572864,0
+2173,Profession - Public Order Capacity - Enchanting,,142,0,0,0,20,0,0,0,0,0,0,0,5,86400000,1572864,0
+2174,Profession - Public Order Capacity - Jewelcrafting,,142,0,0,0,20,0,0,0,0,0,0,0,5,86400000,1572864,0
+2175,Profession - Public Order Capacity - Inscription,,142,0,0,0,20,0,0,0,0,0,0,0,5,86400000,1572864,0

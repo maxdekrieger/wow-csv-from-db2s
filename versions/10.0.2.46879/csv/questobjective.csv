@@ -7809,7 +7809,7 @@ ID,Description_lang,Type,Amount,ObjectID,OrderIndex,Flags,StorageIndex,QuestID
 428727,Gorlocs slain,0,15,191993,0,0,0,67014
 428728,,0,1,188860,1,0,1,67014
 428729,,0,1,188859,2,0,4,67014
-428731,Wrangle proto-drakes to Rendra or kill players,15,1,0,0,0,0,67005
+428731,Wrangle proto-drakes to Rendra or kill players,15,1,0,0,0,255,67005
 428732,,9,7,458,1,92,0,67005
 428750,Primalist Forces Cleared,15,1,0,0,0,0,67024
 428751,,0,20,188666,1,92,2,67024
@@ -7884,7 +7884,7 @@ ID,Description_lang,Type,Amount,ObjectID,OrderIndex,Flags,StorageIndex,QuestID
 429505,Fresh Fish Steaks,1,8,198350,0,0,0,69938
 429519,Victims Freed,0,7,194596,0,0,1,69941
 429521,Astral Essence,2,5,379030,0,0,0,69942
-429539,Exterminate Pests or Kill Players,15,1,0,0,0,0,69949
+429539,Exterminate Pests or Kill Players,15,1,0,0,0,255,69949
 429540,,9,7,458,1,92,0,69949
 429541,Pests Exterminated,0,34,193703,2,92,1,69949
 429546,,0,1,193644,0,1,1,69951
@@ -7974,7 +7974,7 @@ ID,Description_lang,Type,Amount,ObjectID,OrderIndex,Flags,StorageIndex,QuestID
 430138,,0,7,194567,4,92,7,70196
 430160,Mind Controlled Gorlocs slain,0,8,196252,1,0,0,70074
 430179,Time-Lost Possessions collected,1,8,198597,1,0,0,70072
-430180,Subdue Ducks or Kill Players,15,1,0,0,0,0,70209
+430180,Subdue Ducks or Kill Players,15,1,0,0,0,255,70209
 430181,,9,7,458,1,92,2,70209
 430182,Subdue Ducks,0,10,194830,2,92,3,70209
 430190,,0,1,189289,0,0,0,70212
@@ -8038,7 +8038,7 @@ ID,Description_lang,Type,Amount,ObjectID,OrderIndex,Flags,StorageIndex,QuestID
 430445,,0,25,184440,8,92,7,70068
 430446,,0,25,190779,9,92,8,70068
 430447,,0,25,190778,10,92,9,70068
-430448,Destroy Unstable Arcana or Kill Players,15,1,0,0,0,0,70439
+430448,Destroy Unstable Arcana or Kill Players,15,1,0,0,0,255,70439
 430449,,9,7,458,1,92,0,70439
 430450,,0,20,194961,2,92,1,70439
 430452,,0,1,195337,0,0,0,70440

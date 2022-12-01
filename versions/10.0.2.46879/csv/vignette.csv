@@ -4524,7 +4524,7 @@ ID,Name_lang,PlayerConditionID,VisibleTrackingQuestID,QuestFeedbackEffectID,Flag
 5099,Tokker,97315,66599,0,0,30,-30,0,0,0
 5100,Ancient Monument,96828,66603,889,0,30,-30,0,0,0
 5103,Hunting Party 001,97844,0,729,1106,0,0,0,0,0
-5104,Bronze Timekeeper,0,0,890,2,0,0,0,0,0
+5104,Bronze Timekeeper,0,0,890,1026,0,0,0,0,0
 5107,Penumbrus,0,70212,902,1058,35,0,0,0,0
 5108,Shas'ith,103745,0,902,1056,0,0,0,0,0
 5109,Turboris,0,0,89,0,100,-100,0,0,0
@@ -4536,7 +4536,7 @@ ID,Name_lang,PlayerConditionID,VisibleTrackingQuestID,QuestFeedbackEffectID,Flag
 5115,Char,0,0,89,0,100,-100,0,0,0
 5116,Magmaton,103742,70979,902,1122,0,0,0,0,0
 5117,Hessethiash's Poorly Hidden Treasure,0,66876,88,0,30,-30,0,0,0
-5118,Earth-Warder's Vault,0,0,613,1026,30,-60,3,0,0
+5118,Earth-Warder's Vault,105427,0,968,1024,30,-60,3,0,0
 5119,Morchock Reformed,103745,0,902,1122,0,0,0,0,0
 5120,Stalking Sabertooth,0,0,763,1056,0,0,0,0,0
 5121,Hungry Ravine Vulture,0,0,763,1056,0,0,0,0,0

@@ -6843,3 +6843,1393 @@ Excellent! You've found another misaligned ley line. Restoring the uninterrupted
 "Thank you, $n. Each ley line we restore contributes to the health of the Dragon Isles as a whole.",,232249,0,0,0,68,0,4,0,0,0,0,0,0,0,0
 ,I believe we can channel the essence of each into the Mother Oathstone and restore our Aspectral powers.,233018,0,0,0,102,0,6,0,215861,0,0,0,0,0,0
 ,Until I see you again...,233377,0,0,0,102,0,6,0,0,0,0,0,0,0,0
+,How can I help?,112089,0,0,0,64,0,0,0,63173,0,0,0,0,0,0
+Let's do it!,,119451,0,0,0,64,0,0,68428,0,0,0,0,0,0,0
+My vigil is eternal.,,112042,0,0,0,64,0,0,63194,0,0,0,0,0,0,0
+,Sound effect for troops,120069,0,0,0,64,0,0,0,68970,0,0,0,0,0,0
+,Your spirit burns bright.,112019,0,0,0,64,0,0,0,63218,0,0,0,0,0,0
+,Let me at 'em!,126362,0,0,0,64,0,0,0,80815,0,0,0,0,0,0
+I am nature's rage!,,117309,0,0,0,64,0,0,67139,0,0,0,0,0,0,0
+,For Elune!,119450,0,0,0,64,0,0,0,68427,0,0,0,0,0,0
+Sound effect for troops,,120369,0,0,0,64,0,0,69285,0,0,0,0,0,0,0
+Nature seeks balance in all things.,,112066,0,0,0,64,0,0,62868,0,1,0,0,0,0,0
+Sound effect for troops,Sound effect for troops,136019,0,0,0,64,0,0,88736,88736,0,0,0,0,0,0
+Sound effect for troops,,120072,0,0,0,64,0,0,68967,0,0,0,0,0,0,0
+We will protect the wilds.,,112010,0,0,0,64,0,0,63187,0,0,0,0,0,0,0
+"Ohn'ahra, heed me. Your people need you!",,218682,0,0,0,0,0,4,205593,0,0,0,0,0,0,0
+"Have I offended you, Windmother?",,218683,0,0,0,0,0,4,205594,0,0,0,0,0,0,0
+I am just a lowly initiate. I need your guidance!,,218684,0,0,0,0,0,4,205596,0,0,0,0,0,0,0
+I hear nothing. I am not fit to be a mystic.,,218685,0,0,0,0,0,4,205600,0,0,0,0,0,0,0
+Meet me outside Teerakai when you are ready. I will guide you to Ridgewater Retreat.,,219081,0,0,1,0,0,4,205603,0,0,0,0,0,0,0
+"<Boku's belongings are strewn about the area. Perhaps they were dropped in a hurry. One of Boku's totems is missing.
+
+There are more hoof prints nearby. It looks like Boku fled and was pursued by several other centaur.>","<Boku's belongings are strewn about the area. Perhaps they were dropped in a hurry. One of Boku's totems is missing.
+
+There are more hoof prints nearby. It looks like Boku fled and was pursued by several other centaur.>",219148,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+What can we do?,,219213,0,0,1,0,0,4,205604,0,0,0,0,0,0,0
+,"And so, the storm begins.",221759,0,0,1,0,0,4,0,207621,0,0,0,0,0,0
+,We must delay the Nokhud as long as possible to buy time for the Khanam Matra's plan.,227866,0,0,1,0,0,4,0,207622,0,0,0,0,0,0
+,"Some ohuna are blessed by the Windmother. We call them Children of Ohn'ahra.
+
+When a mystic passes on, if they are worthy, a Child of Ohn'ahra soars down from the heavens. The ohuna takes the mystic's spirit to Windsong Rise, where they may become one with the wind and sky.
+
+A Child of Ohn'ahra is normally a rare sight. But today....",221834,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+,We cannot hear the Windmother's song either. The storm has cast a cloud over her.,221767,0,0,1,0,0,4,0,207623,0,0,0,0,0,0
+,"It is not your fault, Boku.",221768,0,0,1,0,0,4,0,207624,0,0,0,0,0,0
+"My khan, I have failed as a mystic. I cannot commune with Ohn'ahra, and the Khanam Matra needs her help.",,221700,0,0,1,0,0,4,205608,0,0,0,0,0,0,0
+,"I must rally Clan Ohn'ir. You, Boku, must find Ohn'ahra.",221770,0,0,1,0,0,4,0,207625,0,0,0,0,0,0
+I am unworthy of this task. Should it not fall to you?,,221655,0,0,1,0,0,4,205605,0,0,0,0,0,0,0
+"By your leave, my khan, I will find Ohn'ahra.",,221717,0,0,66,0,0,4,205609,0,0,0,0,0,0,0
+,"I have faith in you, Boku. We all do.",221868,0,0,1,0,0,4,0,207626,0,0,0,0,0,0
+This cannot be! Even Balakar would not dare.,,221953,0,0,1,0,0,4,205753,0,0,0,0,0,0,0
+"Windsong Rise is hallowed ground for the Maruuk. It is where our connection to the wind, and Ohn'ahra, is strongest.
+
+What the Nokhud are doing here is unforgivable.",,222013,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+Something is at the top of the rise. I will take a side route. Meet me up there!,,222014,0,0,1,0,0,4,205615,0,0,0,0,0,0,0
+How is this possible? They have captured Ohn'ahra herself!,,222492,0,0,1,0,0,4,205619,0,0,0,0,0,0,0
+"If the Primalists have the power to imprison Ohn'ahra, I don't know how we will manage to stop them.
+
+But we must try.",,222491,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+Follow me. We must free Ohn'ahra!,,222942,0,0,1,0,0,4,205625,0,0,0,0,0,0,0
+"This will draw attention, so keep the guards busy!",,222943,0,0,1,0,0,4,205629,0,0,0,0,0,0,0
+The first rune is dispelled!,,222977,0,0,1,0,0,4,205630,0,0,0,0,0,0,0
+"Another rune down. Hold fast, Windmother!",,222979,0,0,1,0,0,4,205631,0,0,0,0,0,0,0
+One more to go. We will succeed!,,222980,0,0,1,0,0,4,205633,0,0,0,0,0,0,0
+You are awake! I am glad to see you are okay.,,222999,0,0,1,0,0,4,205775,0,0,0,0,0,0,0
+"Quickly, $n, you must tell the Khanam Matra all that has happened.",,222903,0,0,1,0,0,4,205624,0,0,0,0,0,0,0
+,Welcome back to Maruukai. What news?,227837,0,0,1,0,0,4,0,207614,0,0,0,0,0,0
+,Have you rallied my forces? Have the mystics called upon Ohn'ahra?,222712,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+,"Even outnumbered and without Ohn'ahra, we will fight on. We cannot surrender to Balakar, and we will not bow to his Primalist masters.",222835,0,0,1,0,0,4,0,207615,0,0,0,0,0,0
+,"Ah, your clan is as motivated as ever, Sansok Khan.",228144,0,0,1,0,0,4,0,206777,0,0,0,0,0,0
+,"Once Ohn'ahra has been found and the green dragons have been called, we will march on Nokhudon Hold.",228159,0,0,1,0,0,4,0,206785,0,0,0,0,0,0
+,Honored khans! We have spotted a warband of Nokhud headed toward the Horn of Drusahl.,227778,0,0,66,0,0,4,0,206958,0,0,0,0,0,0
+,"Enough to overwhelm the village at the base of the hill, but far from all their forces.",228149,0,0,1,0,0,4,0,206971,0,0,0,0,0,0
+,"Enter, Tomul. The khans eagerly await your report.",227777,0,0,0,0,0,4,0,206778,0,0,0,0,0,0
+,Balakar is leading them himself.,227783,0,0,0,0,0,4,0,206959,0,0,0,0,0,0
+,"Sansok is correct. This may be a diversion. We cannot commit all of our forces, even if it is to defend our most sacred artifact.",228157,0,0,1,0,0,4,0,206781,0,0,0,0,0,0
+,"Tigari Khan, Sansok Khan, gather your clans and prepare for battle.",228158,0,0,1,0,0,4,0,206784,0,0,0,0,0,0
+,Sansok Khan furrows her brow as she signs.,228163,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+How large is the warband? We should be wary. This might be a diversion.,,228148,0,0,1,0,0,4,206960,0,0,0,0,0,0,0
+,"Tomul, outsider, you will come with me.",227799,0,0,25,0,0,4,0,206783,1,0,0,0,0,0
+,I will take the khansguard and confront Balakar myself.,228156,0,0,1,0,0,4,0,206782,0,0,0,0,0,0
+Scout Tomul approaches!,,227776,0,0,66,0,0,4,0,0,66,0,0,0,0,0
+,"No, not yet. We are still looking for them.",227785,0,0,0,0,0,4,0,206973,1,0,0,0,0,0
+,What of Koroleth? Have you seen her or Ohn'ahra?,227784,0,0,0,0,0,4,0,206972,0,0,0,0,0,0
+,We must assume the Nokhud want to destroy the Horn to prevent us from calling the green dragons.,228155,0,0,1,0,0,4,0,206780,0,0,0,0,0,0
+,"You will lend your aid to the Maruuk while you are in our lands, dragonseeker.",227822,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"The Horn of Drusahl is one of our most sacred relics. We must assume Balakar has abandoned our ways. He will destroy it to prevent us from calling the green dragons. If we are to have any hope of saving it, we must make haste.
+
+Since you will not keep up with us on those two legs of yours, we have prepared a mount for you. Taivan is our largest bakar. He can carry you swiftly to the Horn, or you can take that tamed drake of yours and meet us there.",228164,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+,"Khansguard, I am entering the village with the outsider.",227405,0,0,1,0,0,4,0,206797,1,0,0,0,0,0
+"As you command, Khanam Matra.","As you command, Khanam Matra.",227407,0,0,66,0,0,4,0,0,66,0,0,0,0,0
+,Stay and defend this position as we advance. This is nowhere near the full forces of Clan Nokhud.,227406,0,0,1,0,0,4,0,206798,1,0,0,0,0,0
+,"Come and try it, little Khanam Matra! The Primalists have made me strong!",227661,0,0,1,0,0,4,0,206978,1,0,0,0,0,0
+,It is Ohn'ahra!,227956,0,0,669,0,0,4,0,206801,1,0,0,0,0,0
+,"Good riddance. Wait, what is that up ahead?",227955,0,0,669,0,0,4,0,206800,1,0,0,0,0,0
+,"We must find a way to push through this wall of wind! Quickly, before they can blow the horn!",219707,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"It is time to prove our allegiance to the dragons, or both of our people will perish.",228182,0,0,0,0,0,4,0,206986,0,0,0,0,0,0
+,The winds have abated. You can reach the dragons quickly by riding your drake from a high point nearby.,228099,0,0,669,0,0,4,0,207109,1,0,0,0,0,0
+,"At once, Khanam Matra!",227936,0,0,66,0,0,4,0,206987,1,0,0,0,0,0
+,"Yes, Koroleth forced Ohn'ahra to bless Balakar. He blew the horn to lure the dragons into a trap.",228179,0,0,669,0,0,4,0,206983,0,0,0,0,0,0
+,"Tomul, return to Maruukai and inform the khans.",228180,0,0,0,0,0,4,0,206984,0,0,0,0,0,0
+,Was that the Horn of Drusahl? It was loud enough to wake the dead!,228178,0,0,1,0,0,4,0,206982,0,0,0,0,0,0
+,Khanam Matra! $n!,228176,0,0,0,0,0,4,0,206979,0,0,0,0,0,0
+,"Rally our forces, and begin the march towards the Emerald Gardens.",228181,0,0,669,0,0,4,0,206985,0,0,0,0,0,0
+,I will meet you there. Go with haste!,228100,0,0,1,0,0,4,0,206990,1,0,0,0,0,0
+Solethus! He's... gone.,,227077,0,0,53,0,0,7,0,0,0,0,0,0,0,0
+,We cannot lose any more....,228424,0,0,1,0,0,4,0,205441,0,0,0,0,0,0
+,"By Ohn'ahra's winds! $p, I had heard the stories about the ancient dragons, but to see them up close... They are truly magnificent creatures.
+
+But first, we must untangle this mess Balakar has put us in. We must make it clear that we wish to aid the dragons.",227066,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+,"We hoped to resolve our civil war, but now I see there is only one path forward: we must vanquish them.",227069,0,0,1,0,0,7,0,207106,0,0,0,0,0,0
+,"Merithra, we mean you no harm. The death of your brethren saddens our hearts as much as the death of our own kind.",227067,0,0,1,0,0,7,0,207108,0,0,0,0,0,0
+,"Balakar did this! Balakar and his clan, the Nokhud! They have shown their weakness and their cowardice by working with the Primalists.",227068,0,0,5,0,0,7,0,207107,0,0,0,0,0,0
+,"Three clans stand with you, daughter of the Dream. Teerai. Shikaar. Ohn'ir. We must join you to repel the warmongers from our land.",227070,0,0,1,0,0,7,0,207105,0,0,0,0,0,0
+,"I accept your offer to stand with us, Khanam Matra.",227074,0,0,1,0,0,7,0,205444,0,0,0,0,0,0
+,My kin's sacrifice will not be forgotten. We fight together.,227075,0,0,0,0,0,7,0,205445,0,0,0,0,0,0
+"My mother is kind and trusting, but I will keep my eye on you.
+
+We will travel west to the green dragons' grove. It is a long journey. Are you ready?",,221731,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,The barrier to the Ancient Bough must not fall. Within it lies our portal to the Emerald Dream. I shudder to think what they wish to do to it.,220000,0,0,0,0,0,7,0,205425,0,0,0,0,0,0
+"The Nokhud are relentless. With their help, Koroleth's Primalist army has found a way to break our defenses.",,220003,0,0,0,0,0,7,203907,0,0,0,0,0,0,0
+,Clan Nokhud's dragonkiller ballista is the key to their victory.,219998,0,0,0,0,0,7,0,205424,0,0,0,0,0,0
+,"We destroyed them, time and again. The Primalists knew they needed the centaur on their side to defeat us.",219997,0,0,0,0,0,7,0,205423,0,0,0,0,0,0
+,"Shortly after we returned to our ancient grove to the west, the Primalists attacked.",219996,0,0,0,0,0,7,0,205422,0,0,0,0,0,0
+,Our sanctuary lies ahead. Meet me there. We will rally the remainder of our forces.,227261,0,0,0,0,0,7,0,205426,0,0,0,0,0,0
+,"With this blessing, $n, my people will know that you speak with my voice. Now go, quickly!",228338,0,0,1,0,0,1,0,205465,0,0,0,0,0,0
+,The Primalists seem to have paused their attack. Do you bring news of their movements?,227452,0,0,0,0,0,4,0,0,669,0,0,0,0,0
+Care for a lift?,,219652,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"The Primalists are scattered for the time being. Peace descends on the Ancient Bough once more. Thank you, $r.",,221998,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"Greetings! Oh my, I see that you've come on behalf of Merithra. Is something wrong?",227458,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Vermera roars in pain.,Vermera roars in pain.,228095,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Easy, 'Mera. The more you stay still, the easier this will be to heal.","Easy, 'Mera. The more you stay still, the easier this will be to heal.",228096,0,0,669,0,0,4,0,0,0,0,0,0,0,0
+,"The Primalists attacked us without mercy. We held our own, but it came at a heavy cost.",227456,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"With the clans gathered as one, our vengeance is at hand.",222083,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+,Our report? Ha! Our report is that the rear flank is secure. You stand amidst the carnage that secured our victory.,222085,0,0,1,0,0,4,0,206953,0,0,0,0,0,0
+"Glad to see you again, $n. Do you see the barrier surrounding the Ancient Bough? Beyond it, the green dragons defend sacred territory. I do not know what the green dragons are protecting, but whatever it is, the Primalists want it.",,222157,0,0,0,0,0,4,205617,0,1,0,0,0,0,0
+,Become the eagle!,222161,0,0,1,0,0,1,0,206998,0,0,0,0,0,0
+,"Return to the winds, Avvara... blessed child of Oh'nahra ...",228272,0,0,669,0,0,1,0,207019,0,0,0,0,0,0
+,That portal must lead to where the Primalist reinforcements await. I wonder if slaying those summoners would disrupt it. Perhaps it would collapse.,222163,0,0,0,0,0,1,0,207028,0,0,0,0,0,0
+,No!,228271,0,0,0,0,0,1,0,207024,0,0,0,0,0,0
+,"Quickly, Avvara, return before they see you.",228270,0,0,0,0,0,1,0,207017,0,0,0,0,0,0
+,The Primalists have not only enhanced the Nokhud's abilities but also joined their ranks. Look at the size of those Stormbound Colossi This does not bode well for us.,222162,0,0,0,0,0,1,0,207029,0,0,0,0,0,0
+,"The battle has begun. Whatever happens, we must not allow the Primalists to set foot within the Ancient Bough.",222228,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+,The last ballista is down! Now the green dragonflight can take to the skies and join the battle!,228259,0,0,0,0,0,7,0,205461,0,0,0,0,0,0
+,"You fight like a Maruuk, $n. It is quite impressive!",222485,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,There it is!,222378,0,0,0,0,0,4,0,205722,0,0,0,0,0,0
+,Well done. I see the pylon!,222376,0,0,1,0,0,4,0,205717,0,0,0,0,0,0
+,Good. I will take it from here.,222379,0,0,0,0,0,4,0,205721,0,0,0,0,0,0
+,Insolent worm! The storm consumes all!,228134,0,0,53,0,0,4,0,205874,0,0,0,0,0,0
+,"No... I will not be defeated! Give me your strength, beast!",227814,0,0,53,0,0,4,0,205867,0,0,0,0,0,0
+,"You've accomplished nothing. Once I've dealt with you, nothing will stand between us and the Dream.",222686,0,0,1,0,0,4,0,205771,0,0,0,0,0,0
+,No! I have failed. The Dream must be ours...,228265,0,0,53,0,0,4,0,206999,0,0,0,0,0,0
+,"My purpose here is fulfilled, $n. Let us meet again soon.",228371,0,0,1,0,0,7,0,206807,0,0,0,0,0,0
+"You've done it, $n! The Nokhud centaur are already falling back, and the Primalists are scattering without their leader.
+
+Don't worry - we should be able to clean things up here.",,227845,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"She asked for you as well, $r.",,228379,0,0,0,0,0,7,207004,0,0,0,0,0,0,0
+"Come, little one. The Primalists have been dealt with. Our forces will make quick work of any foolish enough to linger.",,228375,0,0,0,0,0,7,207001,0,0,0,0,0,0,0
+"Without our allies, we could not have achieved this victory. Merithra is summoning their leaders to an audience.",,228376,0,0,0,0,0,7,207002,0,0,0,0,0,0,0
+,It is a deed of kindness and sacrifice my people will not soon forget.,228381,0,0,1,0,0,7,0,205743,0,0,0,0,0,0
+,"This day, you have proven yourself to the green dragonflight.",228380,0,0,1,0,0,7,0,205742,0,0,0,0,0,0
+,"Against hatred and chaos, the greatest weapon we wield is fellowship. So come, friends. Join me under the Ancient Bough.",228383,0,0,1,0,0,7,0,205744,0,0,0,0,0,0
+,"From the mystics who commune with the wind, her lightest touch. A lift.",222348,0,0,0,0,0,4,0,205463,0,0,0,0,0,0
+,"From the descendants of the matriarch, a drop of unbroken progeny. An ancient line, unforgotten.",222349,0,0,0,0,0,4,0,205464,0,0,0,0,0,0
+,"From the hunters who value skill above all, a rite of passage. A first.",222347,0,0,6,0,0,4,0,205462,0,0,0,0,0,0
+,"With Ohn'ahra in captivity, I wonder what our clan has to offer the dragons.",221781,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"<Sansok frowns, deep in thought.>",221782,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Absolutely not! Try again.,,221825,0,0,53,0,0,4,205733,0,0,0,0,0,0,0
+"Yes, that makes sense. After their first hunt, a young hunter of our clan receives a ceremonial spear. Take mine.",,221824,0,0,1,0,0,4,205732,0,0,0,0,0,0,0
+,Do you have something for me?,231570,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,This spear is proof of your skill. I accept this offering.,221833,0,0,2,0,0,7,0,205437,0,0,0,0,0,0
+,"I like your enthusiasm, but I do not think that is right.",221829,0,0,0,0,0,4,0,208476,0,0,0,0,0,0
+,I do not think it is that sort of verse. We should think of something else.,221828,0,0,0,0,0,4,0,208475,0,0,0,0,0,0
+,"As all ohuna are the offspring of Ohn'ahra, this feather should suffice.",221827,0,0,0,0,0,4,0,208474,0,0,0,0,0,0
+,Ohn'ahra's spirit blesses us all. I accept your offering.,221836,0,0,2,0,0,7,0,205438,0,0,0,0,0,0
+,Ancestors guide us. We must show Merithra we can be trusted to uphold our vow.,221777,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"Tempting, but no. Perhaps when they were ill-tempered young babes, I could have been swayed.",221832,0,0,1,0,0,4,0,208479,0,0,0,0,0,0
+,That does not make sense to me. Perhaps something else?,221831,0,0,1,0,0,4,0,208478,0,0,0,0,0,0
+,A bloodline... I have an idea.,221830,0,0,1,0,0,4,0,208477,0,0,0,0,0,0
+,"Here, take this.",222482,0,0,0,0,0,4,0,214020,0,0,0,0,0,0
+,You think we will find anyone here who can help our efforts in de Azure Span?,217291,0,0,0,0,0,4,0,203517,0,0,0,0,0,0
+I'm sure an adventurer will come by. This place should be crawling with them!,,217292,0,0,0,0,0,4,204463,0,0,0,0,0,0,0
+Glania can help direct you towards the Kirin Tor's efforts in the Azure Span. Make sure to tell her Masud and Pakina sent you!,,217293,0,0,0,0,0,4,204464,0,0,0,0,0,0,0
+Hrm... maybe three or four more? Five adventurers seems like a good number to have for any task.,,217317,0,0,0,0,0,4,204465,0,0,0,0,0,0,0
+,Ooo... how many more adventurers should we find?,217316,0,0,0,0,0,4,0,203518,0,0,0,0,0,0
+"If you all insist on examining fish for this ""essence"", then the least you can do is help me catch more.",,217319,0,0,0,0,0,4,204563,0,0,0,0,0,0,0
+,"I am sorry, but I do not know how to do this fishing. Can it not wait?",217318,0,0,0,0,0,4,0,206184,0,0,0,0,0,0
+The fish are always biting this time of year. Why not pitch in and catch a few?,,217320,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,I'm getting a bit concerned... we haven't heard back from the patrol up at Rhonin's Shield.,217346,0,0,0,0,0,4,0,206185,0,0,0,0,0,0
+"Hush, lovie. Not yet. Soon.","Hush, lovie. Not yet. Soon.",229525,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Ma, can we go home yet?","Ma, can we go home yet?",229524,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Greetings, dragonrider!
+
+Are you ready for a brisk, wintry ride?
+
+The Frostland Flyover loops around the Upper Frostlands through snow-dusted trees and icy peaks.
+
+Would you like to try it? I do hope you're wearing something warm under that armor...","Greetings, dragonrider!
+
+Are you ready for a brisk, wintry ride?
+
+The Frostland Flyover loops around the Upper Frostlands through snow-dusted trees and icy peaks.
+
+Would you like to try it? I do hope you're wearing something warm under that armor...",223999,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Ready!,Ready!,216979,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Set!,Set!,216980,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+GO!,GO!,216981,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Welcome to the Azure Span Sprint, dragonrider.
+
+This course takes a looping route through some of the most the beautiful--and ancient--forests here in the Azure Span.
+
+Would you like to try it?","Welcome to the Azure Span Sprint, dragonrider.
+
+This course takes a looping route through some of the most the beautiful--and ancient--forests here in the Azure Span.
+
+Would you like to try it?",222226,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"These gnolls stole a magical artifact, help me get it back!",223770,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Ah! An intrepid dragonrider... Good to see someone made it up here...
+
+Welcome to the Archive Ambit. This course winds through the Tauriq Gleamlet and up to the Azure Archives. 
+
+Oh, and the trees up there... Well, if you haven't seen it, I won't spoil it for you.
+
+Care to try the Azure Ambit?","Ah! An intrepid dragonrider... Good to see someone made it up here...
+
+Welcome to the Archive Ambit. This course winds through the Tauriq Gleamlet and up to the Azure Archives. 
+
+Oh, and the trees up there... Well, if you haven't seen it, I won't spoil it for you.
+
+Care to try the Azure Ambit?",224185,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Welcome to tuskarr lands, dragonrider! This course is called the Iskaara Tour.
+
+The course doesn't just give you a dragon's-eye view of Iskaara though.
+
+ It takes riders over furbolg, gorloc, and even ancient dragon territory.
+
+Would you like to try it?","Welcome to tuskarr lands, dragonrider! This course is called the Iskaara Tour.
+
+The course doesn't just give you a dragon's-eye view of Iskaara though.
+
+ It takes riders over furbolg, gorloc, and even ancient dragon territory.
+
+Would you like to try it?",223928,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Dragonrider! 
+
+Welcome to the Azure Span Slalom.
+
+This course takes you over, around, and through the dense forests, rugged terrain, and ancient ruins in this region.
+
+Are you ready to ride?","Dragonrider! 
+
+Welcome to the Azure Span Slalom.
+
+This course takes you over, around, and through the dense forests, rugged terrain, and ancient ruins in this region.
+
+Are you ready to ride?",222738,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Brr! G-greetings, dragonrider!
+
+This c-course is called the Vakthros Ah-ah-
+
+<The Bronze Timekeeper sneezes loudly>
+
+Excuse me! Vakthros Ascent. It t-takes riders across the F-f-rostlands and up and over Vakthros's s-summit.
+
+D-do you want to t-try it?","Brr! G-greetings, dragonrider!
+
+This c-course is called the Vakthros Ah-ah-
+
+<The Bronze Timekeeper sneezes loudly>
+
+Excuse me! Vakthros Ascent. It t-takes riders across the F-f-rostlands and up and over Vakthros's s-summit.
+
+D-do you want to t-try it?",222900,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Good day, dragonrider. Ready to learn more about how to fly in harmony with a dragon?","Good day, dragonrider. Ready to learn more about how to fly in harmony with a dragon?",219719,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"Good day, dragonrider. Ready to learn more about how to make your dragon truly unique?",224417,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"As you explore the Dragon Isles and beyond, you will find different items that will impact the appearance of your drake.
+
+Once you have used those items, the options will appear as available to you at the Rostrum of Transformation.",224431,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,Welcome to the Isles. Are you ready to learn more about the finer skills of dragonriding?,224423,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"I imply nothing, Emerald one. Just an observation.",,226968,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,Surely you are not implying...?,226953,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Let's show the Sundered Flame that they can't take the Cobalt Assembly away from us!
+
+I can help you master the wild arcana that's surging through the area.",,231135,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Anyone there? What's going on? It sounds pretty bad over there! 
+
+Should I close the portal?",,223799,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"This scroll is the property of Rodan The Magnificent, the brightest of all arcane users! Master of magical adaptation and binding! 
+
+The secret to a fancier life style is harbored within these runes of power.","This scroll is the property of Rodan The Magnificent, the brightest of all arcane users! Master of magical adaptation and binding! 
+
+The secret to fancier life is within these runes of power.",233170,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,We just need to hold them off a little longer. Kalecgos should be here soon!,223800,0,0,0,0,0,4,0,206187,0,0,0,0,0,0
+I'll shield you for as long as I can... take those drakes down!,,223038,0,0,0,0,0,4,203593,0,0,0,0,0,0,0
+"Wait, no... Malygos?","Wait, no... Malygos?",223345,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+Correct!,Correct!,223342,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+Next question... Who was the primogenitor of the blue dragonflight?,Next question... Who was the primogenitor of the blue dragonflight?,223339,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+Sindragosa!,Sindragosa!,223344,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+"Hello there! Need anything from Dalaran? Just say the word, and I'll track it down and get it to you.",,217681,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Ah, this is the ""in case Khadgar isn't available, bring this"" package. We've got one more left!",,217683,0,0,0,0,0,4,207263,0,0,0,0,0,0,0
+Here it is. Come back if you need anything else.,,217684,0,0,0,0,0,4,207264,0,0,0,0,0,0,0
+None. I fear our assumptions are correct--it's a problem with the ley lines.,,217439,0,0,0,0,0,4,201702,0,0,0,0,0,0,0
+Did you find any tomes detailing the Azure Oathstone?,,217438,0,0,0,0,0,4,201701,0,0,0,0,0,0,0
+I'll see you above. I believe I'm making progress towards the problems surrounding the Azure Oathstone.,,217474,0,0,0,0,0,4,201703,0,0,0,0,0,0,0
+Welcome to the Azure Archives. Tread carefully... no one has been here for thousands of years.,,217481,0,0,0,0,0,4,201704,0,0,0,0,0,0,0
+,Who... are... you?,217677,0,0,0,0,0,4,0,207303,0,0,0,0,0,0
+,Affixes... seek... top... of... archives...,217679,0,0,0,0,0,4,0,207302,0,0,0,0,0,0
+,Malygos... have... you... returned?,217953,0,0,0,0,0,4,0,207310,0,0,0,0,0,0
+"You hear that voice too, don't you? It's calling for Malygos, the previous blue dragon Aspect.",,217954,0,0,0,0,0,4,201700,0,0,0,0,0,0,0
+,Oathstone... is... awaiting...,217956,0,0,0,0,0,4,0,207311,0,0,0,0,0,0
+We'll fix this soon and find out what secrets the archives hold...,,217955,0,0,0,0,0,4,201707,0,0,0,0,0,0,0
+"Don't be alarmed, but my mirror images should vanish in a mo--",,217957,0,0,0,0,0,4,201708,0,0,0,0,0,0,0
+"It's good to see you in the flesh, $n. 
+
+You've been a great help so far. I would appreciate your presence while I reclaim the Azure Oathstone.",,217958,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,Child of my flight.,217967,0,0,0,0,0,4,0,207316,0,0,0,0,0,0
+,"Good luck to the two of you. If the tuskarr still live, they should know the location of the major ley lines.",217961,0,0,0,0,0,4,0,207313,0,0,0,0,0,0
+"I'll do what I can to repair any ley lines I find, and send my mirror images to keep an eye on things while I'm gone.",,217960,0,0,0,0,0,4,201709,0,0,0,0,0,0,0
+,Child... You are staring at me instead of departing. Do you have more to say?,217962,0,0,0,0,0,4,0,207314,0,0,0,0,0,0
+Ah! Right... I shall return with hopeful news.,,217968,0,0,0,0,0,4,201712,0,0,0,0,0,0,0
+,As is mine. Ten thousand years is an incalculable amount of time to miss.,217964,0,0,0,0,0,4,0,207312,0,0,0,0,0,0
+I apologize. I have heard many legends of you... my mind is swimming with questions to ask.,,217963,0,0,0,0,0,4,201710,0,0,0,0,0,0,0
+,"My dear, I would ask you to apprise me of what I've missed once this mess is settled.",217965,0,0,0,0,0,4,0,207315,0,0,0,0,0,0
+,And I shall aid you in becoming the proper Aspect of the blue dragonflight.,217969,0,0,0,0,0,4,0,207317,0,0,0,0,0,0
+"Of course! There's so much to tell... the Cataclysm, the Scourge... the other Aspects... the Nexus Wars...",,217966,0,0,0,0,0,4,201711,0,0,0,0,0,0,0
+Where would you like to fly to?,Where would you like to fly to?,10753,0,0,0,65,0,0,0,0,0,0,0,0,0,0
+Let's wait here a spell.,,222742,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,We must push forward.,213626,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"The tuskarr will talk your ears off, if you let them!",222583,0,0,11,0,0,4,0,206190,0,0,0,0,0,0
+,Be careful.,222582,0,0,1,0,0,4,0,206189,0,0,0,0,0,0
+What we have here is a wonderful example of Drakonid bridge building in the pre-Sundering period.,What we have here is a wonderful example of Drakonid bridge building in the pre-Sundering period.,223291,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+Is it safe?,Is it safe?,223292,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+Absolutely not.,Absolutely not.,223293,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+Been too long on land.,,218843,0,0,0,0,0,4,0,0,669,0,0,0,0,0
+What now? Lake lines? You mean rivers? What nonsense are you on about?,,218848,0,0,669,0,0,4,207269,0,0,0,0,0,0,0
+,I don't remember the ice of the mountains reaching so far west. I wonder if it's spread south all the way to Imbu.,218844,0,0,0,0,0,4,0,0,669,0,0,0,0,0
+,"There's magic in the land everywhere! It's in every rock, plant, animal... Why, the legend of Foxrose Fourtoes goes... There once was...",218850,0,0,669,0,0,4,0,203623,0,0,0,0,0,0
+Soup isn't ready yet. You'll have to wait a bit.,,218846,0,0,0,0,0,4,0,0,669,0,0,0,0,0
+"Ah, that's right. She was here with the funeral caravan not long ago. You just missed her!",,218856,0,0,1,0,0,4,208015,0,0,0,0,0,0,0
+Chieftain Ponoliak knows more about that kind of thing.,,218853,0,0,1,0,0,4,208014,0,0,0,0,0,0,0
+"Oh, the Gleamcoves? Yes, they're everywhere! We try not to disturb them.",,218852,0,0,1,0,0,4,208013,0,0,0,0,0,0,0
+,Ponoliak passed. Remember? Brena is chieftain now.,218854,0,0,1,0,0,4,0,208233,0,0,0,0,0,0
+"With that dragon, you'll catch up with them in no time!",,218954,0,0,1,0,0,4,208012,0,0,0,0,0,0,0
+,N-Norukk...,217776,0,0,0,0,0,4,0,203485,0,0,0,0,0,0
+,"Hang in there, Hanu. You're no good to Norukk dead.",217777,0,0,1,0,0,4,0,205981,0,0,0,0,0,0
+,Busy at the moment.,218869,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,We can talk once my brothers and sisters are safe.,222511,0,0,0,0,0,4,0,205984,0,0,0,0,0,0
+,This is no time to chat.,218871,0,0,0,0,0,4,0,205982,0,0,0,0,0,0
+,Our caravan was ambushed by gnolls. They took half my people and many left are seriously wounded.,218873,0,0,0,0,0,4,0,205983,0,0,0,0,0,0
+,"... Please, $c, I'd appreciate any help you can offer us.",218883,0,0,1,0,0,4,0,205986,0,0,0,0,0,0
+,No more waiting. I must save Norukk.,218881,0,0,1,0,0,4,0,203486,0,0,0,0,0,0
+,"Hanu, wait!",218882,0,0,1,0,0,4,0,205985,0,0,0,0,0,0
+,Be on your guard. There's nothing so cunning and cruel as a Shadepaw gnoll.,217779,0,0,1,0,0,4,0,205987,0,0,0,0,0,0
+,"Err... of course, Elder.",218201,0,0,1,0,0,4,0,205988,0,0,0,0,0,0
+,Troll? There are no trolls here!,217780,0,0,1,0,0,4,0,207256,0,0,0,0,0,0
+,Need... more hyenas...,217889,0,0,0,0,0,4,0,207254,0,0,0,0,0,0
+,Fine work. I'll get this artifact back to safety before anyone misuses it.,223773,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,Release hyenas!,217886,0,0,0,0,0,4,0,207252,0,0,0,0,0,0
+,Tusked ones suffer. Now YOU suffer!,217888,0,0,0,0,0,4,0,207253,0,0,0,0,0,0
+,Bakra... had her fun...,217891,0,0,0,0,0,4,0,207255,0,0,0,0,0,0
+"Trip you, trap you!",,217887,0,0,0,0,0,4,204654,0,0,0,0,0,0,0
+Watch your... step...,,217890,0,0,0,0,0,4,204655,0,0,0,0,0,0,0
+,I see you've been busy.,218210,0,0,1,0,0,4,0,205989,0,0,0,0,0,0
+,Norukk and the others... they're in the den.,218211,0,0,1,0,0,4,0,203488,0,0,0,0,0,0
+,Kargpaw is in there... and all these sickly gnolls!,218212,0,0,1,0,0,4,0,203489,0,0,0,0,0,0
+,Tell me everything.,218213,0,0,1,0,0,4,0,205990,0,0,0,0,0,0
+,Brena! You came...,217929,0,0,1,0,0,4,0,203487,0,0,0,0,0,0
+,"Slow down, Hanu!",218214,0,0,1,0,0,4,0,207257,0,0,0,0,0,0
+,"No, Hanu! I will not lose you to Kargpaw.",217933,0,0,1,0,0,4,0,205991,0,0,0,0,0,0
+,I will go with you.,217935,0,0,1,0,0,4,0,203490,0,0,0,0,0,0
+,Our newfound friend is quite skilled. Trust in $n.,217934,0,0,1,0,0,4,0,205992,0,0,0,0,0,0
+"Rot you... rot tusked ones, rot all!",,218081,0,0,0,0,0,4,204652,0,0,0,0,0,0,0
+Rot will spread... everywhere... no escape...,,218082,0,0,0,0,0,4,204653,0,0,0,0,0,0,0
+"I'll make my escape, like a slippery ottuk. My eternal thanks for the timely rescue!",,218935,0,0,1,0,0,4,207288,0,0,0,0,0,0,0
+Ah! You saw right through my feign death. I learned it by studying the local vorquin...,,218058,0,0,1,0,0,4,207284,0,0,0,0,0,0,0
+Kinda gross if you ask me.,,219161,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+I think it's... some kind of love poem?,,219160,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+"Hark! Dear one! 
+
+You who stand whence magic sprung, where titans' children play. 
+
+This is the song everlasting that sings of love eternal in a time before. 
+
+A time of long rebirth. 
+
+A time of loneliness for the eldest son, most loved Malygos, beloved ere begotten in mind and spirit by Norgannon, aesir-born. 
+
+From him, platinum clad, did Malygos build these great works. 
+
+Behold them and rejoice, O' dearly beloved.",,218578,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Hark! Dear one! You who stand whence all was freely shared, where greed nor hubris live. 
+
+Long may you stay in love's conquered breast, born aloft on wings of knowledge teal. 
+
+This is the song of that mirror blue. 
+
+The image azure incarnate. 
+
+You who stand here remember those whose love made magic manifest, whose power begot flight and fierce aspect in their azure brethren.
+
+Sing now of these great works, beloved. 
+
+Malygos and Sindragosa.
+
+Two hearts that time nor distance dims.
+
+<You can barely make out a faded signature, ""Divo Songscale"".>",,218641,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Hark! Dear one! You who stand whence true love fell off the page like so many words. 
+
+These are the breaths unfading, uttered betwixt sighs of creation arcane; 
+
+In books did twin souls reside, their crackling spines lit with lines of magic. 
+
+He the first steward of knowledge, and she his muse in mind and deed. 
+
+Side by side were they joined, kept atop these icy calving shelves with bookends opalescent and grey. 
+
+These painted halls awash in blue.",,218638,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Hark! Dear one! You who stand whence duty strove, where knowledge freely lives. 
+
+These are the works undying that build cool tempered understanding for she who knows no equal nor master still. 
+
+Sindragosa.
+
+Illuminated by transcendent intellect; arcana unfettered, beauty everlasting. 
+
+In her wings the firmament finds itself transformed, the colors run betwixt lilting lines of autumn streams. 
+
+Some run fierce as hot mana burns.",,218636,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"Shh, loves. Both of you.",218249,0,0,1,0,0,4,0,203492,0,0,0,0,0,0
+I hate being right all the time.,,218247,0,0,1,0,0,4,207282,0,0,0,0,0,0,0
+,I hate how insufferable you are. All. The. Time.,218248,0,0,1,0,0,4,0,207258,0,0,0,0,0,0
+If you insist.,,218733,0,0,1,0,0,4,204791,0,0,0,0,0,0,0
+,Tell my friend what you told me.,218732,0,0,1,0,0,4,0,205994,0,0,0,0,0,0
+"<Akiun gazes upon you with weary eyes.>
+
+For your own safety, please don't stand too close.
+
+I am injured... and unwell.",,218252,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+"They came without warning. Foul, fetid gnolls.",,218254,0,0,1,0,0,4,204792,0,0,0,0,0,0,0
+,"He's right. You'll pull through, Akiun. We'll escort you to safety.",218774,0,0,1,0,0,4,0,205995,0,0,0,0,0,0
+"I'll be dead soon, like the others.",,218256,0,0,1,0,0,4,204794,0,0,0,0,0,0,0
+The only thing they took... was my friend's lives.,,218255,0,0,1,0,0,4,204793,0,0,0,0,0,0,0
+You are not dying.,,218257,0,0,1,0,0,4,207283,0,0,0,0,0,0,0
+"<Claw marks crisscross all along this tuskarr's back. She was clearly killed while fleeing. Oddly, the fresh wounds have already begun to fester.>","<Claw marks crisscross all along this tuskarr's back. She was clearly killed while fleeing. Oddly, the fresh wounds have already begun to fester.>",224140,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"<Gnolls would normally retrieve their prey, or at least their belongings, but they have left this tuskarr and his things.>","<Gnolls would normally retrieve their prey, or at least their belongings, but they have left this tuskarr and his things.>",224148,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"<The hide of this foul gnoll is reminiscent of Kargpaw, but even more fetid. Its fur is missing, in patches, and what remains is matted with oozing pus.>","<The hide of this foul gnoll is reminiscent of Kargpaw, but even more fetid. Its fur is missing, in patches, and what remains is matted with oozing pus.>",224147,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,I can smell the rot on the wind.,218824,0,0,0,0,0,4,0,205998,0,0,0,0,0,0
+"I am Kalecgos, and I am searching for ley crystal caves. I believe I sense one nearby, and yet...",,218832,0,0,669,0,0,4,201714,0,0,0,0,0,0,0
+Somewhere around here...,,218276,0,0,0,0,0,4,201713,0,0,0,0,0,0,0
+,"Ley lines? There is a Gleamcove deep within Brackenhide, yes, but the gnolls have made this forest thick with decay.",218905,0,0,669,0,0,4,0,205999,0,0,0,0,0,0
+"Ah, $n, what a pleasant surprise! And you've made some new friends, I see. Greetings!",,218277,0,0,396,0,0,4,201768,0,0,0,0,0,0,0
+"Decay?! Could it have eaten at the ley line itself? This is dire, indeed!",,218833,0,0,669,0,0,4,201715,0,0,0,0,0,0,0
+"If it's gnolls, I know just the thing!",,222910,0,0,669,0,0,4,207289,0,0,0,0,0,0,0
+,"Then our goals are aligned. Investigate the decay, $n, and we'll find a safe spot further in.",218284,0,0,669,0,0,4,0,206001,0,0,0,0,0,0
+,"I don't know who you are, mage, but thank you.",218279,0,0,669,0,0,4,0,206000,0,0,0,0,0,0
+,"Norukk, can you help us slip by the gnolls?",222909,0,0,669,0,0,4,0,206002,0,0,0,0,0,0
+"Out of the corner of your eye, something catches your attention. Did the root just move?",,222886,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+I've got your back!,,229755,0,0,669,0,0,4,207321,0,0,0,0,0,0,0
+On your left!,,229754,0,0,669,0,0,4,207320,0,0,0,0,0,0,0
+Hang in there!,,229756,0,0,669,0,0,4,207322,0,0,0,0,0,0,0
+The root is leeching a foul sludge into the small pool of water.,,222847,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+You're not alone!,,229757,0,0,669,0,0,4,207323,0,0,0,0,0,0,0
+"The sludge oozing from the root corrodes the nearby grass as you watch.
+
+The stench is unbearable.",,222889,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"This is bad, $n! Join us quickly. The decay is out of control!",,222892,0,0,0,0,0,4,201717,0,0,0,0,0,0,0
+,Have the gnolls gone mad? Don't they see what they are doing to themselves?,222897,0,0,669,0,0,4,0,206003,0,0,0,0,0,0
+I'm so sorry to see tuskarr have been captured and killed here. If only I'd arrived sooner...,,218287,0,0,669,0,0,4,201719,0,669,0,0,0,0,0
+,Thank you for your kindness. Decay is part of the natural cycle--we all return to the earth. But this... this is a perversion.,218288,0,0,669,0,0,4,0,206004,0,0,0,0,0,0
+,The souls of my kin sense the wrongdoing and linger. We must help them! My totem will reach their spirits. I only hope it is enough to calm them.,218289,0,0,669,0,0,4,0,206005,0,0,0,0,0,0
+,"I give you my strength, adventurer. Avenge us!",217754,0,0,669,0,0,4,0,207271,0,0,0,0,0,0
+Dad! Dinner's ready!,Dad! Dinner's ready!,224231,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"If that decayed ancient reaches Iskaara, all of our spears and nets won't be enough to stop it. You must help us!",,217755,0,0,669,0,0,4,207268,0,0,0,0,0,0,0
+We were traveling on the road when the gnolls ambushed us. Take the strength of my spirit to drive them back!,,217746,0,0,669,0,0,4,207266,0,0,0,0,0,0,0
+,"Please, tell my son Rowie in Iskaara that I love him. And I'm sorry.",217753,0,0,669,0,0,4,0,203620,0,0,0,0,0,0
+"Please, don't let this decay spread to Iskaara. It will consume and destroy everything we hold dear.",,217749,0,0,669,0,0,4,207267,0,0,0,0,0,0,0
+"Pardon me if I'm a little distracted. Have you ever tried to maintain so many mirror images at such distance? 
+
+What a headache.",,217835,0,0,0,0,0,4,0,0,396,0,0,0,0,0
+"Let's do this, $n! Hop on the book!",,223205,0,0,669,0,0,4,201724,0,396,0,0,0,0,0
+"There! Now, first take down those shamans holding a barrier around the ancient!",,222616,0,0,0,0,0,4,201725,0,0,0,0,0,0,0
+"By Norgannon's beard, this thing has a temper! Hold on!",,229753,0,0,0,0,0,4,207319,0,0,0,0,0,0,0
+,"The ancient is vulnerable! Quickly, throw everything we have at it!",222598,0,0,669,0,0,4,0,206006,0,0,0,0,0,0
+,"Come, my friends, my family! Help us protect our home!",223159,0,0,0,0,0,4,0,206007,0,0,0,0,0,0
+It's not enough!,,223158,0,0,669,0,0,4,201728,0,0,0,0,0,0,0
+"Excellent! Now to the cave, before more come!",,223219,0,0,669,0,0,4,201729,0,396,0,0,0,0,0
+,"Thank you, my friends. Rest now. Karkut awaits.",223220,0,0,669,0,0,4,0,206008,0,0,0,0,0,0
+I'll funnel arcane power back into the rotted part of the ley line. It may just be able to restore its power!,,223295,0,0,0,0,0,4,201732,0,0,0,0,0,0,0
+I am here. Thank you.,,218316,0,0,669,0,0,4,201730,0,396,0,0,0,0,0
+"I assure you I'm very much alive. Now, $n, destroy those pockets of decay that remain!",,218318,0,0,0,0,0,4,201731,0,0,0,0,0,0,0
+"So he is flesh and blood, after all! We were beginning to suspect you were also some spirit.",,218317,0,0,669,0,0,4,207285,0,0,0,0,0,0,0
+,"What is this? This shifting of the energy of the earth itself? What power! Just who are you, mage?",218320,0,0,669,0,0,4,0,206016,0,0,0,0,0,0
+Let's leave this place before more of those gnolls descend upon us!,,218327,0,0,669,0,0,4,201734,0,0,0,0,0,0,0
+"It's done! Thank you for your assistance, all of you. I've placed a barrier around this ley line to ensure it's protected from further decay.",,218324,0,0,669,0,0,4,201733,0,396,0,0,0,0,0
+,"Nonsense, you must join us as well! Nothing could be more important than a warm bowl of soup after a difficult battle. And I thought you would want to discuss the other Gleamcoves!",218330,0,0,669,0,0,4,0,206017,0,0,0,0,0,0
+Others? You know the locations of more ley lines?,,218906,0,0,6,0,0,4,201737,0,0,0,0,0,0,0
+"I should get back to the Azure Archives now. I'm glad I was able to help your people, Brena.",,218329,0,0,669,0,0,4,201735,0,0,0,0,0,0,0
+,"Oh, none so large as the one in Brackenhide. But there are many smaller ones scattered about. I have some maps I can show you once we reach Iskaara...",218332,0,0,669,0,0,4,0,206018,0,0,0,0,0,0
+"What a charming town! Why don't you relax a bit? Take it easy for once, Kalec.",,223374,0,0,669,0,0,4,203587,0,0,0,0,0,0,0
+"There's no need for concern. Everything is calm up at the tower, I have it perfectly under control.",,223371,0,0,669,0,0,4,203586,0,0,0,0,0,0,0
+"Welcome, friend. What do you wish to talk about?",,224161,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+,Make yourself at home.,218400,0,0,0,0,0,4,0,0,669,0,0,0,0,0
+"Thank you for taking this time, Brena.",,218372,0,0,1,0,0,4,201740,0,0,0,0,0,0,0
+S-some what?,,218376,0,0,1,0,0,4,201742,0,0,0,0,0,0,0
+,"Nonsense, look how you thin you are! Some eel gut soup will get some much needed blubber on those bones!",218375,0,0,669,0,0,4,0,206019,0,0,0,0,0,0
+,"It is an honor. Let's have a look at these maps. Tuukanit, could you please ensure our guest gets a bowl of soup?",218373,0,0,669,0,0,4,0,206014,0,0,0,0,0,0
+"Oh, that's all right, thank you.",,218374,0,0,1,0,0,4,201741,0,0,0,0,0,0,0
+Yes?,Yes?,44668,0,0,378,65,0,0,0,0,0,0,0,0,0,0
+I specialize in armor for your wrists and shoulders. Seek out Lontupit and Omapurita for other kinds.,I specialize in armor for your wrists and shoulders. Seek out Lontupit and Omapurita for other kinds.,232913,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Anything I can do for you, friend? 
+
+Arv and I make many wares you may find useful.","Anything I can do for you, friend? 
+
+Arv and I make many wares you may find useful.",232905,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Looks like some of my ottuks have taken a shine to you, already! I hope I can entrust one with you someday. They are lifelong companions.","Looks like some of my ottuks have taken a shine to you, already! I hope I can entrust one with you someday. They are lifelong companions.",232915,0,0,669,0,0,4,0,0,0,0,0,0,0,0
+"Hello outsider, how can I assist you with your animal companions?",,229737,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Hmph, we'll see about that. Your last few have been less than impressive.","Hmph, we'll see about that. Your last few have been less than impressive.",225071,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+"Big catch for you today, Luko!","Big catch for you today, Luko!",225070,0,0,669,0,0,4,0,0,0,0,0,0,0,0
+How may I help you?,How may I help you?,32778,0,0,0,65,0,0,0,0,1,0,0,0,0,0
+"Oh hello again, friend! While I prefer the topic of gnolls, if you want to discuss the different forms I've studied that dragons such as your companion can take, I'm the tuskarr for you.",,232916,0,0,669,0,0,4,0,0,0,0,0,0,0,0
+"Hello again, traveler. Bring any news from afar? 
+
+I'll have you know my ecological research is not limited to gnolls. I also take a keen interest in dragons, and their many forms. 
+
+Feel free to come and chat with me about them any time.",,218023,0,0,0,0,0,4,0,0,378,0,0,0,0,0
+"Good soup takes time, patience, and many, many fish.",,224854,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+That's ol' Pono's favorite tea. Hopefully he shares some with Karkut on the journey.,,222732,0,0,669,0,0,4,208016,0,0,0,0,0,0,0
+,"Chieftain Ponoliak carved that for my son, Nomurok. My son fell in Brackenhide, so... it seems only right this should return to the sea with its maker.",222803,0,0,1,0,0,4,0,207276,0,0,0,0,0,0
+I'm always here to help any crafter. Come to me if you'd like to learn new recipes.,I'm always here to help any crafter. Come to me if you'd like to learn new recipes.,232914,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"We tuskarr here in Iskaara have been gathering and crafting what we need to survive for generations. 
+
+I am the keeper of that knowledge, for this generation. 
+
+What would you like to learn? Or perhaps you are here to share your own skills?","We tuskarr here in Iskaara have been gathering and crafting what we need to survive for generations. 
+
+I am the keeper of that knowledge, for this generation. 
+
+What would you like to learn? Or perhaps you are here to share your own skills?",232906,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"As the tales go, if Old Ponoliak's spirit returns to us restless, we will carve a stone statue for it to rest within.",222716,0,0,1,0,0,4,0,207259,0,0,0,0,0,0
+"Come in by the fire and rest, $r. I hope you don't mind the smell of fish.","Come in by the fire and rest, $r. I hope you don't mind the smell of fish.",26184,0,0,0,65,0,0,0,0,0,0,0,0,0,0
+,"Have you come to hear a tale, traveler?",218093,0,0,0,0,0,4,0,0,669,0,0,0,0,0
+,"You think you have story worthy of my time? Well! We shall see about that, won't we?",218095,0,0,0,0,0,4,0,0,669,0,0,0,0,0
+,"Oh really? 
+
+You have my attention. 
+
+How did you catch this ""legendary"" fish?",218097,0,0,0,0,0,4,0,0,25,0,0,0,0,0
+,"Did you, now? 
+
+And what exactly was it you caught?",218101,0,0,0,0,0,4,0,0,669,0,0,0,0,0
+,"Your powers of description are overwhelming. 
+
+Well? What happened next?",218105,0,0,0,0,0,4,0,0,669,0,0,0,0,0
+,"Hmmm... sure it did. 
+
+And then?",218110,0,0,0,0,0,4,0,0,669,0,0,0,0,0
+,"A wise choice. 
+
+Interesting. You are not the most gifted of storytellers, but there is something here. Even if you made it all up. 
+
+Give me a moment and I will weave your tale into something usable.",218113,0,0,0,0,0,4,0,0,669,0,0,0,0,0
+,"A mighty shark, with dorsal fins like mountains and teeth the size of mammoth tusks!",218125,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"But $n, undaunted, promptly killed it and cooked it into the most delicious of soups, nourishing their family for weeks!",218130,0,0,0,0,0,4,0,0,396,0,0,0,0,0
+,"One day, the notorious fisher $n thought of the new best way to catch fish - by standing on their head! For three days they remained in this pose, until finally they caught...",218123,0,0,0,0,0,4,0,0,669,0,0,0,0,0
+,"Then, furious, the creature drew a mighty weapon, a spear the size of a storm cloud! It waved it in the air, threatening to strike the hero down!",218129,0,0,0,0,0,4,0,0,669,0,0,0,0,0
+"Thank you, traveler. We should be just about done here. Could you tell Brena?",,223488,0,0,1,0,0,4,208011,0,0,0,0,0,0,0
+,"Go ahead, $n, you can have the honor of pushing his boat out to sea. For your help protecting Iskaara.",223550,0,0,669,0,0,4,0,206015,0,0,0,0,0,0
+,"Come on out, lil guy! We won't hurt you!",217892,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+"Who are you? 
+
+Don't get too close to that bush unless you want a face full of claws.",,217893,0,0,0,0,0,4,0,0,396,0,0,0,0,0
+TASTY TUSKERS! ME EAT TASTY TUSKERS!!,TASTY TUSKERS! ME EAT TASTY TUSKERS!!,217896,0,0,53,0,0,4,0,0,0,0,0,0,0,0
+"Well, okay, it wants to eat us. But don't worry, it's too weak to attack.",,217897,0,0,0,0,0,4,0,0,396,0,0,0,0,0
+There's an abandoned gnoll cub right there! The poor little guy is starving!,,217895,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+"If you free our friends, we'll make sure they get home safely.","If you free our friends, we'll make sure they get home safely.",231211,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+"Rescuing them will probably upset Hackclaw and her war-band, so be ready for a fight!","Rescuing them will probably upset Hackclaw and her war-band, so be ready for a fight!",231212,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"We appreciate your help, adventurer!","We appreciate your help, adventurer!",231210,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+Be careful out there!,Be careful out there!,219561,0,0,0,64,0,4,199747,199748,0,0,0,0,0,0
+,Who stealing our meat?!,223379,0,0,0,0,0,4,0,203481,0,0,0,0,0,0
+We'll remember you.,We'll remember you.,219538,0,0,0,64,0,4,199705,199706,0,0,0,0,0,0
+Careful out there.,Careful out there.,219540,0,0,0,64,0,4,199709,199710,0,0,0,0,0,0
+,Meat thieves! Kill them! Ruin them! Destroy them!,223380,0,0,0,0,0,4,0,203482,0,0,0,0,0,0
+Our paths shall cross again.,Our paths shall cross again.,219560,0,0,0,64,0,4,199745,199746,0,0,0,0,0,0
+,"Here! Come for us, meat thieves! We rip you apart!",223381,0,0,0,0,0,4,0,203483,0,0,0,0,0,0
+,What you waiting for? Bring us meat thieves!,223382,0,0,53,0,0,4,0,203484,0,0,0,0,0,0
+,Rip 'em apart!,224798,0,0,0,0,0,4,0,203442,0,0,0,0,0,0
+,"Water, fix our meat!",224727,0,0,0,0,0,4,0,203436,0,0,0,0,0,0
+,Hack you to pieces!,224716,0,0,0,0,0,4,0,203429,0,0,0,0,0,0
+,All... out of tricks...,224808,0,0,0,0,0,4,0,203461,0,0,0,0,0,0
+,Now! Shut them down!,224711,0,0,0,0,0,4,0,203432,0,0,0,0,0,0
+,They never see it coming!,224713,0,0,0,0,0,4,0,203433,0,0,0,0,0,0
+,Couldn't... hack it...,224806,0,0,0,0,0,4,0,203460,0,0,0,0,0,0
+,Didn't... cut... deep enough...,224807,0,0,0,0,0,4,0,203458,0,0,0,0,0,0
+Too strong!,Too strong!,223362,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Play dead!,Play dead!,223363,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,So easy when prey come to me!,226879,0,0,0,0,0,4,0,203441,0,0,0,0,0,0
+,Watch your feet!,226872,0,0,0,0,0,4,0,203439,0,0,0,0,0,0
+,"Come, cubs! FEEDING TIME!",226874,0,0,0,0,0,4,0,203438,0,0,0,0,0,0
+,Gut shot is most painful way to die!,226871,0,0,0,0,0,4,0,203435,0,0,0,0,0,0
+,"Run free, cubs!",226884,0,0,0,0,0,4,0,203437,0,0,0,0,0,0
+,Not... my last... hunt...,226880,0,0,0,0,0,4,0,203459,0,0,0,0,0,0
+,You killed the hunt leader? Clever meat...,227273,0,0,0,0,0,3,0,203453,0,0,0,0,0,0
+"We can't do much in our state, but we'll back you up, should you fall.","We can't do much in our state, but we'll back you up, should you fall.",229423,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+Thank you for your aid--but we won't let you do this alone.,Thank you for your aid--but we won't let you do this alone.,229422,0,0,669,0,0,4,0,0,0,0,0,0,0,0
+"I'm on it, friends!","I'm on it, friends!",229425,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+"Bertinaut, would you set up a camp in case our friends need help?","Bertinaut, would you set up a camp in case our friends need help?",229424,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+Feed... Treemouth!,,223466,0,0,0,0,0,4,203475,0,0,0,0,0,0,0
+Get... back!,,223476,0,0,0,0,0,4,203474,0,0,0,0,0,0,0
+Treemouth hungry!,,223475,0,0,0,0,0,4,203471,0,0,0,0,0,0,0
+Wither... and... spread...!,,223474,0,0,0,0,0,4,203472,0,0,0,0,0,0,0
+Treemouth... withers... away...,,223471,0,0,0,0,0,4,203477,0,0,0,0,0,0,0
+,You killed Treemouth?! Strong meat!,227274,0,0,0,0,0,3,0,203457,0,0,0,0,0,0
+,"Come to me, clever meat. I'll wither your strength myself!",227275,0,0,0,0,0,3,0,203452,0,0,0,0,0,0
+,"Everything rots away, in the end. I control decay. I claim everything! I will wither this world and eat its bones!",223361,0,0,0,0,0,3,0,203450,0,0,0,0,0,0
+,Your corpses will spread the rot!,223316,0,0,0,0,0,3,0,203449,0,0,0,0,0,0
+,This power obeys ME!,223329,0,0,0,0,0,3,0,203447,0,0,0,0,0,0
+,Choke and wither!,223322,0,0,0,0,0,3,0,203445,0,0,0,0,0,0
+,NO! I will not lose more! The rot will come for you! And I... I will claim your withered bones... your homes... Everything!,223333,0,0,0,0,0,3,0,203451,0,0,0,0,0,0
+,Some power has returned to it... but I fear something still is preventing its true power from emerging.,218011,0,0,0,0,0,4,0,207318,0,0,0,0,0,0
+Perhaps it has enough power to do one small request...,,218582,0,0,0,0,0,4,201752,0,0,0,0,0,0,0
+The blue dragons must be reunited if we are to defend Azeroth once again.,,218583,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Not yet... it will be up to us to stop this.,,218285,0,0,0,0,0,4,201753,0,0,0,0,0,0,0
+I don't suppose any more blue dragons showed up to help?,,218283,0,0,0,0,0,4,203585,0,0,0,0,0,0,0
+,"Vakthros is connected to the major ley lines in Azure Span. If it is destroyed, the Archives would cease to exist... along with the rest of the Azure Span.",218282,0,0,0,0,0,4,0,207309,0,0,0,0,0,0
+I've been looking everywhere for you! I have a very important message!,I've been looking everywhere for you! I have a very important message!,231569,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Lok'tar adventurer. The Kirin Tor are holding our own against the primalists out here, but we can always use more help.",,218291,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Join the Kirin Tor they said, see the world outside of Booty Bay!",,224279,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+I've seen the world outside of Booty Bay and I DON'T LIKE IT!,,224280,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"This thing's taken enough of us down, time for some payback!",,224281,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+I'll join you once I deal with these proto dragons and the swath of elemental magic barraging me from the ground.,,218593,0,0,0,0,0,4,201757,0,0,0,0,0,0,0
+I'll reinforce the wards around the tower and keep Raszageth busy.,,218592,0,0,0,0,0,4,203581,0,0,0,0,0,0,0
+,Your flight lies in ruins. What good did clinging to titan magic do for you?,218595,0,0,0,0,0,4,0,204634,0,0,0,0,0,0
+Raszageth! I am giving you one chance to stop this insanity.,,218594,0,0,0,0,0,4,201758,0,0,0,0,0,0,0
+,At least your predecessor was an Aspect to be feared. You play with powers you do not understand!,218596,0,0,0,0,0,4,0,204635,0,0,0,0,0,0
+"I am no stranger to putting down maddened dragons, Raszageth. You will be nothing more than a footnote in our history.",,218597,0,0,0,0,0,4,201759,0,0,0,0,0,0,0
+Kalecgos!,,218610,0,0,0,0,0,4,203582,0,0,0,0,0,0,0
+Their assaults are overwhelming... I cannot maintain the mirror images any longer!,,218609,0,0,0,0,0,4,201760,0,0,0,0,0,0,0
+,Mortal fools! You fumble with arcane magic and spread its use like blight upon this world!,218611,0,0,0,0,0,4,0,204636,0,0,0,0,0,0
+,I will eradicate your insignificant kind and end your meddling with the unnatural!,218613,0,0,0,0,0,4,0,204637,0,0,0,0,0,0
+"I will focus my efforts on shielding the tower. As long as that stands, we have a chance to stop Raszageth.",,218614,0,0,0,0,0,4,204114,0,0,0,0,0,0,0
+That did it... I can use my mirror images once more! Meet me within the nearby cavern.,,218972,0,0,0,0,0,4,201761,0,0,0,0,0,0,0
+Over here! I've found an area to take cover for a moment.,,224288,0,0,0,0,0,4,201762,0,0,0,0,0,0,0
+Face the might of the Aspect of Magic!,,218617,0,0,0,0,0,4,201763,0,0,0,0,0,0,0
+,Hah! I will put an end to you and your pathetic flight!,218618,0,0,0,0,0,4,0,204638,0,0,0,0,0,0
+,"Your cause is hopeless! Soon this land will lie in ruins, just like your dragonflight!",225146,0,0,0,0,0,4,0,204630,0,0,0,0,0,0
+,Your command of elemental forces would have been a boon to our cause. But you will fall just like the rest!,225147,0,0,0,0,0,4,0,204631,0,0,0,0,0,0
+The shield won't last much longer!,,223042,0,0,0,0,0,4,203595,0,0,0,0,0,0,0
+,"Minions of the storm, hear my call!",225950,0,0,0,0,0,4,0,202122,0,0,0,0,0,0
+,"I may not be able to destroy this tower, but I will have my prize!",225150,0,0,0,0,0,4,0,204633,0,0,0,0,0,0
+,Shall we begin?,218626,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"I depart for Valdrakken shortly, hero. Don't wait for me, I'll be there when you arrive.",,222993,0,0,0,0,0,4,207136,0,0,0,0,0,0,0
+,"These are alarming tidings that you bring us... ah, here is our champion.",217135,0,0,0,0,0,4,0,207042,0,0,0,0,0,0
+,Life's blessings be with you.,222994,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"Allow me to introduce you to Captain Drine, she oversees security here in Valdrakken.",218414,0,0,0,0,0,4,0,207005,0,0,0,0,0,0
+,The Scalesworn of Valdrakken stand ready.,218415,0,0,0,0,0,4,0,208039,0,0,0,0,0,0
+,"So long as you are here to aid Valdrakken, the Scalesworn will be grateful for the assistance.
+
+We trust in those the Aspects trust.",219292,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+,Root out any Primalist that dare infest our city!,219293,0,0,0,0,0,4,0,208050,0,0,0,0,0,0
+,"I doubt the Primalists come to bank vaults to discuss their plans, but we may still overhear something useful. Act like you are inspecting one of the holding chests.",221593,0,0,0,0,0,13,0,208045,0,0,0,0,0,0
+,"Everyone comes to the Roasted Ram eventually. Grab a drink to blend in, but keep your wits about you.",221592,0,0,0,0,0,13,0,208048,0,0,0,0,0,0
+,Welcome to the Roasted Ram! Seating is open.,217470,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+"Welcome to my inn, weary traveler. What can I do for you?","Welcome to my inn, weary traveler. What can I do for you?",16967,0,0,0,65,0,0,0,0,396,0,0,1,0,0
+,"Hello traveler, are you interested in the culinary arts?",229520,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,Many people come here for commerce. Find a place to blend-in with the merchants and keep your ears open.,221591,0,0,0,0,0,4,0,208047,0,0,0,0,0,0
+What?,What?,218489,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+For the Hoard!,For the Hoard!,233147,0,0,4,0,0,4,0,0,0,0,0,0,0,0
+"That is not what they mean, Vekkalis.","That is not what they mean, Vekkalis.",233151,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+Is it not wonderful to see so many others who are excited about banking?,Is it not wonderful to see so many others who are excited about banking?,233148,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+Numernormi chuckles.,Numernormi chuckles.,233150,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Aeoreon sighs.,Aeoreon sighs.,233149,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Well that's silly. Banking is fun!,Well that's silly. Banking is fun!,233152,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+Who maintained these isles over the eons? We did! And what do we get for it? Nothing!,Who maintained these isles over the eons? We did! And what do we get for it? Nothing!,218492,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Come to... finish me off? Primalist... scum!,,219119,0,0,0,0,0,4,207448,0,0,0,0,0,0,0
+"What... Commander Eranog... who are... ahhh, thank you.",,221625,0,0,0,0,0,4,207467,0,0,0,0,0,0,0
+I will make my way to the bridge at the middle of the garrison. Meet me there when you are done.,,221739,0,0,0,0,0,4,207468,0,0,0,0,0,0,0
+The body of this guardian has fine metalwork upon her horns.,The body of this guardian has fine metalwork upon her horns.,221719,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"This dragonkin is covered with burn marks from the spells of the Primalists.
+
+Based upon Velomir's description, this must be Kaora.","This dragonkin is covered with burn marks from the spells of the Primalists.
+
+Based upon Velomir's description, this must be Kaora.",221722,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"This guardian is covered with ghastly wounds. Just as you arrive, you see him struggle, his words caught in a gurgle. He lets out a heavy sigh and slumps to the ground, dead.","This guardian is covered with ghastly wounds. Just as you arrive, you see him struggle, his words caught in a gurgle. He lets out a heavy sigh and slumps to the ground, dead.",221733,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Regrettably, you identify this guardian as Mikor based upon Velomir's description.","Regrettably, you identify this guardian as Mikor based upon Velomir's description.",221735,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"This is the body of a Dragonspawn. Given the heavy armor, it appears this wasn't one of the normal guardians.","This is the body of a Dragonspawn. Given the heavy armor, it appears this wasn't one of the normal guardians.",221706,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"You turn the body over and see many deep wounds with burnt edges. They were likely caused by the molten weapons wielded by the Primalists.
+
+Based upon the heavy armor and Velomir's description you believe this was Sergeant Tagrik.","You turn the body over and see many deep wounds with burnt edges. They were likely caused by the molten weapons wielded by the Primalists.
+
+Based upon the heavy armor and Velomir's description you believe this was Sergeant Tagrik.",221713,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"My best people... lost. We must press forward and see if Commander Eranog has survived. Gather any supplies you can find, we will need all the help we can get.",,221750,0,0,0,0,0,4,207643,0,0,0,0,0,0,0
+,Please... please help my comrades at the South Hold Gate.,231920,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,%s cries.,231919,0,0,0,0,0,4,0,0,18,0,0,0,0,0
+,"I am so sorry, $n.",231918,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Keep the Primalists busy while I search further up the tower for the commander.,,221761,0,0,0,0,0,4,207644,0,0,0,0,0,0,0
+Over here! I think I found Commander Eranog!,,228356,0,0,0,0,0,4,207645,0,0,0,0,0,0,0
+"This is the only place left that Commander Eranog could be. Hopefully, he is safe.",,219248,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+That traitor! Go defeat the Primalist leader here. I will be your rear guard.,,227184,0,0,0,0,0,4,207646,0,0,0,0,0,0,0
+Back... to the... elements...,,221790,0,0,0,0,0,4,207555,0,0,0,0,0,0,0
+I will burn you to cinders!,,227103,0,0,0,0,0,4,207559,0,0,0,0,0,0,0
+Your death will be agony!,,221789,0,0,0,0,0,4,207554,0,0,0,0,0,0,0
+"Thank you, $r, though Eranog's betrayal is painful we have at least reclaimed South Gate Hold.",,221801,0,0,0,0,0,4,207648,0,0,0,0,0,0,0
+"Though my unit fell today, I will always keep the memory of their courage in my heart. May we never falter in our watch for further rebellion. Farewell, $n.",,228574,0,0,0,0,0,4,207649,0,0,0,0,0,0,0
+"I require a moment of your time, hero. I promise it shall not be wasted.",,227194,0,0,0,0,0,4,204895,0,0,0,0,0,0,0
+,"Oh! It's you again! Or is it the first time?
+
+Anyway, hello!",221908,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"We can't let that Infinite turn Nozdormu into his awful, dark, alternate self. I'm going to go try and hold her off, you help Dante sort things out down here!",224205,0,0,1,0,0,4,0,207069,0,0,0,0,0,0
+,"If corrupted, anything could happen! Including... oh no! Murozond!",224204,0,0,1,0,0,4,0,207068,0,0,0,0,0,0
+,"Thank goodness you're here, $p. The timeways are in chaos! We'll need as much help as we can get to fix 'em.",224202,0,0,1,0,0,4,0,207066,0,0,0,0,0,0
+,An Infinite Dragon is trying to corrupt our Bronze Oathstone in the Temporal Conflux. That stone embodies our calling to protect all time.,224203,0,0,1,0,0,4,0,207067,0,0,0,0,0,0
+"Except, some of our ranks are missing.",,225645,0,0,0,0,0,4,207137,0,0,0,0,0,0,0
+,There's nothing the Timewalkers can't fix!,225644,0,0,1,0,0,4,0,207064,0,0,0,0,0,0
+Perhaps the greatest irony of being a Timewalker is having all of time to study and yet no time to study.,,221254,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,I know you'll find everyone and get it figured out. Meet me at the Temporal Conflux after.,221628,0,0,0,0,0,4,0,207065,22,0,0,0,0,0
+We shall do our best. I wonder what is keeping Siaszerathel.,,221629,0,0,0,0,0,4,208147,0,0,0,0,0,0,0
+,Hmmm... Oh! The time magics are... there was a... Thank you!,218944,0,0,0,0,0,4,0,206709,22,0,0,0,0,0
+,"If you want to recover your health with forest fruit laced with unstable temporal energy, do not do it. Trust me. The impact on the body can be time consuming.
+
+Get it? Ha ha--ow.",225724,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,Thank you! Meet me back at the Shifting Sands!,221671,0,0,0,0,0,4,0,206710,1,0,0,0,0,0
+,"Joining the Timewalkers provides an opportunity the Healing Wings never could. You cannot wrap a bandage around time, can you?! Ha!
+
+Wait... can you?",221255,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+We have met. They appear to be another promising new recruit.,,222012,0,0,1,0,0,4,208148,0,1,0,0,0,0,0
+,"Dante, this is the $c I told you about.",222011,0,0,1,0,0,4,0,206711,1,0,0,0,0,0
+Let me know when you are ready.,,221704,0,0,0,0,0,4,208150,0,0,0,0,0,0,0
+"Come along. You as well, Siaszerathel.",,219245,0,0,0,0,0,4,208149,0,0,0,0,0,0,0
+,If only we could skip forward to already being master Timewalkers.,219247,0,0,0,0,0,4,0,206712,0,0,0,0,0,0
+"This will not make you officially a Timewalker. But, you will at least have the proper instruction to keep you safe as you assist us.",,219153,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"That staff is able to harness temporal energy from a source. Please, give it a try.",,219250,0,0,0,0,0,4,208151,0,0,0,0,0,0,0
+Well done! The staff can also be used to redirect the energy collected to a target such as this one.,,219251,0,0,0,0,0,4,208152,0,0,0,0,0,0,0
+"But, please be careful...",,219266,0,0,0,0,0,4,208154,0,0,0,0,0,0,0
+"Excellent! Now, try focusing your staff's energy at this artifact in order to restore it to its time of origin.",,219265,0,0,0,0,0,4,208153,0,0,0,0,0,0,0
+Oh dear! It backfired! Brace yourself!,,221816,0,0,0,0,0,4,208155,0,0,0,0,0,0,0
+"Yet as the great Cataclysm shakes the boughs of their colossal tree, the night elves brace themselves against the coming storm.",,208127,0,0,0,26,0,0,178494,0,0,0,0,0,0,0
+it falls to night elves like you to stand strong and protect the enduring legacy of your people.,,208129,0,0,0,26,0,0,178496,0,0,0,0,0,0,0
+"Malfurion endeavors now to heal the corrupted World Tree Teldrassil, and rejuvenate the spirit of the night elf people.",,208126,0,0,0,26,0,0,178493,0,0,0,0,0,0,0
+As war and destruction close in from all sides,,208128,0,0,0,26,0,0,178495,0,0,0,0,0,0,0
+"Re-united with his love, Tyrande Whisperwind,",,208125,0,0,0,26,0,0,178492,0,0,0,0,0,0,0
+"After years of imprisonment within the Emerald Nightmare, Archdruid Malfurion Stormrage has finally returned to the mortal world.",,208124,0,0,0,26,0,0,178491,0,0,0,0,0,0,0
+"Ah! There you are, $p. This happens sometimes.",,222580,0,0,1,0,0,4,208162,0,0,0,0,0,0,0
+"Really, we must be going.",,223019,0,0,0,0,0,4,208164,0,0,0,0,0,0,0
+We are going back.,,223021,0,0,0,0,0,4,208165,0,0,0,0,0,0,0
+Andantenormu sighs.,,223020,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+We must return to the present however.,,222581,0,0,1,0,0,4,208163,0,0,0,0,0,0,0
+"As you can see, there are serious consequences to wielding time magic improperly.",,221817,0,0,0,0,0,4,208156,0,0,0,0,0,0,0
+,Let me head to the rifts first. See you there!,221712,0,0,0,0,0,4,0,206713,0,0,0,0,0,0
+,This should be easy!,219716,0,0,0,0,0,4,0,206714,0,0,0,0,0,0
+,Not bad! Let me handle the next one by myself!,219709,0,0,0,0,0,4,0,206715,0,0,0,0,0,0
+,The energy from this rift feels... primordial.,219717,0,0,0,0,0,4,0,206716,0,0,0,0,0,0
+,Ready to watch future master Timewalker in action?,226620,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,Oh! This is not good...,219710,0,0,0,0,0,4,0,206717,0,0,0,0,0,0
+,Maybe you should handle this.,226635,0,0,0,0,0,4,0,206718,0,0,0,0,0,0
+,I think a murloc just merged into that timeline...,219711,0,0,0,0,0,4,0,206719,0,0,0,0,0,0
+,Do we really need to tell Dante? It will be fine!,219712,0,0,0,0,0,4,0,206720,0,0,0,0,0,0
+,Uh... you can close this one.,219713,0,0,0,0,0,4,0,206721,0,0,0,0,0,0
+,What is it now?,219714,0,0,0,0,0,4,0,206722,0,0,0,0,0,0
+Ugh... when am I?,,221820,0,0,0,0,0,4,204896,0,0,0,0,0,0,0
+Which timeline is this? When are we?,,219734,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Did you say the Timewalkers? They are here?,,219740,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,Why were you inside that time rift?,219766,0,0,0,0,0,4,0,206723,0,0,0,0,0,0
+,Dante is going to love this.,219769,0,0,0,0,0,4,0,206724,0,0,0,0,0,0
+It is a long story...,,219767,0,0,0,0,0,4,204897,0,0,0,0,0,0,0
+They... I do not know. I did not see any others where I went.,,221151,0,0,1,0,0,4,204899,0,0,0,0,0,0,0
+What of the others with you?,,221150,0,0,6,0,0,4,208158,0,0,0,0,0,0,0
+,In what way?,221155,0,0,6,0,0,4,0,206725,0,0,0,0,0,0
+It was a time that looked much like this... but was vastly different.,,221154,0,0,1,0,0,4,204900,0,0,0,0,0,0,0
+The timeline was chaos. There was destruction everywhere. Few left to save...,,221156,0,0,1,0,0,4,204901,0,0,0,0,0,0,0
+We were defending the Temporal Conflux when fissures in time suddenly opened and pulled us through.,,221149,0,0,1,0,0,4,204898,0,0,0,0,0,0,0
+It is good to see that you have returned safely. What happened?,,221148,0,0,1,0,0,4,208157,0,0,0,0,0,0,0
+Where did you go?,,221152,0,0,6,0,0,4,208159,0,0,0,0,0,0,0
+"No retreat, no surrender!","No retreat, no surrender!",143907,0,0,0,64,0,0,104260,104261,0,0,0,0,0,0
+You cannot stop us!,You cannot stop us!,143904,0,0,0,64,0,0,104256,104257,0,0,0,0,0,0
+I die well...,I die well...,143913,0,0,0,64,0,0,104272,104273,0,0,0,0,0,0
+,Race you Dante!,222913,0,0,0,0,0,4,0,206726,0,0,0,0,0,0
+We will ascend to the temple platforms. Please meet us there when you are ready.,,221732,0,0,0,0,0,4,208160,0,0,0,0,0,0,0
+New recruits...,,222914,0,0,0,0,0,4,208161,0,0,0,0,0,0,0
+,"Whether I am here for a day or millennia, it matters not. I will ensure the rise of our Lord Murozond!",222470,0,0,0,0,0,4,0,207574,0,0,0,0,0,0
+,"Better get comfortable in that bubble, Eternus. I won't let you corrupt our Bronze Oathstone!",222471,0,0,0,0,0,4,0,207057,0,0,0,0,0,0
+,Never! Lord Nozdormu is counting on me!,222472,0,0,0,0,0,4,0,207058,0,0,0,0,0,0
+,"I would never allow the Infinites to succeed, but I wish there was another way to get through to them aside from combat.",216826,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+$n! I require your assistance as well!,,222802,0,0,0,0,0,4,208143,0,0,0,0,0,0,0
+,"I know they are. They were amazing in the past! Or was that the future... or right now? Uh, anyway, I know.",222496,0,0,0,0,0,4,0,207061,0,0,0,0,0,0
+"Do not worry, Ambassador Chronormu. $n is more than capable for this task.",,222494,0,0,0,0,0,4,208144,0,0,0,0,0,0,0
+,"Whoops! Don't worry we can replace those crystals... At least, I think we can.",222883,0,0,0,0,0,4,0,207060,0,0,0,0,0,0
+,It's okay! Just use your staff on the shards instead!,222882,0,0,0,0,0,4,0,207059,0,0,0,0,0,0
+We claim this land!,We claim this land!,143903,0,0,0,64,0,0,104254,104255,0,0,0,0,0,0
+,"I may not be a full Timewalker yet, but I am strong enough to help!",218520,0,0,0,0,0,4,0,206708,0,0,0,0,0,0
+,Your efforts are wasted. I have seen all possible futures. We shall be victorious!,218526,0,0,0,0,0,4,0,207577,0,0,0,0,0,0
+,No! I believe in us! And we won't let you destroy the timeways!,218522,0,0,0,0,0,4,0,207063,0,0,0,0,0,0
+,"We'll hold Eternus in place while you free the Wardens, $n.",218518,0,0,0,0,0,4,0,207062,0,0,0,0,0,0
+"You have our strength, Ambassador Chronormu!",,218519,0,0,0,0,0,4,208145,0,0,0,0,0,0,0
+"Together, our power should be enough!",,218521,0,0,0,0,0,4,208146,0,0,0,0,0,0,0
+,Wardens! We are finally free! Slay this monstrosity and take back the temple!,222576,0,0,0,0,0,4,0,200518,603,0,0,0,0,0
+,Are you ready? This ball full of infinite anger is getting heavier by the millisecond!,216827,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,We must hold to our oath and preserve the timeways.,225181,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,I shall be there at once.,225178,0,0,273,0,0,4,0,208515,0,0,0,0,0,0
+,Chromie... I can't believe what happened!,225077,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,Me? Right! On it!,225180,0,0,66,0,0,4,0,206695,0,0,0,0,0,0
+To be lost in time... That is not a fate I would wish on even an Infinite dragon.,,225082,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Of course, $p.",,225179,0,0,1,0,0,4,208514,0,0,0,0,0,0,0
+I fear time may unravel if we do not act.,,225324,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,Zera! You are with me!,225432,0,0,0,0,0,4,0,208543,0,0,0,0,0,0
+"Soridormi, I will need you to hold the time portal open on the other side.",,225429,0,0,1,0,0,4,208539,0,0,0,0,0,0,0
+,Do not worry beloved. I shall handle it.,225431,0,0,1,0,0,4,0,208541,0,0,0,0,0,0
+I have located the moment in time where we may find Chronormu.,,225428,0,0,1,0,0,4,208538,0,0,0,0,0,0,0
+"My vision did not show me much, I could only see blurs of fire, ice and chaos.",,225430,0,0,1,0,0,4,208540,0,0,0,0,0,0,0
+,"Yes, commander!",225433,0,0,66,0,0,4,0,206696,0,0,0,0,0,0
+,"$p, I sense that Chromie is nearby. We must act quickly!",222536,0,0,0,0,0,4,0,208545,0,0,0,0,0,0
+,"If you need help, call on me and I will be there!",222538,0,0,0,0,0,4,0,206697,0,0,0,0,0,0
+,$p! I just knew Nozdormu would send you!,222622,0,0,0,0,0,4,0,207046,0,0,0,0,0,0
+,"Hurry, mortal. We do not have time to dally.",222623,0,0,0,0,0,4,0,207630,0,0,0,0,0,0
+,This is what you get for trying to interfere with me!,225539,0,0,0,0,0,4,0,207631,0,0,0,0,0,0
+,Uh oh! We're slipping away! Hurry!,225538,0,0,0,0,0,4,0,207047,0,0,0,0,0,0
+"I will go at once, my lord.",,225436,0,0,66,0,0,4,208230,0,0,0,0,0,0,0
+It is... a strange place. I imagine you will find it fascinating.,,225435,0,0,1,0,0,4,208561,0,0,0,0,0,0,0
+"Andantenormu, you shall hold the second portal open.",,225434,0,0,1,0,0,4,208229,0,0,0,0,0,0,0
+,"Oh come on! Being lost in time is no reason to be such a grump, Eternus.",222625,0,0,0,0,0,4,0,207048,0,0,0,0,0,0
+,Your pet mortal found us again. Perhaps this time they will be successful.,222624,0,0,0,0,0,4,0,207634,0,0,0,0,0,0
+,"Hurry, mortal! We are being pulled away again!",225540,0,0,0,0,0,4,0,207638,0,0,0,0,0,0
+,Good try! Please keep looking for us!,225541,0,0,0,0,0,4,0,207049,0,0,0,0,0,0
+"Time is of the essence, $p.",,222647,0,0,0,0,0,4,208232,0,0,0,0,0,0,0
+We do not have much time.,,219985,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Zera and I will do what we can to speed our path through.,,222649,0,0,1,0,0,4,208549,0,0,0,0,0,0,0
+Take care to avoid the combatants.,,222655,0,0,0,0,0,4,208564,0,0,0,0,0,0,0
+The War of the Shifting Sands.,,222654,0,0,0,0,0,4,208563,0,0,0,0,0,0,0
+,Where are we?,222653,0,0,0,0,0,4,0,206702,0,0,0,0,0,0
+,a-authoritarian regime to the curb!,222660,0,0,0,0,0,4,0,206705,0,0,0,0,0,0
+The Pandaren Revolution!,,222656,0,0,0,0,0,4,208565,0,0,0,0,0,0,0
+Zera--,,222659,0,0,0,0,0,4,208566,0,0,0,0,0,0,0
+,I read about this! Those Mogu were vicious!,222657,0,0,0,0,0,4,0,206703,0,0,0,0,0,0
+,Go Pandaren! Kick their a--,222658,0,0,0,0,0,4,0,206704,0,0,0,0,0,0
+,So... This is far in the past? Right?,222663,0,0,0,0,0,4,0,206706,0,0,0,0,0,0
+Yes. From before the Titans found Azeroth. This is when the Elemental lords made war on the Black Empire of the Old Gods.,,222664,0,0,0,0,0,4,208550,0,0,0,0,0,0,0
+I... know you. What you were. What you will yet be.,,226826,0,0,0,0,0,4,203220,0,0,0,0,0,0,0
+You will follow him to the deep places. The dark waters will flow in his wake.,,226829,0,0,0,0,0,4,203217,0,0,0,0,0,0,0
+,"An understatement, as usual.",222667,0,0,0,0,0,4,0,207639,0,0,0,0,0,0
+,I'm so glad you're here! We're definitely in a bit of a situation.,222666,0,0,0,0,0,4,0,207050,0,0,0,0,0,0
+Look! It is Ambassador Chronormu...and Eternus.,,222665,0,0,0,0,0,4,208568,0,0,0,0,0,0,0
+Your allies will leave you behind.,,225559,0,0,0,0,0,4,38783,0,0,0,0,0,0,0
+,Whew! You did it!,222668,0,0,0,0,0,4,0,207051,0,0,0,0,0,0
+,I am also relieved not to be stuck with you for an eternity.,222669,0,0,0,0,0,4,0,207640,0,0,0,0,0,0
+,Chromie Huffs,222670,0,0,0,0,0,4,0,207052,0,0,0,0,0,0
+No one is coming to save you.,,225558,0,0,0,0,0,4,38782,0,0,0,0,0,0,0
+,"This is going to be one doozie of a return spell!
+
+Are you ready?",221907,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Use the staff! Remember your training!,,225550,0,0,0,0,0,4,208551,0,0,0,0,0,0,0
+,"And here comes the Black Empire, right on time.",222673,0,0,0,0,0,4,0,207054,0,0,0,0,0,0
+,If only $p was so timely as well.,222674,0,0,0,0,0,4,0,207629,0,0,0,0,0,0
+"With many eyes, they will see again. They will drink, and be uplifted.",,226831,0,0,0,0,0,4,203218,0,0,0,0,0,0,0
+,So grumpy!,222675,0,0,0,0,0,4,0,207055,0,0,0,0,0,0
+,"I believe in you, $p!",222676,0,0,0,0,0,4,0,206707,0,0,0,0,0,0
+,We just need a moment.,222671,0,0,0,0,0,4,0,207053,0,0,0,0,0,0
+,"Less chatter, more focus.",222672,0,0,0,0,0,4,0,207627,0,0,0,0,0,0
+You will be alone in the end.,,123632,0,0,0,65,0,0,14372,0,0,0,0,0,0,0
+You have already lost.,,225556,0,0,0,0,0,4,38780,0,0,0,0,0,0,0
+Hope is an illusion.,,123634,0,0,0,65,0,0,14374,0,0,0,0,0,0,0
+All that you know will fade.,,123633,0,0,0,65,0,0,14375,0,0,0,0,0,0,0
+"Deeper, deeper its roots will reach. Welcoming our embrace.",,226832,0,0,0,0,0,4,203219,0,0,0,0,0,0,0
+Her dreams sing beneath the surface. Our dreams. Our song.,,226833,0,0,0,0,0,4,203223,0,0,0,0,0,0,0
+,"Keep going, $p! Just a little bit more!",225551,0,0,0,0,0,4,0,207056,0,0,0,0,0,0
+,"This is wonderful news, $p. With each activation, our flights have been renewed to their purpose once more. Now there is but one final step before our aspectral powers can be restored. I must activate the Mother Oathstone.
+
+It has been centuries since it has been seen, let alone used. I will require some time to prepare for the activation ritual.
+
+We are ever closer to being the protectors of Azeroth we were meant to be. I thank you, friend of dragonkind. Your assistance has been a blessing to our flights.",232719,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Don't be afraid to visit our vendors on the lower tier of the Artisan's Market either!,,232882,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+I'm amazed by these dragon forges. They never lose their heat!,I'm amazed by these dragon forges. They never lose their heat!,232883,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+"Need repairs? I'm your lad.
+
+Or feel free to check my wares if you're a fellow smithy!","Need repairs? I'm your lad.
+
+Or feel free to check my wares if you're a fellow smithy!",232886,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Hello, I'd like to buy some health potions please.",,232412,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Sorry, we don't sell healing potions. I can sell you vials if you want to make your own healing potions?",,232450,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Diani is going to give me so much hassle over this.,,232454,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+No... No. Thank you though. Have a good day.,,232451,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"It is no small effort to manage the trade and crafters of a city like Valdrakken, but it is also very fulfilling. How can I assist you today?",,229723,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+The Consortium has quickly proven their business savvy. I've learned much from my Alliance and Horde friends since their arrival!,The Consortium has quickly proven their business savvy. I've learned much from my Alliance and Horde friends since their arrival!,232885,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+"Greetings mortal, how can my knowledge of the beasts of the Dragon Isles assist you today?",,229657,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Valdrakken is certainly thriving, but I often wish I could have seen it in its prime back in the day.","Valdrakken is certainly thriving, but I often wish I could have seen it in its prime back in the day.",232884,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+,Now which part of my library should I teleport in next...?,232857,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+,"Every artifact reveals to us a hidden piece of this land's great history.
+
+And there is so much we have yet to learn. Have you found anything worth studying lately?",232848,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+,We are uncovering incredible insights into the historical biology of proto-dragons!,232858,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+Ye gotta help me. Doc Nanners keeps sending his li'l marmoni friends to tug on me beard! Take one with ye!,,232859,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+"Grab a stool and put yer feet by the fire, friend.
+
+Did I e'er tell you the story of how me granddaughter Toddy first found her gryphon Wildfeather?",,227039,0,0,0,0,0,4,0,0,1,11,0,0,0,0
+Not sure what you'll need out there? Best to take ten of everything. Live to regret a heavier backpack.,,232860,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+"<Pathfinder Jeb inspects the knot on his climbing rope while he speaks.>
+
+New explorers often ask me how I've survived in the wilderness this long.
+
+They expect a deity or a guide, a list of tools, or some lucky trinkets.
+
+But I just tell them one word: prepare. And it's the same thing I'll tell you.
+
+The wilderness is harsh, but if you have a plan and the right supplies...
+
+Well, it hasn't failed me yet.",,226700,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+Our artisans are working on everything from shovels to robot ducklings.,,232861,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+"You looking to craft something?
+
+The expedition's artisans have already designed a heap of new schematics, recipes, and patterns using the plentiful resources of these isles.
+
+Just say what you're looking for.",,232855,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+,The expedition's always looking for new artifacts to add to the archives. Keep me in mind if you find any.,232864,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+,"Are you looking to submit or withdraw an artifact today?
+
+Or maybe you're more interested in the benefits of being an expedition member?",217083,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+,Enough chattin'. An adventure is out there waitin' for ye. Go find it!,232865,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+Valdrakken is happy to have you as a patron and an ally!,,232887,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+So quick to presume the void's influence. Have you never wondered where exactly your Light might lead you? Are you certain you will like what lies at journey's end?,,231586,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,I suppose only time will tell.,231587,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Surely you can see the similarities, Melinor. The void shows us a winding road of infinite possibilities - just like the various timelines we are charged to observe.",,231583,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"Your affinity warps your understanding, Ramaniel. The flow of time is akin to the Light itself. It is a central, singular truth that must be preserved against all threats.",231585,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Ready for a daring course, dragonrider?
+
+Then the Cliffside Circuit is just what you are looking for! 
+
+This cliff-hugging course winds its way along Wild Cliffs before diving into the ravine and careening back up here to the Serene Dream Spa.
+
+If you want to fly it, I hope you are not afraid of heights!","Ready for a daring course, dragonrider?
+
+Then the Cliffside Circuit is just what you are looking for! 
+
+This cliff-hugging course winds its way along Wild Cliffs before diving into the ravine and careening back up here to the Serene Dream Spa.
+
+If you want to fly it, I hope you are not afraid of heights!",225067,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Greetings, dragonrider!
+
+Are you here for the Flowing Forest Flight course?
+
+This course's path takes you through the enchanting Flowing Forest, the Shifting Sands, and past the imposing Temporal Conflux.
+
+Would you like to fly this course?","Greetings, dragonrider!
+
+Are you here for the Flowing Forest Flight course?
+
+This course's path takes you through the enchanting Flowing Forest, the Shifting Sands, and past the imposing Temporal Conflux.
+
+Would you like to fly this course?",223373,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Greetings, dragonrider.
+
+The course laid out before you is called the Tyrhold Trial. Dragonriders fly with their drake above the Passage of Time and around the grounds of Tyrhold.
+
+And while you're aloft, remember... This land is the home of dragons! You and your drake may find some helpful magic along the way!
+
+What say you? Care to try the Tyrhold Trial?","Greetings, dragonrider.
+
+The course laid out before you is called the Tyrhold Trial. Dragonriders fly with their drake above the Passage of Time and around the grounds of Tyrhold.
+
+And while you're aloft, remember... This land is the home of dragons! You and your drake may find some helpful magic along the way!
+
+What say you? Care to try the Tyrhold Trial?",224729,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Dragonrider!
+
+Good to see someone has made it here to my perch!
+
+This course is called the Academy Ascent. It takes you all around the majestic grounds of the Algeth'ar Academy.
+
+And, as this is a place once home to dragons, there's a little magic here and there to help you stay aloft.
+
+Just... don't look down.
+
+Are you and your drake ready, dragonrider?","Dragonrider!
+
+Good to see someone has made it here to my perch!
+
+This course is called the Academy Ascent. It takes you all around the majestic grounds of the Algeth'ar Academy.
+
+And, as this is a place once home to dragons, there's a little magic here and there to help you stay aloft.
+
+Just... don't look down.
+
+Are you and your drake ready, dragonrider?",225185,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Greetings, dragonrider.
+
+Welcome to the Caverns Criss-cross!
+
+This course takes you through the Chittering Caverns and gnoll lands before winding its way back to Drake Grotto.
+
+The Criss-cross has many switchbacks and tight turns, so hold on tight to your drake!
+
+Would you like to try this course?","Greetings, dragonrider.
+
+Welcome to the Caverns Criss-cross!
+
+This course takes you through the Chittering Caverns and gnoll lands before winding its way back to Drake Grotto.
+
+The Criss-cross has many switchbacks and tight turns, so hold on tight to your drake!
+
+Would you like to try this course?",228723,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,We've hunted the watertight hides of the creatures here for ages. Would you mind adding a few more to our stores?,230135,0,0,0,0,0,4,0,207823,0,0,0,0,0,0
+,Those tarasek have made off with our supplies. Get 'em back!,225192,0,0,0,0,0,4,0,204683,0,0,0,0,0,0
+,That'll teach those thievin' scoundrels to mess with us!,225194,0,0,0,0,0,4,0,204684,0,0,0,0,0,0
+"Okay hotshot, take my copter into the air. Make sure to be gentle about it! You need to keep it runnin' to generate enough juice for the missiles.",,229572,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+"Yep, I said missiles. We're gonna give this pile of titan junk a proper wake up call.",,229254,0,0,0,0,0,4,0,0,25,0,0,2000,0,0
+Primed and ready! HIT IT!,,229575,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Ey, it's workin'!",,229256,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+"Uhh, which can't be said about the gyrocopter. Eject, eject!",,229621,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+That looks charged up to me. You wanna do the honors?,,231514,0,0,603,0,0,4,0,0,0,0,0,0,0,0
+,"Welcome, adventurer.",229814,0,0,1,0,0,4,0,210372,0,0,0,0,0,0
+,"Greetings, mortal.",231669,0,0,0,64,0,2,0,210098,0,0,0,0,0,0
+"By the way, you owe me a gyrocopter.",,229764,0,0,603,0,0,4,0,0,0,0,0,0,0,0
+,"Seek out my statue in the Azure Span, and we shall see if you are up to the challenge.",229816,0,0,0,0,0,4,0,210374,0,0,0,0,0,0
+,"To claim the power of the Engine, you first must prove you are worthy of Tyr's invention.",229815,0,0,0,0,0,4,0,210373,0,0,0,0,0,0
+What's up?,,232685,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+The riders are gathering. Last call for sign ups.,The riders are gathering. Last call for sign ups.,217160,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+All riders have been picked for this race.,All riders have been picked for this race.,217162,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+And they're off!,And they're off!,217161,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,You have created your first Spark of Ingenuity. I am sure you shall use it wisely.,231622,0,0,1,0,0,4,0,210384,0,0,0,0,0,0
+The race is over!,The race is over!,217445,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,You have not shied way from your first challenge. An excellent sign.,226914,0,0,1,0,0,4,0,210376,0,0,0,0,0,0
+,"For this trial, you must leave the comfort of the ground behind.",226759,0,0,0,0,0,4,0,210377,0,0,0,0,0,0
+,And rely only on your finesse and precision to collect the enchanted rings.,231540,0,0,0,0,0,4,0,210379,0,0,0,0,0,0
+,Good luck.,229817,0,0,0,0,0,4,0,210380,0,0,0,0,0,0
+,You have done well and earned your reward.,226885,0,0,1,0,0,4,0,210390,0,0,0,0,0,0
+,"Until we meet again, adventurer.",226890,0,0,1,0,0,4,0,210381,0,0,0,0,0,0
+,Safe travels.,226916,0,0,51,0,0,4,0,210382,0,0,0,0,0,0
+,"Welcome back, adventurer.",230719,0,0,1,0,0,4,0,210383,0,0,0,0,0,0
+,Welcome adventurer! Would you like to list a crafting order with us today?,233159,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,At Algeth'ar Academy we believe in teaching by example. Please show these students how it is done.,225301,0,0,0,0,0,4,0,208130,0,0,0,0,0,0
+,Another A plus performance from my favorite student.,225300,0,0,0,0,0,4,0,208131,0,0,0,0,0,0
+,Marvelous quality! Should be plenty for the winter to come.,230137,0,0,0,0,0,4,0,207824,0,0,0,0,0,0
+,Great fish gather in droves! Go. Gather meat for us and bring back stories of your exploits!,224650,0,0,0,0,0,4,0,203900,0,0,0,0,0,0
+,What a haul! Certainly worthy of a tale or two of your own.,230134,0,0,0,0,0,4,0,207822,0,0,0,0,0,0
+,The magic surrounding this area has gone wild. This untamed instability is a threat to our allies. Do what you can to restore order.,225372,0,0,0,0,0,13,0,206272,0,0,0,0,0,0
+,Aelnara cringes.,217409,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"<A small metal flask bearing the monogram ""M.I"".>",,217996,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+<Mordigan's pants lie discarded on the ground. This can't be good.>,,218002,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+I be having a cup of tea.,I be having a cup of tea.,221991,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+"No! Ya father say to stay here, so here we be staying.","No! Ya father say to stay here, so here we be staying.",221994,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+,We must recover the artifact. It is much to powerful to fall into the Sundered Flame's hands.,224200,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+What's that? Ya say ya looking for... vegetable matter?,,226283,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"A second taste reveals that the soup... WHILE AMAZING... has some distinct areas of opportunity.
+
+First, there's something off about the flavor profile. The seasoning is excellent, and there aren't any unpleasant flavors, but there's just... something.
+
+The mouthfeel could also be better. Is it too thick? Too slimy? Too... wiggly? Further investigation is required.","A second taste reveals that the soup... WHILE AMAZING... has some distinct areas of opportunity.
+
+First, there's something off about the flavor profile. The seasoning is excellent, and there aren't any unpleasant flavors, but there's just... something.
+
+The mouthfeel could also be better. Is it too thick? Too slimy? Too... wiggly? Further investigation is required.",228783,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Aha! There it is. 
+
+Pinching your nose has removed all aromas, really allowing you to really focus on flavor. You can detect a bit of sourness which - while interesting - is not what this soup needs. Not today. 
+
+A bit of cream will buffer out that acid and bring the soup back into balance.","Aha! There it is. 
+
+Pinching your nose has removed all aromas, really allowing you to really focus on flavor. You can detect a bit of sourness which - while interesting - is not what this soup needs. Not today. 
+
+A bit of cream will buffer out that acid and bring the soup back into balance.",228788,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"The world goes dark around you as you take your third taste. Rich, fishy liquid coats your mouth. It's more viscous than most soups. Maybe it needs some water to thin it out a bit?
+
+No. We need to go THICKER.
+
+The soup currently sits in the uncanny valley of soups - not quite a consomme, but not yet a chowder. Adding some seaweed will stiffen the broth and really bring this soup home.","The world goes dark around you as you take your third taste. Rich, fishy liquid coats your mouth. It's more viscous than most soups. Maybe it needs some water to thin it out a bit?
+
+No. We need to go THICKER.
+
+The soup currently sits in the uncanny valley of soups - not quite a consomme, but not yet a chowder. Adding some seaweed will stiffen the broth and really bring this soup home.",228789,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Your always-reliable left nostril instantly reveals the truth. Nothing is WRONG with this soup, but it's missing a key ingredient: spice. 
+
+Adding some pepper - or a suitably peppery fish - will improve this broth more than anything else.","Your always-reliable left nostril instantly reveals the truth. Nothing is WRONG with this soup, but it's missing a key ingredient: spice. 
+
+Adding some pepper - or a suitably peppery fish - will improve this broth more than anything else.",228790,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"Sweets? Bahaha.
+
+<Osila takes a large bite of the tart.>
+
+Did Odgerel send you? She knows I can't resist a good tart. While tradition does dictate an exchange of offerings between families, true compatibility comes from ancestral guidance.
+
+Fetch some Cirrus flowers and place them before the burial mound. We will consult the bloodline.",230007,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Yes, you may. Thank you for continuing the classes, despite the odd conditions.",,232188,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+"Looking for Tuukanit? He's right inside this tent, studying with the chieftain.",,233023,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Fireweed.,Fireweed.,86904,0,0,0,64,0,0,0,0,0,0,0,0,0,0
+"Ok commander, I am currently planting Fireweed. Would you like me to switch to something specific?","Ok commander, I am currently planting Fireweed. Would you like me to switch to something specific?",86911,0,0,0,64,0,0,0,0,0,0,0,0,0,0
+"They paired me with Lathos--again.
+
+I'm a man of innovation... of progress! My inventions are revolutionary!
+
+But Lathos... He's always on and on about the importance of protocol. And his military experience makes him bossy.
+
+I think I get on his nerves... but maybe that will change when he sees how useful my invention is!","They paired me with Lathos--again.
+
+I'm a man of innovation... of progress! My inventions are revolutionary!
+
+But Lathos... He's always on and on about the importance of protocol. And his military experience makes him bossy.
+
+I think I get on his nerves... but maybe that will change when he sees how useful my invention is!",217505,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+Why hi there! Come to take a load off while studying in the Azure Archives? You've come to the right place!,,217970,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"<Dwarf boots, very worn.>",,218001,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"Would you care to see how close the Winterpelt are to throwing off the yoke of the Titans? They may have turned their backs on their true heritage and spurned our offer of friendship, but the truth cannot be denied!",218206,0,0,6,0,0,4,0,0,0,0,0,0,0,0
+,"It seems that even with all the gifts I could give them, these furbolg are not up to the task. A pity.",218208,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+"Thank you, Rannan, for the concern.","Thank you, Rannan, for the concern.",218269,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Oh now that is quite the story friend! See, I come from a long line of shamans. My parents were shamans, my mother's mother was a shaman, my father's grandfather was a shaman.
+
+Not me. I couldn't communicate with the elements to save my life. My father blamed himself, said it was from the fel energy he took way back in the day. 
+
+Well, I eventually get into arcane magic, thanks to a blood elf mage I met. Turns out I had a real talent for it! 
+
+My parents were not happy that their son couldn't speak to the elements and chose not to be a warrior. 
+
+After I joined the Kirin Tor, I tried to have a feast with my parents. That was when it all came together.",,218293,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"The feast wasn't going great if I'm being honest with you. My parents were still upset I chose to read books instead of fight in the wars. 
+
+That's when the Burning Legion began their invasion. We were caught in the middle of a massive fight.
+
+A felhound had cornered by mother and father. I took a scroll that had an obsidian tip on it...
+
+... and stabbed the felhound through its skull! 
+
+My mother and father saw that day there was value in books and gave me the name Scrollstabber.",,218298,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+What was that?,What was that?,218335,0,0,603,0,0,4,0,0,1,0,0,0,0,0
+"Great news! $p just disowned you, and I'm not an elf. See? No pointy ears. Let's go!","Great news! $p just disowned you, and I'm not an elf. See? No pointy ears. Let's go!",218479,0,0,603,0,0,4,0,0,0,0,0,0,0,0
+"Shorel'aran Rannan. Goodbye, my friend.","Shorel'aran Rannan. Goodbye, my friend.",218678,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Ah, the traveler who has pledged their assistance.
+
+Take one of our bakars and search for the clan's missing sheep. Lead them back here.","Ah, the traveler who has pledged their assistance.
+
+Take one of our bakars and search for the clan's missing sheep. Lead them back here.",218992,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,The wildlife certainly is! And I think that's what really counts.,222168,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"Keshki nods along, listening to their friend tell her tale.",222238,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"Meet you down by the pool! C'mon, Keshki!",222356,0,0,22,0,0,4,0,0,0,0,0,0,0,0
+"These documents refer to a ""Tharohn"" as the leader of this contingent of Sundered Flame.
+
+She sounds very ambitious and ruthless--a dangerous combination of traits.
+
+These ruins lay atop what she refers to as a ""point of power."" I think we can safely say she wishes to claim it for the Sundered Flame--and herself.
+
+But it is unclear what she will do with it once she harnesses it...","These documents refer to a ""Tharohn"" as the leader of this contingent of Sundered Flame.
+
+She sounds very ambitious and ruthless--a dangerous combination of traits.
+
+These ruins lay atop what she refers to as a ""point of power."" I think we can safely say she wishes to claim it for the Sundered Flame--and herself.
+
+But it is unclear what she will do with it once she harnesses it...",223221,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+"... and we have no idea who Tharohn is either... are you listening to me, Rannan?",,223553,0,0,603,0,0,4,0,0,0,0,0,0,0,0
+"Oh, I want to give him the world! But impossibilities aside, I want something that shows him my enduring love.
+
+There are some elementals not too far from here, over near Hornswog Hollow, whose spirited energy embodies my passion for him. Could you gather some of their spirited energy for me?",,223588,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"Yes. And you and your ""Dragonscale Expedition"" can do nothing to stop us.",223804,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+I suppose it's time I unleash the ancient powers of --,,224230,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Oh! Well... I can't miss dinner. Until next time, fair challenger!",,224232,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"At first, you will only gather normal quality reagents |A:Professions-Icon-Quality-Tier1-Small:20:20|a. As you advance your skill in gathering, you will start to find higher quality |A:Professions-Icon-Quality-Tier2-Small:20:20|a, and eventually the best quality |A:Professions-Icon-Quality-Tier3-Small:20:20|a materials.
+
+Increase your gathering skill to find higher quality reagents.","At first, you will only gather normal quality reagents |A:Professions-Icon-Quality-Tier1-Small:20:20|a. As you advance your skill in gathering, you will start to find higher quality |A:Professions-Icon-Quality-Tier2-Small:20:20|a, and eventually the best quality |A:Professions-Icon-Quality-Tier3-Small:20:20|a materials.
+
+Increase your gathering skill to find higher quality reagents.",224562,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Rannan laughs.,,224782,0,0,11,0,0,4,0,0,0,0,0,0,0,0
+"Oh my, ... It's gorgeous!",,225042,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Oh wow, they're incredible! You are so amazing, thank you!
+
+Miguel will be thrilled to see such beautiful spirits.",,225826,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+I hope Beef is doing okay alone. Hornswogs can be stressed if away from their mates. We left his mate Wellington back at camp in case something went wrong.,I hope Beef is doing okay alone. Hornswogs can be stressed if away from their mates. We left his mate Wellington back at camp in case something went wrong.,226033,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Welcome, dragonrider!
+
+Ready for a jaunty course that takes you and your drake through the beautiful Garden of Unity?
+
+Then you're ready for the garden Garden Gallivant.
+
+Want to try it? You can really smell the blossoms on the breeze...","Welcome, dragonrider!
+
+Ready for a jaunty course that takes you and your drake through the beautiful Garden of Unity?
+
+Then you're ready for the garden Garden Gallivant.
+
+Want to try it? You can really smell the blossoms on the breeze...",226052,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"Ah, the Rugged Dragonscale. All aboard for adventure, my friends!",226079,0,0,1,0,0,7,0,202303,0,0,0,0,0,0
+Ah! Nothin' like home-brewed mead!,,226614,0,0,603,0,0,4,0,0,0,0,0,0,0,0
+"Please, not in front of the $c!",,226681,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"This tea house is meant to be a place of rest and companionship for those journeying to Valdrakken. Now it is a triage camp - and for some, a grave.
+
+How could this have happened? We have only ever known peace here.",,226930,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+A sketch of one was in this week's expedition missive. Did you not read it?,,227008,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"No... It's not supposed to be doing that, is it?",,227089,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"It has been a strange day, but I am nevertheless grateful for your aid, $n. Without your help, I may have been left to the mercy of those tarasek. What's more, it seems that Alvi has gained a little bit of much-needed self-confidence.
+
+I owe you thanks on both ends, then - from myself, and from my sister.",227151,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"We have saved who we can. We must get through Balakar's lieutenant, Kharad, to reach the Horn.",227659,0,0,1,0,0,4,0,206799,1,0,0,0,0,0
+,"The pictures aren't just smooth, they are FLUFFY!",228921,0,0,0,0,0,4,0,205965,0,0,0,0,0,0
+,"<Keshki lights up at the opportunity to tell you about frogs.>
+
+Frogs have really good vision! The way their eyes stick out helps them see almost all the way around--even behind them. They can see in the dark, too.
+
+But that's not the best part! When they swallow a bug, they can pull their eyeballs in and use them to help push food down their throats! Isn't that cool?",229200,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"The Obsidian Outcasts could use your help. We're going to reclaim Dragonbane Keep from the djaradin.
+
+You could be the reason Wellington reunites with his husband, Beef. How could you say no to that face?",,229743,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+,"I've never met a beast I couldn't win over. I've worked with rockfangs, hornstriders, even thunder lizards! 
+
+But no animal can beat a bakar in loyalty and honor.",230420,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+"I am going to go talk with the professor, come meet me when you are done!",,230463,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"The quiet one in the corner, right? I saw you talking to him. That's the first time I've heard him speak in days.
+
+I'll get him another ale. What are you having?
+
+No charge for either of you. I'm glad to see he has some company.",,230490,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Congratulations student. You have passed the elementary level of rune creation. This was designed for--,,230693,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Are you looking to travel to the Dragon Isles? The Rugged Dragonscale can get you there in no time.,,231944,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+,No point waitin' for a bigger boat. That's the Rugged Dragonscale on the docks.,232043,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+You're in luck! The Rugged Dragonscale is in port right now. Hop on while you can!,,232044,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+,"Everything's set for the expedition!
+
+Our scouting crew's got a wee base built on the shores, and our ship's hauling crew and supplies over non-stop.
+
+Stick close, the Rugged Dragonscale'll be here soon to pick us up!",232401,0,0,0,0,0,4,0,0,1,4,0,0,0,0
+"This city is truly a wonder. And its inhabitants have--for the most part--been quite welcoming.
+
+One even offered me a book. I assumed it would be a training manual, but instead it is a work of fiction describing the adventures of a character named Marcus.
+
+We dracthyr were trained to be soldiers, and were given very little free time to pursue reading for the sake of enjoyment. But I like this book. Perhaps I may even try my hand at writing a story of my own!",,232805,0,0,669,0,0,4,0,0,0,0,0,0,0,0
+I've been drying this seaweed for the soup. It should be ready now!,,233019,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,How may I help?,233826,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"First, the blade must be fed with the souls of those who serve our enemy. Then, before the blade draws upon their power, I must encase it in Shadowfrost. This will insulate you from the corrupting voices that would otherwise consume you... I hope. ",,37194,0,0,0,65,0,0,0,0,0,0,0,0,0,0
+"<This is not Boku. 
+
+Some of the centaur's wounds look like they were inflicted with magic. Perhaps he is one of Boku's attackers.
+
+The dead centaur's hand is clutching an object. Prying it loose will take some work..>","<This is not Boku. 
+
+Some of the centaur's wounds look like they were inflicted with magic. Perhaps he is one of Boku's attackers.
+
+The dead centaur's hand is clutching an object. Prying it loose will take some work.>",219154,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,I remember Teera well. You are... so much like her. I accept your offering.,221837,0,0,2,0,0,7,0,205436,0,0,0,0,0,0
+"Well, Toddy didn't really find Wildfeather... Wildfeather found her!
+
+When Toddy was but a wee little lass, she wandered off from camp-as she's wont to do, ye know.
+
+<Grandpap Whiskers laughs as he recalls old memories.>
+
+And, also as she's wont to do, she got 'erself into trouble!
+
+Right into a pack of forest trolls she wandered! Nasty 'uns, out fer blood.
+
+There, she was, cornered at the base of Jintha'Alor... when a fierce gryphon cry rings out over the whole hinterlands!
+
+Wildfeather swooped in, scared off the trolls, picked up Toddy on her back, and they've been inseparable e'er since!
+
+It's e'en more impressive, considerin' Wildfeather had hatched just the day before!
+
+It's all true, of course.",,227040,0,0,0,0,0,4,0,0,1,11,0,0,0,0
+Adventurers! We shall depart for the Dragon Isles shortly.,,215662,0,0,1,0,0,12,209276,0,0,0,0,0,0,0
+,"The Defiant Dragonscale in all its... spiky glory. All aboard for adventure, my friends!",217898,0,0,1,0,0,7,0,202307,0,0,0,0,0,0
+"Welcome to the Dragon Isles, adventurers!",,218402,0,0,1,0,0,12,209277,0,0,0,0,0,0,0
+"Explorers, ahoy! We set sail for the Dragon Isles in short order.",,218405,0,0,1,0,0,12,203547,0,0,0,0,0,0,0
+"Welcome to the Dragon Isles, explorers!",,218406,0,0,1,0,0,12,203548,0,0,0,0,0,0,0
+,Finally. I could have flown there and back again by now.,219364,0,0,1,0,0,7,0,202308,0,0,0,0,0,0
+,"I did not mind at all. While waiting, I captured some vibrant images of the coastal wildlife.",219366,0,0,1,0,0,7,0,202309,0,0,0,0,0,0
+,You'll get plenty of pictures in the Dragon Isles. So many new species to document!,219367,0,0,1,0,0,7,0,202310,0,0,0,0,0,0
+And maybe get eaten by. Hah!,,219368,0,0,1,0,0,7,202311,0,0,0,0,0,0,0
+"Expedition to the Dragon Isles? Sounds fun! Bet they've got plenty of soaring peaks to climb. Wrap it up, trainees! We're moving out!",,225019,0,0,1,0,0,7,202321,0,0,0,0,0,0,0
+,"Are you certain that it is wise to fly an enormous, clanking gunship into the domain of dragons?",226075,0,0,6,0,0,14,0,207923,0,0,0,0,0,0
+"I captained hundreds of smuggling operations launched right under Elisande's nose. If anyone understands subtlety in navigation, it is I.",,226076,0,0,1,0,0,14,209280,0,0,0,0,0,0,0
+Corkscrews! The boat ruined my perfect shot! I almost had it...,,226080,0,0,1,0,0,7,202297,0,0,0,0,0,0,0
+"You'll get lots of pictures in the Dragon Isles, Wulferd. Imagine all the ancient wonders we'll be discovering!",,226081,0,0,1,0,0,7,202304,0,0,0,0,0,0,0
+I still say we could've crammed into my mole machine and gotten there faster.,,226082,0,0,1,0,0,7,202305,0,0,0,0,0,0,0
+"We dracthyr would rather fly home than ride a wooden vessel as it drifts upon the waves. But I pledged to accompany your expedition, so... waves it is.",,226083,0,0,1,0,0,7,202306,0,0,0,0,0,0,0
+,Surely one of your airships would be faster than plodding along in this boat?,226089,0,0,6,0,0,14,0,204594,0,0,0,0,0,0
+,I suppose that is an understandable fear for a flightless creature.,226091,0,0,1,0,0,14,0,204595,0,0,0,0,0,0
+"You really want to fly an airship into a sky full of dragons, ensign? Besides, our tidesages are puttin' in work.",,226093,0,0,6,0,0,14,203549,0,0,0,0,0,0,0
+I've been sharing schematics with the engineers from Azeroth. Gnomish technology is... unique.,,91024,0,0,0,64,0,0,0,0,0,0,0,0,0,0
+,"Our first combat mission, time to prove that Bravery isn't just a name.",93869,0,0,0,64,0,0,0,53292,0,0,0,0,0,0
+Whirlwind is not the only attack you can use against multiple enemies.,,109854,0,0,0,64,0,0,0,0,0,0,0,0,0,0
+,Whirlwind is not the only attack you can use against multiple enemies.,118270,0,0,0,64,0,0,0,0,0,0,0,0,0,0
+We will need these soldiers. Denathrius is not the only threat we will need to face. Find enough anima to awaken as many of the stoneborn as you can.,,186845,0,0,0,0,0,0,163431,0,0,0,0,0,0,0
+,A camera is like a cannon in many ways...,216129,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+"Clan Nokhud can be quite... aggressive. Tomul, accompany our friend to make their introductions.",,221808,0,0,1,0,0,1,205729,0,0,0,0,0,0,0
+"The Sands of Time are plentiful, but precious.",,223748,0,0,0,64,0,4,200494,0,0,0,0,0,0,0
+,I protect the Sands of Time.,223835,0,0,0,64,0,2,0,208463,0,0,0,0,0,0
+,"That the sands would take you here, $c, welcome. What trade brings you here?",224784,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Your courage will fail.,,225552,0,0,0,0,0,4,8582,0,0,0,0,0,0,0
+You will betray your friends.,,225554,0,0,0,0,0,4,8584,0,0,0,0,0,0,0
+You will die.,,225555,0,0,0,0,0,4,8585,0,0,0,0,0,0,0
+"Emulsifying liquid? Hm. Awfully reductive way to phrase it.
+
+Nevertheless, I can be of service. What are your tasting preferences?",,226491,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Fine then! Here! Just have your 'emulsifying liquid', without a care for its complexity!",,226539,0,0,22,0,0,4,0,0,0,0,0,0,0,0
+,This city is full of places to explore--and rocks to climb! You interested in a lesson?,215734,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+,"The expedition is always looking for new challenges, so keep an eye out for other rock climbers!",216056,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+,This cub needs help immediately. Let's go!,217037,0,0,0,0,0,4,0,0,4,0,0,0,0,0
+,"<The heavily wounded cub is oddly still. She emits a half whine, half growl as you approach.>",217295,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"Let's return to camp for now, Acadia. $p, we'll meet you there!",219441,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+<Frantic scratching and squeaking can be heard within the incense burner.>,<Frantic scratching and squeaking can be heard within the incense burner.>,219500,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Phew. Good work, $n. I think this is far enough. No need to make you come the rest of the way.",,219703,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Where Ohn'ahra flies is home.,Where Ohn'ahra flies is home.,219801,0,0,0,64,0,2,198307,198308,0,0,0,0,0,0
+,So she followed the gleam in the water all the way to an i-inlwet. The riverbed there was made of sparkly crystal!,219847,0,0,669,0,0,4,0,0,0,0,0,0,0,0
+,"Kauriq skimmed across the ocean surf faster than a dragon's flight. She boasted she could outpace dolphins, whales, or even Niliuq, the Spirit of the Ocean!",219859,0,0,669,0,0,4,0,0,0,0,0,0,0,0
+Let me have a look at you.,Let me have a look at you.,219972,0,0,0,64,0,2,198588,198589,0,0,0,0,0,0
+Shall we talk awhile?,Shall we talk awhile?,220911,0,0,0,64,0,2,198365,198366,0,0,0,0,0,0
+Shall we talk awhile?,Shall we talk awhile?,220944,0,0,0,64,0,2,198411,198412,0,0,0,0,0,0
+"In unity, we find strength.","In unity, find strength.",221063,0,0,0,64,0,2,199493,199494,0,0,0,0,0,0
+Come in order.,Come in order.,221300,0,0,0,64,0,4,199289,199290,0,0,0,0,0,0
+Stay within order.,Stay within order.,221333,0,0,0,64,0,4,199229,199230,0,0,0,0,0,0
+Order guide you.,Order guide you.,221336,0,0,0,64,0,4,199233,199234,0,0,0,0,0,0
+May I serve you again.,May I serve you again.,221408,0,0,0,64,0,4,198811,198812,0,0,0,0,0,0
+Defend the order.,Defend the order.,221444,0,0,0,64,0,4,198845,198846,0,0,0,0,0,0
+Take your leave.,Take your leave.,221553,0,0,0,64,0,4,198717,198718,0,0,0,0,0,0
+,And it will be his undoing. But only the Dreamer can unleash its full potential.,221582,0,0,0,0,0,4,0,205715,0,0,0,0,0,0
+"My spirit is bound to these walls and their cold vigil. They bear witness to the greatest of loves. Malygos and Sindragosa. The Lord of Magic and his Azure Queen. 
+
+It was for their love that I built these works, and it is from that love that a desperate tether binds my spirit. Time and circumstance are cruel stewards, to lovers and art alike. 
+
+A part of me cannot accept that.",,221663,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+Ungh...,,222247,0,0,0,0,0,4,202508,0,0,0,0,0,0,0
+"I'm not little--I'll heal just fine, Olekk! Let me walk it off.",,222332,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Destroy these graverobbers, and return our ancestors to their rest, before they are forced to fight in Balakar's name.",,222575,0,0,0,0,0,4,205506,0,0,0,0,0,0,0
+,"The gardens of the Ruby Life Pools are lush and plentiful. Tend to them and harvest our bounty, so that all creatures may feel welcome here.",222584,0,0,1,0,0,13,0,205202,0,0,0,0,0,0
+,My khan is at our outpost nearby. Follow this path through the swamp... and try not to get eaten.,223041,0,0,1,0,0,1,0,205776,0,0,0,0,0,0
+"This once placid spring is now pushed to bursting by the Primalists. Destroy them, before they flood the whole valley.",,223177,0,0,1,0,0,13,203529,0,0,0,0,0,0,0
+,Rot and die!,223328,0,0,0,0,0,3,0,203448,0,0,0,0,0,0
+,"Radiya. Face your Ohn, now. Radiya?",223375,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"<Godoloto ruffles her feathers, pleased that you have followed. She tilts her head.>
+
+<You feel airy. Weightless. Your feet lift off the ground.>
+
+<You're ready to move.>",223875,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Yes. She'll recover with some time. I'll leave you two be.,,223991,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,Let's have a look at you.,224470,0,0,0,64,0,2,0,202886,0,0,0,0,0,0
+"An excellent question! Lately, I have been taking in the wonderful sights of these plains.
+
+When I explore the unknown and hidden paths, I sometimes find treasures of wisdom that inspire me to craft in ways I never thought of before.
+
+There is a marvelous vista nearby. I encourage you to venture out and see its beauty for yourself. Perhaps you too will find insight there.",,224646,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,Let fly!,225208,0,0,0,0,0,4,0,205514,0,0,0,0,0,0
+,Focus fire!,225209,0,0,0,0,0,4,0,205515,0,0,0,0,0,0
+This is what has become of our legacy?,,225225,0,0,0,0,0,4,203860,0,0,0,0,0,0,0
+,Just how much more of Neltharion's legacy is out there to be found?,225327,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+"I will guide you as best I can, $p.",,225562,0,0,1,0,0,4,202993,0,0,0,0,0,0,0
+,"Please, $p. Save all of my people that you can. And honor the memories of the fallen.",225775,0,0,1,0,0,4,0,202451,0,0,0,0,0,0
+,"Before we were placed in stasis, I never considered myself apart from the weyrn. I was a talon first and foremost. My skill as an engineer or a mage only mattered insofar as I could disable titan technology. It did not matter that I liked pulling things apart and putting them back together again. That I felt alive doing so.
+
+When the creche... <Eraleshk sighs, pulling their injured wing closer.> I lost my identity in the collapse, not just a wing or a leg. I thought that my new self would be defined by that loss, that it made me stronger.
+
+I think instead, I would prefer to just be me. To live. And to tinker with artifacts as long as the Expedition allows.",226192,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+,What in the Dreamer's name happened here? I thought Thaldraszus was meant to be a peaceful home for dragonkind. This is a war zone!,226951,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,Broil!,227142,0,0,0,0,0,4,0,205390,0,0,0,0,0,0
+,Roast in flames!,227143,0,0,0,0,0,4,0,205391,0,0,0,0,0,0
+,An embarassment of riches!,227145,0,0,0,0,0,4,0,205395,0,0,0,0,0,0
+Worthless! I will dispose of the outsiders myself!,,227240,0,0,0,0,0,4,205555,0,0,0,0,0,0,0
+One moment while I prepare the medicine...,,227584,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+Please excuse the mess! It has been quite some time since students have been here. I am just putting together my lesson plan.,,227679,0,0,0,0,8000,3,204583,0,0,0,0,0,0,0
+"Though Vexamus tried its best to defeat the dragons, it was ultimately destroyed. Well done!",,227693,0,0,0,0,9000,3,204574,0,0,0,0,0,0,0
+,"O' Elements of the Plains, you shall accept the centaur. We are blessed by Wind, your kin.
+
+Young one, return to the Elder who gave you the knowledge to witness me, Himia, the Blessed.",228086,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,"Please, if you could, clear them out while we realign the life magics of this place?",228116,0,0,0,0,0,3,0,204703,0,0,0,0,0,0
+What are you waiting for? You're ready to hunt! Find an active Grand Hunt and prove your strength!,,228189,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+,"Taivan has just never really been good at anything. He's huge, clumsy, and requires so much food every day.",228331,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+,The Stronghinges of Three-Falls Lookout forgot to order supplies again! We need someone to hunt and gather to keep the place going.,228774,0,0,1,0,0,13,0,205955,0,0,0,0,0,0
+,That should be enough until our caravan gets there. Good job! I knew the Dragonscale Expedition could count on ye.,228775,0,0,1,0,0,13,0,205956,0,0,0,0,0,0
+,"I'm a simple lass. I see a wall, and I want it climbed. Go on, then!",228840,0,0,0,0,0,13,0,205950,0,0,0,0,0,0
+"Much later, another tribe came upon the cave. They found the elders--what remained of them.","Much later, another tribe came upon the cave. They found the elders--what remained of them.",228977,0,0,669,0,0,4,0,0,0,0,0,0,0,0
+,Necromancers? On our sacred grounds?,230285,0,0,0,0,0,4,0,207978,0,0,0,0,0,0
+"Little Dipper they shall be, my dear.",,230522,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"This will be a great location for a Grand Hunt, come back later when we're ready to begin and you have proven yourself able to join us.","This will be a great location for a Grand Hunt, come back later when we're ready to begin and you have proven yourself able to join us.",231796,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Why are you bothering me during a Grand Hunt?,Why are you bothering me during a Grand Hunt?,231797,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Word is that I'm not the only one who can't get goods into or out of Kalimdor.,Word is that I'm not the only one who can't get goods into or out of Kalimdor.,54417,0,0,1,65,0,0,0,0,1,0,0,0,0,0
+"I've repaired several ley lines, and our friend here helped repair a major one. Has the oathstone been repowered?",,218008,0,0,0,0,0,4,201751,0,0,0,0,0,0,0
+I'm just someone trying to help this land heal.,,218278,0,0,669,0,0,4,201716,0,6,0,0,0,0,0
+,Rescued. Safe. None remain in the clutches of the Primalists.,218506,0,0,1,0,0,4,0,205091,0,0,0,0,0,0
+"This power is meant to be studied and harnessed, not feared! You would kill those who seek to use it for the greater good?",,218612,0,0,0,0,0,4,203583,0,0,0,0,0,0,0
+Seek sanctuary in my runes!,,218621,0,0,0,0,0,4,201764,0,0,0,0,0,0,0
+"Fine, I'll say it. You should probably tell Noriko about this.",,219162,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+,The Khanam Matra asked us for more details on enemy positions. Bond with my eagle once more to see through its eyes. Are you ready?,222159,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+,Chief Ponoliak was a great fighter. He once took a blow from a charging bruffalon for me. That would have killed a lesser man.,222726,0,0,1,0,0,4,0,207277,0,0,0,0,0,0
+They're infusing an Ancient with that rot! It could spread decay around the Span faster than a wildfire!,,222895,0,0,669,0,0,4,201718,0,0,0,0,0,0,0
+"I'm sorry for the delay. I'll join you soon, but I think these tuskarr may have some valuable information.",,223370,0,0,669,0,0,4,201738,0,0,0,0,0,0,0
+I... yes. It's been a while. Please let me know the moment you need anything. I won't be long.,,223376,0,0,669,0,0,4,201739,0,0,0,0,0,0,0
+"<There are wicked daggers embedded in this corpse. The blades are clearly of gnoll design, but you saw no such weapons with the Shadepaw gnolls.>","<There are wicked daggers embedded in this corpse. The blades are clearly of gnoll design, but you saw no such weapons with the Shadepaw gnolls.>",224144,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Adventurer, you made it not a moment too soon. Raszageth is draining the tower of its energy!",,225145,0,0,0,0,0,4,203580,0,0,0,0,0,0,0
+,"<Slyvie's eyes are wide and locked on you. 
+
+She's stopped struggling against the mages, but she is clearly frightened.
+
+Arcane magic radiates off of her and she looks very ill.>",225451,0,99665,0,0,0,4,0,0,0,0,0,0,0,0
+"Ah, ye mean that whirlwind of questions? Aye, he spent some time lookin' over me shoulder. Fretting the whole time, too!
+
+I let him give the ol' hammer a go... broke the shaft clean in two! That seemed to upset him. He asked if I had any spare nails, then disappeared. I didn't even get the chance to tell him how good of an arm he had! 
+
+I think he chewed Toninaar's ear a bit as well.",,226095,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+"Aha, this is an excellent vintage for you. Buttery and crisp, it pairs well with shellfish.",,226563,0,0,397,0,0,4,0,0,0,0,0,0,0,0
+,"Once more, defend me!",230187,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"$n. I know your name from Alia. She thought so many awful things about you. Were you aware of that?
+
+I know things seemed a bit hostile before, but there's no need for you to destroy me. 
+
+Some considered me a ""cursed"" artifact, but my power changes depending on who wields me! 
+
+Surely you would do better than all those before you. I can see it as clear as the pages in my book!",,230542,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+I failed my people in Silvermoon City. I will not fail them again.,I failed my people in Silvermoon City. I will not fail them again.,218476,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+"Easy there, Pepper. What's gotten into you?","Easy there, Pepper. What's gotten into you?",132808,0,0,0,64,0,0,0,0,0,0,0,0,0,0
+"Welcome to the great city of Valdrakken. 
+
+It has been centuries since the Aspects have been back to their seat of power and the streets were filled with liveliness. I am deeply grateful to Queen Alexstrasza for saving me, so that I might see the city prosperous once more.",,234866,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+,We will take it from here. You should meet with Merithra along the path. Go back up the hill. You will find her near the arch over the path that leads to the isle.,222728,0,0,1,0,0,7,0,207103,0,0,0,0,0,0
