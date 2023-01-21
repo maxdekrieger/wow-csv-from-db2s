@@ -80338,3 +80338,5 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 142761,,140434,1,0,57960,8,0
 142762,Win 100 Rated Solo Shuffle rounds while at Elite rank during Dragonflight Season 1.,0,0,4,0,0,0
 142763,,142762,100,0,57961,0,1
+142945,10.0 Professions Onboarding Skip Completed (DNT),0,0,4,0,0,0
+142946,,142945,1,0,58087,0,2

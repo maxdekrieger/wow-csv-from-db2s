@@ -7803,7 +7803,7 @@ ID,Description_lang,Type,Amount,ObjectID,OrderIndex,Flags,StorageIndex,QuestID
 428709,Pacified Frogs Collected,0,12,190981,0,0,0,67009
 428710,Hornswogs Disciplined,0,8,191960,1,0,1,67009
 428715,,0,1,188687,0,0,2,67010
-428716,Elementals slain,0,8,188688,1,0,3,67010
+428716,Elementals slain,0,4,188688,1,0,3,67010
 428719,Animals Rescued,0,15,189993,0,0,2,67012
 428720,Elementals slain,0,10,191977,1,0,3,67012
 428727,Gorlocs slain,0,15,191993,0,0,0,67014
