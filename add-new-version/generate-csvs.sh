@@ -61,8 +61,7 @@ fi
 
 # Pull latest versions of submodules
 git submodule update --init --recursive
-git submodule update --remote --merge
-git submodule update --init --recursive
+git submodule update --remote --merge --recursive
 
 # Build DBC2CSV
 printf "Building DBC2CSV..."
