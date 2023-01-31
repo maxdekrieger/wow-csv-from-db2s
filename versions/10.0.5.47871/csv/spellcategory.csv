@@ -815,3 +815,4 @@ ID,Name_lang,Flags,UsesPerWeek,MaxCharges,ChargeRecoveryTime,TypeMask
 2102,10.0 Raid - Primalist - Zone - Zone Control - Wind Elemental Elevator - Up and Down Cover Spells,0,0,0,0,0
 2105,Class - Priest - Pain Suppression,0,0,1,180000,0
 2106,Felguard,0,0,0,0,0
+2130,Soul Swap,0,0,0,30000,0
