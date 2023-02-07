@@ -1,0 +1,21 @@
+ID,Text_lang,Title_lang,ConditionID
+3,"The Winter Queen has asked for you to deliver a message to Sire Denathrius, the Master of Revendreth. You will need his help for the coming conflict.",Welcome to Revendreth,0
+111,Test,,0
+158,"Following an unprovoked assault on Bastion, you were tasked with journeying to Maldraxxus and investigating why the armies of the dead have betrayed their oath to defend the Shadowlands.",Champion of Pain,0
+277,"Using a set of blueprints you recovered and the destructive capabilities of the G.M.O.D. at your disposal, you and Gallywix managed to destroy an airship utilized by High Tinker Mekkatorque and set Alliance interests in Drustvar back even further.",,0
+468,"Scalecommander Emberthal blazed on to the scene, exterminating an attacking band of tarasek. She shared the sad news with you and the other scalecommanders that she was the only survivor of her weyrn.
+
+She also imparted wisdom of how evokers like yourself are the elite soldiers of the dracthyr, trained by all five weyrns to be masters of magic and draconic heritage. As such, she had some thoughts on how best to levy your skills to rescue the other creches of dracthyr.",,100158
+467,"Escaping the War Creche, you and your fellow dracthyr found yourselves in the overgrown and ruined Old Weyrn Grounds, the ancient training and parade grounds of the dracthyr. 
+
+When investigating a large arcane beacon, you were granted a vision of several similar beacons placed in front of the other creches of the dracthyr. Each is struck by calamity and conflict. 
+
+You also briefly saw a vision of two black dragons high in the sky.",Old Weyrn Grounds,100153
+464,"You discovered and awoke Scalecommander Azurathel and several other dracthyr. No one can recall what happened, or why blue dragon magic was used to conjure a stasis. 
+
+How much time has passed? Where is the Earth-Warder, Neltharion, the black dragon who sired the dracthyr?",,100150
+463,You awoke from a magical stasis you have no memory of entering. Unstable ruins and shattered memories are your only clues to a life that feels like a vague recollection.,The War Creche,95579
+465,"Falling back on training, you and the other dracthyr arm yourselves and press towards the exit of the War Creche. Along the way you are joined by Scalecommande Cindrethresh. 
+
+However, the way is barred by a blue dragon and his drakonid minions. Their only purpose for being here seems to prevent the dracthyr from escaping into the world.",,100151
+466,"After a pitched battle, you and the dracthyr fight your way past the blue dragon and their minions and escape the War Creche. But the dragon has collapsed the entryway behind you.",,100152
