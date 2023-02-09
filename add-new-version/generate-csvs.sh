@@ -52,9 +52,9 @@ csv_file_count=`ls -1 $csv_dir/*.csv 2>/dev/null | wc -l`
 if [ ! "$csv_file_count" -eq "0" ]; then
     printf "There are already CSV files in the csv/ directory of version $version.\n"
 
-    read -p "Are you sure you want to overwrite the CSV files (y/n)? " -n 1 -r
+    read -p "Are you sure you want to overwrite the CSV files (y/n)? "
     echo
-    if [[ ! $REPLY =~ ^[Yy]$ ]]; then
+    if [ ! "$REPLY" != "${REPLY#[Yy]}" ]; then
         exit
     fi
 fi
