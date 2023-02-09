@@ -48,7 +48,7 @@ if [[ ! -e "$csv_dir" ]]; then
 fi
 
 # Check if csv files are already present and ask to overwrite
-csv_file_count=`ls -1 $db2_dir/*.db2 2>/dev/null | wc -l`
+csv_file_count=`ls -1 $csv_dir/*.csv 2>/dev/null | wc -l`
 if [ ! "$csv_file_count" -eq "0" ]; then
     printf "There are already CSV files in the csv/ directory of version $version.\n"
 
