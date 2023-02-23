@@ -81108,3 +81108,5 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 142099,Climbing world quest complete,0,8,5,0,0,1
 142227,Kauriq Gleamlet,142067,0,0,57559,1,1
 141989,Taivan's Purpose,141988,0,0,57378,0,1
+143989,Primal Invocation [DNT],0,0,4,0,0,0
+143990,,143989,0,0,55404,0,0

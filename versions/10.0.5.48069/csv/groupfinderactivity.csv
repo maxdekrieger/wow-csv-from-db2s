@@ -741,7 +741,7 @@ ID,FullName_lang,ShortName_lang,GroupFinderCategoryID,OrderIndex,GroupFinderActi
 1188,Uldaman: Legacy of Tyr (Mythic Keystone),Mythic+,2,4,309,194,385,99867,2451,8,0,5,1,0,0
 1189,Vault of the Incarnates (Normal),Normal,3,1,310,35,376,103977,2522,14,0,30,0,0,0
 1190,Vault of the Incarnates (Heroic),Heroic,3,2,310,35,389,103977,2522,15,0,30,0,0,0
-1191,Vault of the Incarnates (Mythic),Mythic,3,3,310,35,402,5793,2522,16,0,20,0,0,0
+1191,Vault of the Incarnates (Mythic),Mythic,3,3,310,35,402,103977,2522,16,0,20,0,0,0
 1192,Temple of the Jade Serpent (Mythic Keystone),Mythic+,2,4,61,194,0,98034,960,8,0,5,1,0,0
 1193,Shadowmoon Burial Grounds (Mythic Keystone),Mythic+,2,3,12,194,359,98028,1176,8,0,5,1,0,0
 1194,Uldaman: Legacy of Tyr (Normal),Normal,2,1,309,99,0,105577,2451,1,0,5,1,0,0

@@ -1,4 +1,4 @@
-ID,Order,ItemID,Field_10_0_0_44649_003,Field_10_0_0_44649_004,ModifiedCraftingCategoryID
+ID,OrderIndex,ItemID,MaxDifficultyAdjustment,ReagentEffectPct,ModifiedCraftingCategoryID
 1,0,190099,0,0,57
 2,1,190100,0,0,57
 3,2,190101,0,0,57
