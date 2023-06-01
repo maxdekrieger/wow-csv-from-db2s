@@ -32510,8 +32510,7 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 43408,Wyrmrest Temple,43389,0,0,27880,14,0
 43409,,15229,50000,0,27881,8,3
 43410,Obtain a Cindermane Charger mount through the Recruit-a-Friend program.,0,1,8,0,0,0
-43411,,43410,0,0,27882,0,2
-43412,,43410,1,0,27883,1,2
+43412,,43410,1,0,27883,0,2
 43413,Obtain the Grave Golem pet from the Heroes of the Storm promotion.,0,1,4,0,0,0
 43414,,43413,1,0,27884,0,2
 43415,Broken Shore - Alliance - Stage 2b - Portal,0,0,4,0,0,0
