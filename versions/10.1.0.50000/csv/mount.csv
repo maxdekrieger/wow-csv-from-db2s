@@ -336,7 +336,7 @@ Corrupted Hippogryph,|cFFFFD200Vendor: |rLandro Longshot|n|cFFFFD200Location:|r 
 Darkmoon Dancing Bear,|cFFFFD200Vendor: |rLhara|n|cFFFFD200Zone: |rDarkmoon Island|n|cFFFFD200Cost: |r180|Hcurrency:515|h|TINTERFACE\ICONS\INV_Misc_Ticket_Darkmoon_01.blp:0|t|h|n|n,"These fearsome mounts have a habit of suddenly breaking out into dance amid battle, much to the annoyance of their riders.",434,230,0,2,103081,0,0,4,0,0
 Mountain Horse,|cFFFFD200Vendor: |rAstrid Langstrump|n|cFFFFD200Zone: |rDarnassus|n|cFFFFD200Cost: |r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,Images of this breed are often found on kegs of watered-down dwarven brew.,435,230,0,2,103195,0,0,4,0,0
 Swift Mountain Horse,|cFFFFD200Vendor: |rAstrid Langstrump|n|cFFFFD200Zone: |rDarnassus|n|cFFFFD200Cost: |r10|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,Longs for the day it may return to its home in Gilneas.,436,230,0,2,103196,0,0,4,0,0
-Tyrael's Charger,|cFFFFD200Promotion:|r Diablo III Annual Pass|n,A symbol of justice throughout all known realms.,439,248,64,7,107203,0,0,226,0,0
+Tyrael's Charger,|cFFFFD200Trading Post|r,A symbol of justice throughout all known realms.,439,248,64,2,107203,0,0,226,0,0
 Spectral Gryphon,|cFFFFD200Promotion:|r Scroll of Resurrection|n,"When you said an old friend was coming back, this was not quite what I expected. -Bralla Cloudwing",440,248,196,7,107516,0,0,4,0,0
 Spectral Wind Rider,|cFFFFD200Promotion:|r Scroll of Resurrection|n,How do you not fall right through that thing? -Maztha,441,248,196,7,107517,0,0,4,0,0
 Blazing Drake,|cFFFFD200Drop:|r Elementium Fragment|n|cFFFFD200Location:|r Dragon Soul,"Blazing Drakes exhibit a boundless passion for life, and are considered by many to be among the most loyal mounts on Azeroth.",442,248,128,0,107842,0,0,4,0,0
