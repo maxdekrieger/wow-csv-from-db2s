@@ -1,0 +1,23 @@
+ID,Text_lang,Title_lang,ConditionID
+3,"The Winter Queen has asked for you to deliver a message to Sire Denathrius, the Master of Revendreth. You will need his help for the coming conflict.",Welcome to Revendreth,0
+111,Test,,0
+158,"Following an unprovoked assault on Bastion, you were tasked with journeying to Maldraxxus and investigating why the armies of the dead have betrayed their oath to defend the Shadowlands.",Champion of Pain,0
+277,"Using a set of blueprints you recovered and the destructive capabilities of the G.M.O.D. at your disposal, you and Gallywix managed to destroy an airship utilized by High Tinker Mekkatorque and set Alliance interests in Drustvar back even further.",,0
+586,You were informed that Murik in Iskaara wanted to speak to you regarding a tuskarr tribe in The Waking Shores.,The Chieftain's Duty,103125
+713,"Two great armies are at war. The Horde has burned down Teldrassil, former home of the night elves. In retaliation, King Anduin Wrynn and Genn Greymane have ordered the combined might of the Alliance to attack the Ruins of Lordaeron and the Undercity.
+
+After the Alliance took Varok Saurfang prisoner and cornered Lady Sylvanas Windruner within the keep, the Banshee Queen unleashed blight throughout the city, forcing both sides to depart. As the death toll increases, the Battle for Azeroth continues...",Battle for Lordaeron,49081
+320,"With the aid of Jaina's invisibility spell, you and your allies snuck past Zovaal's Cauldron, witnessing mighty armies being rallied by the Jailer for an unknown purpose.",Zovaal's Cauldron,86383
+321,"You found the dormant waystone, which immediately responded to your presence. Sensing this, the Jailer sent the entirety of his forces to prevent your escape. While your allies fought to buy time, the waystone activated and freed you from the Maw.
+
+Though you were narrowly able to escape, your allies were taken by the Jailer. You arrived alone in the mysterious city of Oribos.",The Waystone,86384
+319,"Though you rescued Baine from the Mawsworn forces in Detrithus, he was afflicted by a spirit poison that prevented his wounds from healing. You and Thrall sought out the Wither Blade used to poison the High Chieftain and destroyed it, restoring Baine's health.",Baine's Rescue,86382
+315,"With the aid of Mograine, you captured one of the more ancient, hostile souls in hopes of it knowing a way to escape the Maw.",,86370
+312,"The descent into the Maw scattered your forces, who were quickly overwhelmed by the Mawsworn. Only Mograine and a handful of Ebon Blade Death Knights remained as you began your search.",,86364
+317,"Mograine's interrogation proved fruitful, and the soul revealed a possible exit via an ancient waystone located near a place called Zovaal's Cauldron. Mograine and the Ebon Blade remained to guard the souls saved from the Tremaculum, awaiting your signal to regroup.",A Possible Path,86380
+311,"Bolvar has learned that the leaders have been taken to a prison realm in the Shadowlands called ""The Maw"". Accompanied by Darion Mograine and the Ebon Blade, your goal was to infiltrate the Maw, locate your allies, and find a way to escape.",Into the Maw,86359
+310,"After learning of the abduction of several faction leaders by Sylvanas's forces, you have been summoned to the Frozen Throne to discuss a plan of action with Highlord Bolvar Fordragon.",At the Frozen Throne,86358
+318,"En route to Zovaal's Cauldron you encountered Helya, who cast you into Gorgoa, the River of Souls. You escaped the soul stream only to witness Baine being thrown off of Zovaal's Cauldron by the Jailer.","Gorgoa, the River of Souls",86381
+313,You discovered Jaina defending an injured Thrall against Mawsworn forces.,,86374
+314,"You retreated to a nearby cave, where Jaina and Thrall recounted their time in the Maw. It appears that they were being tested by a mysterious figure known as the Jailer, with whom Sylvanas has allied. Jaina knew the whereabouts of the others, but was unsure how to escape the Maw.",Forlorn Respite,86369
+316,"Jaina and Thrall accompanied you to the Tremaculum, where Anduin was last seen. After evading a confrontation with Sylvanas and defeating the warden holding Anduin captive, you and your allies returned to Forlorn Respite to check on Mograine's progress interrogating the ancient soul.",The Tremaculum,86371
